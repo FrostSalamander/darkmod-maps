@@ -1,0 +1,2433 @@
+Version 2
+// entity 0
+{
+"classname" "worldspawn"
+// primitive 0
+{
+brushDef3
+{
+( 0 0 1 -321 ) ( ( 0.0625 0 88.28125 ) ( 0 0.0625 28.625 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 1358 ) ( ( 0.0625 0 35.375 ) ( 0 0.0625 15.84375 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 405 ) ( ( 0.0625 0 88.28125 ) ( 0 0.0625 15.84375 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -1678 ) ( ( 0.0625 0 28.625 ) ( 0 0.0625 15.84375 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -533 ) ( ( 0.0625 0 103.71875 ) ( 0 0.0625 15.84375 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 313 ) ( ( 0.0625 0 88.28125 ) ( 0 0.0625 34.375 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 1
+{
+brushDef3
+{
+( 0 0 1 -313 ) ( ( 0.0625 0 88.28125 ) ( 0 0.0625 28.625 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 1350 ) ( ( 0.0625 0 35.375 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 405 ) ( ( 0.0625 0 88.28125 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 185 ) ( ( 0.0625 0 88.28125 ) ( 0 0.0625 35.375 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -533 ) ( ( 0.0625 0 103.71875 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -1358 ) ( ( 0.0625 0 29.625 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 2
+{
+brushDef3
+{
+( 0 1 0 1358 ) ( ( 0.0625 0 35.375 ) ( 0 0.0625 14.84375 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 405 ) ( ( 0.0625 0 88.28125 ) ( 0 0.0625 14.84375 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 177 ) ( ( 0.0625 0 88.28125 ) ( 0 0.0625 35.375 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -1678 ) ( ( 0.0625 0 28.125 ) ( 0 0.0625 14.84375 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -533 ) ( ( 0.0625 0 103.71875 ) ( 0 0.0625 14.84375 ) ) "textures/common/caulk" 0 0 0
+( 0 0 1 -185 ) ( ( 0.0625 0 88.28125 ) ( 0 0.0625 29.625 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 3
+{
+brushDef3
+{
+( 0 0 1 -313 ) ( ( 0.0625 0 101.40625 ) ( 0 0.0625 28.8125 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 405 ) ( ( 0.0625 0 101.40625 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 185 ) ( ( 0.0625 0 101.40625 ) ( 0 0.0625 35.1875 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -1686 ) ( ( 0.0625 0 28.8125 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -533 ) ( ( 0.0625 0 90.59375 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 1678 ) ( ( 0.0625 0 34.1875 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 4
+{
+brushDef3
+{
+( 0 0 1 -313 ) ( ( 0.0625 0 88.875 ) ( 0 0.0625 29.3125 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 1358 ) ( ( 0.0625 0 34.6875 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 185 ) ( ( 0.0625 0 88.875 ) ( 0 0.0625 34.6875 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -1678 ) ( ( 0.0625 0 29.3125 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -541 ) ( ( 0.0625 0 103.125 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 533 ) ( ( 0.0625 0 88.875 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 5
+{
+brushDef3
+{
+( 0 0 1 -313 ) ( ( 0.0625 0 88.875 ) ( 0 0.0625 20.8125 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 1358 ) ( ( 0.0625 0 43.1875 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 185 ) ( ( 0.0625 0 88.875 ) ( 0 0.0625 43.1875 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -1678 ) ( ( 0.0625 0 20.8125 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -405 ) ( ( 0.0625 0 103.125 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 397 ) ( ( 0.0625 0 88.875 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 6
+{
+brushDef3
+{
+( 0 0 1 -313 ) ( ( 0.0625 0 93.78125 ) ( 0 0.0625 28.625 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 1438 ) ( ( 0.0625 0 35.375 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 405 ) ( ( 0.0625 0 93.78125 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 185 ) ( ( 0.0625 0 93.78125 ) ( 0 0.0625 35.375 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -533 ) ( ( 0.0625 0 98.21875 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -1446 ) ( ( 0.0625 0 29.625 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 7
+{
+brushDef3
+{
+( 0 0 1 -313 ) ( ( 0.0625 0 96.28125 ) ( 0 0.0625 28.625 ) ) "textures/common/caulk" 0 0 0
+( 0 1 0 1478 ) ( ( 0.0625 0 35.375 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( 1 0 0 405 ) ( ( 0.0625 0 96.28125 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 185 ) ( ( 0.0625 0 96.28125 ) ( 0 0.0625 35.375 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 -533 ) ( ( 0.0625 0 95.71875 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+( 0 -1 0 -1486 ) ( ( 0.0625 0 29.625 ) ( 0 0.0625 15.34375 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 8
+{
+brushDef3
+{
+( 0 0 1 -86 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/darkmod/wood/panels/panel_carved_rectangles_01_walnut" 0 0 0
+( 0 1 0 -680 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/darkmod/wood/panels/panel_carved_rectangles_01_walnut" 0 0 0
+( 1 0 0 -577 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/darkmod/wood/panels/panel_carved_rectangles_01_walnut" 0 0 0
+( 0 0 -1 78 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/darkmod/wood/panels/panel_carved_rectangles_01_walnut" 0 0 0
+( 0 -1 0 264 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/darkmod/wood/panels/panel_carved_rectangles_01_walnut" 0 0 0
+( -1 0 0 17 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0 ) ) "textures/darkmod/wood/panels/panel_carved_rectangles_01_walnut" 0 0 0
+}
+}
+// primitive 9
+{
+brushDef3
+{
+( 0 0 1 102 ) ( ( 4.783776767910812e-19 -0.0078125 -0.3125 ) ( 0.0078125 4.783776767910812e-19 -0.484375 ) ) "textures/darkmod/wood/boards/polished_shiny" 0 0 0
+( 0 1 0 -870 ) ( ( 4.783776767910812e-19 -0.0078125 0.171875 ) ( 0.0078125 4.783776767910812e-19 0.140625 ) ) "textures/darkmod/wood/boards/polished_shiny" 0 0 0
+( 1 0 0 -548 ) ( ( 4.783776767910812e-19 -0.0078125 -0.3125 ) ( 0.0078125 4.783776767910812e-19 0.140625 ) ) "textures/darkmod/wood/boards/polished_shiny" 0 0 0
+( 0 0 -1 -110 ) ( ( 4.783776767910812e-19 -0.0078125 -0.3125 ) ( 0.0078125 4.783776767910812e-19 0.171875 ) ) "textures/darkmod/wood/boards/polished_shiny" 0 0 0
+( 0 -1 0 264 ) ( ( 4.783776767910812e-19 -0.0078125 -0.484375 ) ( 0.0078125 4.783776767910812e-19 0.140625 ) ) "textures/darkmod/wood/boards/polished_shiny" 0 0 0
+( -1 0 0 22 ) ( ( 4.783776767910812e-19 -0.0078125 0.0625 ) ( 0.0078125 4.783776767910812e-19 0.140625 ) ) "textures/darkmod/wood/boards/polished_shiny" 0 0 0
+}
+}
+// primitive 10
+{
+patchDef3
+{
+"textures/darkmod/decals/lace/lace_oval_01"
+( 3 3 1 1 0 0 0 )
+(
+( ( 170.5000305175781 455.5000305175781 -79.5 0 0 ) ( 157.0000305175781 455.5000305175781 -79.5 0 -0.5 ) ( 143.5000305175781 455.5000305175781 -79.5 0 -1 ) )
+( ( 170.5000305175781 483.2500305175781 -79.5 0.5 0 ) ( 157.0000305175781 483.2500305175781 -79.5 0.5 -0.5 ) ( 143.5000305175781 483.2500305175781 -79.5 0.5 -1 ) )
+( ( 170.5000305175781 511.0000305175781 -79.5 1 0 ) ( 157.0000305175781 511.0000305175781 -79.5 1 -0.5 ) ( 143.5000305175781 511.0000305175781 -79.5 1 -1 ) )
+)
+}
+}
+// primitive 11
+{
+brushDef3
+{
+( 0 0 1 -136 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 1 0 -704 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 1 0 0 -592 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 -1 0 248 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( -1 0 0 0 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 0 -1 128 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+}
+}
+// primitive 12
+{
+brushDef3
+{
+( 0 0 1 -104 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 1 0 -697 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 1 0 0 -592 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 0 -1 -120 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 -1 0 694 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( -1 0 0 520 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 13
+{
+brushDef3
+{
+( 0 0 1 -136 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 1 0 -704 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 1 0 0 -592 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 0 -1 -120 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 -1 0 248 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( -1 0 0 584 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+}
+}
+// primitive 14
+{
+brushDef3
+{
+( 0 1 0 -704 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 1 0 0 -592 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 0 -1 -120 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 -1 0 248 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( -1 0 0 0 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 0 1 112 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+}
+}
+// primitive 15
+{
+brushDef3
+{
+( 0 0 1 -136 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 1 0 0 -592 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 0 -1 -120 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 -1 0 248 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( -1 0 0 0 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 1 0 -256 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+}
+}
+// primitive 16
+{
+brushDef3
+{
+( 0 0 1 -136 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 1 0 -704 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 0 -1 -120 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 -1 0 248 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( -1 0 0 0 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 1 0 0 -8 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+}
+}
+// primitive 17
+{
+brushDef3
+{
+( 0 0 1 102 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 1 0 -1182 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 1 0 0 -557 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 0 -1 -110 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( 0 -1 0 870 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+( -1 0 0 277 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/wood/boards/dark_varnished" 0 0 0
+}
+}
+// primitive 18
+{
+brushDef3
+{
+( 0 0 1 -88 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/plaster/stucco_01" 0 0 0
+( 0 1 0 -1177 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/plaster/stucco_01" 0 0 0
+( 1 0 0 -557 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/plaster/stucco_01" 0 0 0
+( 0 0 -1 80 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/plaster/stucco_01" 0 0 0
+( 0 -1 0 872 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/plaster/stucco_01" 0 0 0
+( -1 0 0 277 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/plaster/stucco_01" 0 0 0
+}
+}
+// primitive 19
+{
+brushDef3
+{
+( 0 0 1 -136 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 1 0 -1202 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 1 0 0 -579 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 -1 0 850 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( -1 0 0 251 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 0 -1 128 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+}
+}
+// primitive 20
+{
+brushDef3
+{
+( 0 0 1 -136 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 1 0 -1202 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 1 0 0 -579 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 0 -1 -120 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( -1 0 0 251 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 -1 0 1194 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+}
+}
+// primitive 21
+{
+brushDef3
+{
+( 0 0 1 -136 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 1 0 -1200 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 1 0 0 -581 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 0 -1 -120 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 -1 0 848 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( -1 0 0 573 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+}
+}
+// primitive 22
+{
+brushDef3
+{
+( 0 1 0 -1202 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 1 0 0 -579 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 0 -1 -120 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 -1 0 850 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( -1 0 0 251 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 0 1 112 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+}
+}
+// primitive 23
+{
+brushDef3
+{
+( 1 0 0 -576 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 0 -1 -96 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 -1 0 677 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 1 0 -680 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( -1 0 0 520 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 1 -16 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 24
+{
+brushDef3
+{
+( 0 0 1 -136 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 1 0 -1200 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 0 -1 -120 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 -1 0 872 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( -1 0 0 253 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 1 0 0 -261 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+}
+}
+// primitive 25
+{
+brushDef3
+{
+( 0 1 0 -699 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/editor/visportal" 0 0 0
+( 0 0 -1 -120 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/nodraw" 0 0 0
+( 0 -1 0 696 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/nodraw" 0 0 0
+( 1 0 0 -520 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/nodraw" 0 0 0
+( -1 0 0 440 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/nodraw" 0 0 0
+( 0 0 1 -8 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/nodraw" 0 0 0
+}
+}
+// primitive 26
+{
+brushDef3
+{
+( 0 0 1 -104 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 1 0 -695 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 0 -1 -120 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( -1 0 0 1 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 -1 0 692 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 1 0 0 -441 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 27
+{
+brushDef3
+{
+( 0 0 1 -104 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 1 0 -697 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 0 -1 0 694 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/carpet/rugs/ornate_vines" 0 0 0
+( 1 0 0 -520 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 440 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 8 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 28
+{
+brushDef3
+{
+( 0 0 -1 -72 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 -1 0 677 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( -1 0 0 248 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 1 0 -680 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 1 0 0 -440 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 1 -16 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 29
+{
+brushDef3
+{
+( 0 0 1 -104 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 1 0 0 -576 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 -1 0 677 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 1 0 -680 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( -1 0 0 520 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 16 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 30
+{
+brushDef3
+{
+( 0 0 1 -103 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 -1 0 677 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( -1 0 0 248 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 1 0 -680 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 1 0 0 -440 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 16 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 31
+{
+brushDef3
+{
+( 0 0 1 -104 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 -1 0 677 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 0 1 0 -680 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_iron02" 0 0 0
+( 1 0 0 -520 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 440 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 16 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 32
+{
+brushDef3
+{
+( 0 0 1 -84 ) ( ( 0 0.0625 977.9761962890625 ) ( -0.03125 0 27.636962890625 ) ) "textures/darkmod/wood/panels/walnut_panel01" 0 0 0
+( 0 -1 0 685.6184043884277 ) ( ( 0.03125 0 997.363037109375 ) ( 0 0.005208333488553762 1.041666626930237 ) ) "textures/darkmod/wood/panels/walnut_panel01" 0 0 0
+( -1 0 0 527.3815956115723 ) ( ( 0.0625 0 977.9761962890625 ) ( 0 0.005208333488553762 1.041666626930237 ) ) "textures/darkmod/wood/panels/walnut_panel01" 0 0 0
+( 0 0 -1 -108 ) ( ( 0 -0.0625 977.9761962890625 ) ( 0.03125 0 2021.363037109375 ) ) "textures/darkmod/wood/panels/walnut_panel01" 0 0 0
+( 0 1 0 -701.6184043884277 ) ( ( 0.03125 0 27.636962890625 ) ( 0 0.005208333488553762 1.041666626930237 ) ) "textures/darkmod/wood/panels/walnut_panel01" 0 0 0
+( 1 0 0 -559.3815956115723 ) ( ( 0.0625 0 47.02392578125 ) ( 0 0.005208333488553762 1.041666626930237 ) ) "textures/darkmod/wood/panels/walnut_panel01" 0 0 0
+}
+}
+// primitive 33
+{
+brushDef3
+{
+( 0 0 1 -84 ) ( ( 0 0.0625 988.9761505126953 ) ( -0.03125 0 27.636962890625 ) ) "textures/darkmod/wood/panels/walnut_panel01" 0 0 0
+( 0 -1 0 861.6184043884277 ) ( ( 0.03125 0 997.363037109375 ) ( 0 0.005208333488553762 1.041666626930237 ) ) "textures/darkmod/wood/panels/walnut_panel01" 0 0 0
+( -1 0 0 527.3815956115723 ) ( ( 0.0625 0 988.9761505126953 ) ( 0 0.005208333488553762 1.041666626930237 ) ) "textures/darkmod/wood/panels/walnut_panel01" 0 0 0
+( 0 0 -1 -108 ) ( ( 0 -0.0625 988.9761505126953 ) ( 0.03125 0 2021.363037109375 ) ) "textures/darkmod/wood/panels/walnut_panel01" 0 0 0
+( 0 1 0 -877.6184043884277 ) ( ( 0.03125 0 27.636962890625 ) ( 0 0.005208333488553762 1.041666626930237 ) ) "textures/darkmod/wood/panels/walnut_panel01" 0 0 0
+( 1 0 0 -559.3815956115723 ) ( ( 0.0625 0 36.02392578125 ) ( 0 0.005208333488553762 1.041666626930237 ) ) "textures/darkmod/wood/panels/walnut_panel01" 0 0 0
+}
+}
+// primitive 34
+{
+brushDef3
+{
+( 0 0 1 -103 ) ( ( 0.0625 0 969.4658203125 ) ( 0 0.006250000093132257 2045.706249952316 ) ) "textures/darkmod/wood/panels/walnut_panel01" 0 0 0
+( 1 0 0 -551 ) ( ( 0.006510416511446238 0 4.42059326171875 ) ( 0 0.006510416511446238 510.7571716308594 ) ) "textures/darkmod/wood/panels/thin_panels_with_trim_walnut" 0 0 0
+( 0 -1 0 701 ) ( ( 0.0625 0 969.4658203125 ) ( 0 0.03125 4 ) ) "textures/darkmod/wood/panels/walnut_panel01" 0 0 0
+( 0 0 -1 71 ) ( ( 0.0625 0 969.4658203125 ) ( 0 0.006250000093132257 3.293701171875 ) ) "textures/darkmod/wood/panels/walnut_panel01" 0 0 0
+( -1 0 0 535 ) ( ( 0.006510416511446238 0 507.5794272422791 ) ( 0 0.006510416511446238 510.7571716308594 ) ) "textures/darkmod/wood/panels/thin_panels_with_trim_walnut" 0 0 0
+( 0 1 0 -861 ) ( ( 0.0625 0 55.5908203125 ) ( 0 0.03125 4 ) ) "textures/darkmod/wood/panels/walnut_panel01" 0 0 0
+}
+}
+// primitive 35
+{
+brushDef3
+{
+( 0 1 0 -875 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/editor/visportal" 0 0 0
+( 0 0 -1 -128 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/nodraw" 0 0 0
+( 0 -1 0 872 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/nodraw" 0 0 0
+( 1 0 0 -520 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/nodraw" 0 0 0
+( -1 0 0 440 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/nodraw" 0 0 0
+( 0 0 1 0 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/nodraw" 0 0 0
+}
+}
+// primitive 36
+{
+brushDef3
+{
+( 0 0 1 -136 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 1 0 -888 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 1 0 0 -584 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 -1 0 688 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( -1 0 0 0 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 0 -1 128 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+}
+}
+// primitive 37
+{
+brushDef3
+{
+( 0 0 1 -136 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 1 0 -876 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 1 0 0 -585 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 0 -1 -120 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 -1 0 868 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( -1 0 0 521 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 38
+{
+brushDef3
+{
+( 0 0 1 -136 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 1 0 -888 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 1 0 0 -584 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 0 -1 -120 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 -1 0 688 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( -1 0 0 576 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+}
+}
+// primitive 39
+{
+brushDef3
+{
+( 0 1 0 -888 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 1 0 0 -584 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 0 -1 -120 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 -1 0 688 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( -1 0 0 0 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 0 1 112 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+}
+}
+// primitive 40
+{
+brushDef3
+{
+( 0 0 1 -136 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 1 0 -888 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 0 -1 -120 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 -1 0 688 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( -1 0 0 0 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 1 0 0 -8 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+}
+}
+// primitive 41
+{
+brushDef3
+{
+( 0 1 0 -888 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/editor/visportal" 0 0 0
+( 0 0 -1 -120 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/nodraw" 0 0 0
+( 0 -1 0 880 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/nodraw" 0 0 0
+( 1 0 0 -520 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/nodraw" 0 0 0
+( -1 0 0 440 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/nodraw" 0 0 0
+( 0 0 1 -8 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/nodraw" 0 0 0
+}
+}
+// primitive 42
+{
+brushDef3
+{
+( 0 0 1 -136 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 1 0 -876 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 0 -1 -120 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( -1 0 0 1 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 -1 0 868 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 1 0 0 -441 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 43
+{
+brushDef3
+{
+( 0 0 1 -136 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 1 0 -876 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 0 -1 0 868 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/metal/detailed/bars_rivets_steel" 0 0 0
+( 1 0 0 -521 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+( -1 0 0 441 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+( 0 0 -1 8 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common/caulk" 0 0 0
+}
+}
+}
+// entity 1
+{
+"classname" "info_player_start"
+"name" "info_player_start_1"
+"angle" "90.000000"
+"origin" "478 620 -102"
+}
+// entity 2
+{
+"classname" "atdm:ai_builder_guard"
+"name" "atdm_ai_builder_guard_1"
+"origin" "58 348 -101.978"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"team" "0"
+}
+// entity 3
+{
+"classname" "atdm:playertools_compass"
+"name" "CompassEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"origin" "-524 -1396.5 293.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 4
+{
+"classname" "atdm:playertools_lantern"
+"name" "LanternEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"origin" "-512 -1396.5 293.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 5
+{
+"classname" "atdm:playertools_spyglass"
+"name" "SpyglassEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"origin" "-502 -1396.5 293.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 6
+{
+"classname" "atdm:playertools_health_potion"
+"name" "HealthPotionsEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-486 -1396.5 268.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 7
+{
+"classname" "atdm:weapon_shortsword"
+"name" "SwordEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-414 -1494.5 244.5"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 8
+{
+"classname" "atdm:weapon_blackjack"
+"name" "BlackjackEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-462.38 -1495.25 244.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 9
+{
+"classname" "atdm:playertools_breath_potion"
+"name" "BreathPotionsEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-474 -1396.5 268.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 10
+{
+"classname" "atdm:playertools_flashbomb"
+"name" "FlashbombsEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-522 -1494.5 268.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 11
+{
+"classname" "atdm:ammo_broadhead"
+"name" "BroadheadsEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-525 -1574 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 12
+{
+"classname" "atdm:ammo_broadhead"
+"name" "BroadheadsHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-525 -1622 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 13
+{
+"classname" "atdm:ammo_broadhead"
+"name" "BroadheadsExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-525 -1670 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 14
+{
+"classname" "atdm:ammo_firearrow"
+"name" "FireArrowsEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-509 -1574 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 15
+{
+"classname" "atdm:ammo_firearrow"
+"name" "FireArrowsHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-509 -1622 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 16
+{
+"classname" "atdm:ammo_firearrow"
+"name" "FireArrowsExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-509 -1670 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 17
+{
+"classname" "atdm:ammo_gasarrow"
+"name" "GasArrowsEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-493 -1574 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 18
+{
+"classname" "atdm:ammo_gasarrow"
+"name" "GasArrowsHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-493 -1622 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 19
+{
+"classname" "atdm:ammo_gasarrow"
+"name" "GasArrowsExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-493 -1670 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 20
+{
+"classname" "atdm:ammo_mossarrow"
+"name" "MossArrowsEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-477 -1574 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 21
+{
+"classname" "atdm:ammo_mossarrow"
+"name" "MossArrowsExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-477 -1670 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 22
+{
+"classname" "atdm:ammo_mossarrow"
+"name" "MossArrowsHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-477 -1622 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 23
+{
+"classname" "atdm:ammo_noisemaker"
+"name" "NoiseArrowsEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-461 -1574 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 24
+{
+"classname" "atdm:ammo_noisemaker"
+"name" "NoiseArrowsHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-461 -1622 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 25
+{
+"classname" "atdm:ammo_noisemaker"
+"name" "NoiseArrowsExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-461 -1670 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 26
+{
+"classname" "atdm:ammo_ropearrow"
+"name" "RopeArrowsEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-445 -1574 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 27
+{
+"classname" "atdm:ammo_ropearrow"
+"name" "RopeArrowsHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-445 -1622 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 28
+{
+"classname" "atdm:ammo_ropearrow"
+"name" "RopeArrowsExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-445 -1670 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 29
+{
+"classname" "atdm:ammo_vinearrow"
+"name" "VineArrowsEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-429 -1574 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 30
+{
+"classname" "atdm:ammo_vinearrow"
+"name" "VineArrowsHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-429 -1622 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 31
+{
+"classname" "atdm:ammo_vinearrow"
+"name" "VineArrowsExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-429 -1670 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 32
+{
+"classname" "atdm:ammo_waterarrow"
+"name" "WaterArrowsEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-413 -1574 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 33
+{
+"classname" "atdm:ammo_waterarrow"
+"name" "WaterArrowsHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-413 -1622 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 34
+{
+"classname" "atdm:ammo_waterarrow"
+"name" "WaterArrowsExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_ammo_amount" "30"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-413 -1670 225"
+"rotation" "1 0 0 0 0 1 0 -1 0"
+}
+// entity 35
+{
+"classname" "atdm:weapon_blackjack"
+"name" "BlackjackHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-462.38 -1511.25 244.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 36
+{
+"classname" "atdm:weapon_blackjack"
+"name" "BlackjackExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-462.38 -1527.25 244.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 37
+{
+"classname" "atdm:weapon_shortsword"
+"name" "SwordHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-414 -1510.5 244.5"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 38
+{
+"classname" "atdm:weapon_shortsword"
+"name" "SwordExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"inv_no_pickup_message" "1"
+"origin" "-414 -1526.5 244.5"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 39
+{
+"classname" "atdm:playertools_compass"
+"name" "CompassHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"origin" "-524 -1412.5 293.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 40
+{
+"classname" "atdm:playertools_compass"
+"name" "CompassExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"origin" "-524 -1428.5 293.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 41
+{
+"classname" "atdm:playertools_lantern"
+"name" "LanternHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"origin" "-512 -1412.5 293.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 42
+{
+"classname" "atdm:playertools_lantern"
+"name" "LanternExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"origin" "-512 -1428.5 293.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 43
+{
+"classname" "atdm:playertools_spyglass"
+"name" "SpyglassHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"origin" "-502 -1412.5 293.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 44
+{
+"classname" "atdm:playertools_spyglass"
+"name" "SpyglassExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"origin" "-502 -1428.5 293.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 45
+{
+"classname" "atdm:playertools_flashbomb"
+"name" "FlashbombsHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-522 -1510.5 268.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 46
+{
+"classname" "atdm:playertools_flashbomb"
+"name" "FlashbombsExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-522 -1526.5 268.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 47
+{
+"classname" "atdm:playertools_health_potion"
+"name" "HealthPotionsHard2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-486 -1412.5 268.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 48
+{
+"classname" "atdm:playertools_health_potion"
+"name" "HealthPotionsExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-486 -1428.5 268.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 49
+{
+"classname" "atdm:playertools_breath_potion"
+"name" "BreathPotionsHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-474 -1412.5 268.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 50
+{
+"classname" "atdm:playertools_breath_potion"
+"name" "BreathPotionsExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-474 -1428.5 268.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 51
+{
+"classname" "atdm:playertools_lockpick_snake"
+"name" "LockpickSnakeEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"origin" "-431 -1396 265"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 52
+{
+"classname" "atdm:playertools_lockpick_triangle"
+"name" "LockpickTriangleEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"origin" "-415 -1396 265"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 53
+{
+"classname" "atdm:playertools_mine"
+"name" "MinesEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-491 -1494 265"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 54
+{
+"classname" "atdm:playertools_holywater"
+"name" "HolyWatersEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-475 -1494 265"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 55
+{
+"classname" "atdm:playertools_flashmine"
+"name" "FlashminesEasy2"
+"diff_0_nospawn" "0"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-507 -1494 265"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 56
+{
+"classname" "atdm:playertools_lockpick_snake"
+"name" "LockpickSnakeHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"origin" "-431 -1412 265"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 57
+{
+"classname" "atdm:playertools_lockpick_snake"
+"name" "LockpickSnakeExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"origin" "-431 -1428 265"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 58
+{
+"classname" "atdm:playertools_lockpick_triangle"
+"name" "LockpickTriangleHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_map_start" "1"
+"origin" "-415 -1412 265"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 59
+{
+"classname" "atdm:playertools_lockpick_triangle"
+"name" "LockpickTriangleExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_map_start" "1"
+"origin" "-415 -1428 265"
+"rotation" "0.707107 0.707107 0 -0.707107 0.707107 0 0 0 1"
+}
+// entity 60
+{
+"classname" "atdm:playertools_flashmine"
+"name" "FlashminesHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-507 -1510 265"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 61
+{
+"classname" "atdm:playertools_flashmine"
+"name" "FlashminesExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-507 -1526 265"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 62
+{
+"classname" "atdm:playertools_mine"
+"name" "MinesHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-491 -1510 265"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 63
+{
+"classname" "atdm:playertools_mine"
+"name" "MinesExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-491 -1526 265"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 64
+{
+"classname" "atdm:playertools_holywater"
+"name" "HolyWatersHard2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "0"
+"diff_2_nospawn" "1"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-475 -1510 265"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 65
+{
+"classname" "atdm:playertools_holywater"
+"name" "HolyWatersExpert2"
+"diff_0_nospawn" "1"
+"diff_1_nospawn" "1"
+"diff_2_nospawn" "0"
+"inv_count" "10"
+"inv_map_start" "1"
+"origin" "-475 -1526 265"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 66
+{
+"classname" "func_static"
+"name" "func_static_62"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall03.lwo"
+"origin" "96 624 -92"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "mansion_full_walnut"
+}
+// entity 67
+{
+"classname" "func_static"
+"name" "func_static_63"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall03.lwo"
+"origin" "224 624 -92"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "mansion_full_walnut"
+}
+// entity 68
+{
+"classname" "func_static"
+"name" "func_static_64"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall03.lwo"
+"origin" "352 624 -92"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "mansion_full_walnut"
+}
+// entity 69
+{
+"classname" "func_static"
+"name" "func_static_65"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_door01.lwo"
+"origin" "480 624 -92"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "mansion_full_walnut"
+}
+// entity 70
+{
+"classname" "func_static"
+"name" "func_static_66"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall03.lwo"
+"origin" "496 612 -92"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+"skin" "mansion_full_walnut"
+}
+// entity 71
+{
+"classname" "func_static"
+"name" "func_static_67"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_window02.lwo"
+"origin" "492 484 -92"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+"skin" "mansion_full_walnut_plain"
+}
+// entity 72
+{
+"classname" "func_static"
+"name" "func_static_68"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall03.lwo"
+"origin" "480 344 -92"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+"skin" "mansion_full_walnut"
+}
+// entity 73
+{
+"classname" "func_static"
+"name" "func_static_69"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_window02.lwo"
+"origin" "288 348 -92"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+"skin" "mansion_full_walnut"
+}
+// entity 74
+{
+"classname" "func_static"
+"name" "func_static_72"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall03.lwo"
+"origin" "79.13 484.874 -92"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+"skin" "mansion_full_walnut"
+}
+// entity 75
+{
+"classname" "func_static"
+"name" "func_static_73"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall03.lwo"
+"origin" "79.13 612.874 -92"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+"skin" "mansion_full_walnut"
+}
+// entity 76
+{
+"classname" "func_static"
+"name" "func_static_75"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_pillar01.lwo"
+"origin" "287.99 671.993 -102.01"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 77
+{
+"classname" "func_static"
+"name" "func_static_76"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_pillar01.lwo"
+"origin" "159.99 675.993 -102.01"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 78
+{
+"classname" "func_static"
+"name" "func_static_77"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall03.lwo"
+"origin" "79.13 356.87 -92"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+"skin" "mansion_full_walnut"
+}
+// entity 79
+{
+"classname" "func_static"
+"name" "func_static_78"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall03.lwo"
+"origin" "496 356 -92"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+"skin" "mansion_full_walnut_plain"
+}
+// entity 80
+{
+"classname" "func_static"
+"name" "func_static_87"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_pillar01.lwo"
+"origin" "36 668 -102.01"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "pillar_corner"
+}
+// entity 81
+{
+"classname" "func_static"
+"name" "func_static_88"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_pillar01.lwo"
+"origin" "36 300 -102.01"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "pillar_corner"
+}
+// entity 82
+{
+"classname" "func_static"
+"name" "func_static_89"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_pillar01.lwo"
+"origin" "540 668 -102.01"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "pillar_corner"
+}
+// entity 83
+{
+"classname" "func_static"
+"name" "func_static_90"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_pillar01.lwo"
+"origin" "540 300 -102.01"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "pillar_corner"
+}
+// entity 84
+{
+"classname" "func_static"
+"name" "func_static_623"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_window02.lwo"
+"origin" "128 348 -92"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+"skin" "mansion_full_walnut"
+}
+// entity 85
+{
+"classname" "func_static"
+"name" "func_static_70"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_vertical_spacer02.lwo"
+"origin" "392 314 -91.89"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+"skin" "mansion_full_walnut"
+}
+// entity 86
+{
+"classname" "func_static"
+"name" "func_static_59"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_pillar01.lwo"
+"origin" "415.99 671.993 -102.01"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 87
+{
+"classname" "light"
+"name" "ambient_world"
+"_color" "0.039 0.039 0.039"
+"light_center" "0 0 0"
+"light_radius" "4180 4158 4108"
+"nodiffuse" "0"
+"noshadows" "0"
+"nospecular" "0"
+"origin" "262 486 -12"
+"parallel" "0"
+"texture" "lights/ambientlightnfo"
+}
+// entity 88
+{
+"classname" "atdm:oil_lamp_wall1"
+"name" "atdm_oil_lamp_wall1_1"
+"origin" "548.176 357 -6"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 89
+{
+"classname" "func_static"
+"name" "func_static_883"
+"model" "models/darkmod/fireplace/mansion01_fireplace01.lwo"
+"origin" "51.372 478.772 -102"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+"skin" "mansion_full_walnut"
+}
+// entity 90
+{
+"classname" "func_static"
+"name" "func_static_981"
+"model" "models/darkmod/fireplace/grate.lwo"
+"noshadows" "0"
+"origin" "66.74 479.066 -86"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 91
+{
+"classname" "atdm:lit_fireplace01"
+"name" "atdm_lit_fireplace01_4"
+"origin" "62.773 479.176 -86"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 92
+{
+"classname" "func_static"
+"name" "func_static_997"
+"model" "models/darkmod/decorative/statues/statuette_citywatch01.lwo"
+"origin" "73.954 429.181 -14"
+"rotation" "0.632067 0.774913 0 -0.774913 0.632067 0 0 0 1"
+}
+// entity 93
+{
+"classname" "func_static"
+"name" "func_static_998"
+"model" "models/darkmod/decorative/statues/statuette_inquisitor01.lwo"
+"origin" "73.1 525.144 -14"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 94
+{
+"classname" "func_static"
+"name" "func_static_10"
+"model" "models/darkmod/furniture/tables/dining_table2.lwo"
+"origin" "370 474 -82.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 95
+{
+"classname" "func_static"
+"name" "func_static_2"
+"model" "models/darkmod/furniture/seating/vic_diningchair1.lwo"
+"origin" "325.25 504.25 -81.75"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 96
+{
+"classname" "func_static"
+"name" "func_static_8"
+"model" "models/darkmod/furniture/seating/vic_diningchair1.lwo"
+"origin" "357.75 504.75 -81.75"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 97
+{
+"classname" "func_static"
+"name" "func_static_6"
+"model" "models/darkmod/furniture/seating/vic_diningchair1.lwo"
+"origin" "385.25 506.25 -81.75"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 98
+{
+"classname" "func_static"
+"name" "func_static_1"
+"model" "models/darkmod/furniture/seating/vic_diningchair1.lwo"
+"origin" "417.75 506.75 -81.75"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 99
+{
+"classname" "func_static"
+"name" "func_static_5"
+"model" "models/darkmod/furniture/seating/vic_diningchair1.lwo"
+"origin" "324.5 442 -81.75"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 100
+{
+"classname" "func_static"
+"name" "func_static_4"
+"model" "models/darkmod/furniture/seating/vic_diningchair1.lwo"
+"origin" "357 442.5 -81.75"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 101
+{
+"classname" "func_static"
+"name" "func_static_7"
+"model" "models/darkmod/furniture/seating/vic_diningchair1.lwo"
+"origin" "384.5 444 -81.75"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 102
+{
+"classname" "func_static"
+"name" "func_static_9"
+"model" "models/darkmod/furniture/seating/vic_diningchair1.lwo"
+"origin" "417 444.5 -81.75"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 103
+{
+"classname" "atdm:moveable_candle_holder_plus_normal_candle"
+"name" "atdm_moveable_candle_holder_plus_normal_candle_1"
+"origin" "341 472 -57.5"
+"rotation" "0.984808 -0.173648 0 0.173648 0.984808 0 0 0 1"
+}
+// entity 104
+{
+"classname" "atdm:moveable_candle_holder_plus_normal_candle"
+"name" "atdm_moveable_candle_holder_plus_normal_candle_3"
+"origin" "400.5 475 -57.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 105
+{
+"classname" "atdm:moveable_knife_ornamental"
+"name" "atdm_moveable_knife_ornamental_1"
+"origin" "334.5 455.5 -63.5"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 106
+{
+"classname" "atdm:moveable_fork_ornamental"
+"name" "atdm_moveable_fork_ornamental_1"
+"origin" "316 457 -63.75"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 107
+{
+"classname" "atdm:moveable_spoon_ornamental"
+"name" "atdm_moveable_spoon_ornamental_1"
+"origin" "322.125 467.25 -63.625"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 108
+{
+"classname" "atdm:moveable_small_spoon_ornamental"
+"name" "atdm_moveable_small_spoon_ornamental_1"
+"origin" "321.75 464.125 -63.625"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 109
+{
+"classname" "atdm:moveable_small_spoon_ornamental"
+"name" "atdm_moveable_small_spoon_ornamental_3"
+"origin" "353.75 464.125 -63.625"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 110
+{
+"classname" "atdm:moveable_spoon_ornamental"
+"name" "atdm_moveable_spoon_ornamental_3"
+"origin" "354.125 467.25 -63.625"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 111
+{
+"classname" "atdm:moveable_fork_ornamental"
+"name" "atdm_moveable_fork_ornamental_3"
+"origin" "348 457 -63.75"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 112
+{
+"classname" "atdm:moveable_knife_ornamental"
+"name" "atdm_moveable_knife_ornamental_3"
+"origin" "366.5 455.5 -63.5"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 113
+{
+"classname" "atdm:moveable_spoon_ornamental"
+"name" "atdm_moveable_spoon_ornamental_4"
+"origin" "382.125 467.25 -63.625"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 114
+{
+"classname" "atdm:moveable_fork_ornamental"
+"name" "atdm_moveable_fork_ornamental_4"
+"origin" "376 457 -63.75"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 115
+{
+"classname" "atdm:moveable_small_spoon_ornamental"
+"name" "atdm_moveable_small_spoon_ornamental_4"
+"origin" "381.75 464.125 -63.625"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 116
+{
+"classname" "atdm:moveable_knife_ornamental"
+"name" "atdm_moveable_knife_ornamental_4"
+"origin" "394.5 455.5 -63.5"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 117
+{
+"classname" "atdm:moveable_knife_ornamental"
+"name" "atdm_moveable_knife_ornamental_5"
+"origin" "426.5 455.5 -63.5"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 118
+{
+"classname" "atdm:moveable_small_spoon_ornamental"
+"name" "atdm_moveable_small_spoon_ornamental_5"
+"origin" "413.75 464.125 -63.625"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 119
+{
+"classname" "atdm:moveable_spoon_ornamental"
+"name" "atdm_moveable_spoon_ornamental_5"
+"origin" "414.125 467.25 -63.625"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 120
+{
+"classname" "atdm:moveable_fork_ornamental"
+"name" "atdm_moveable_fork_ornamental_5"
+"origin" "408 457 -63.75"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 121
+{
+"classname" "atdm:moveable_plate_china"
+"name" "atdm_moveable_plate_china_1"
+"origin" "325 455 -62.75"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 122
+{
+"classname" "atdm:moveable_plate_china"
+"name" "atdm_moveable_plate_china_3"
+"origin" "358 455 -62.75"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 123
+{
+"classname" "atdm:moveable_plate_china"
+"name" "atdm_moveable_plate_china_4"
+"origin" "385 455 -62.75"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 124
+{
+"classname" "atdm:moveable_plate_china"
+"name" "atdm_moveable_plate_china_5"
+"origin" "417 455 -62.75"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 125
+{
+"classname" "atdm:moveable_plate_china"
+"name" "atdm_moveable_plate_china_2"
+"origin" "325.5 492.25 -62.75"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 126
+{
+"classname" "atdm:moveable_knife_ornamental"
+"name" "atdm_moveable_knife_ornamental_6"
+"origin" "316 491.75 -63.5"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 127
+{
+"classname" "atdm:moveable_small_spoon_ornamental"
+"name" "atdm_moveable_small_spoon_ornamental_2"
+"origin" "328.75 483.125 -63.625"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 128
+{
+"classname" "atdm:moveable_fork_ornamental"
+"name" "atdm_moveable_fork_ornamental_6"
+"origin" "334.5 490.25 -63.75"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 129
+{
+"classname" "atdm:moveable_spoon_ornamental"
+"name" "atdm_moveable_spoon_ornamental_6"
+"origin" "328.375 480 -63.625"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 130
+{
+"classname" "atdm:moveable_plate_china"
+"name" "atdm_moveable_plate_china_6"
+"origin" "357.5 492.25 -62.75"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 131
+{
+"classname" "atdm:moveable_fork_ornamental"
+"name" "atdm_moveable_fork_ornamental_7"
+"origin" "366.5 490.25 -63.75"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 132
+{
+"classname" "atdm:moveable_small_spoon_ornamental"
+"name" "atdm_moveable_small_spoon_ornamental_6"
+"origin" "360.75 483.125 -63.625"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 133
+{
+"classname" "atdm:moveable_knife_ornamental"
+"name" "atdm_moveable_knife_ornamental_7"
+"origin" "348 491.75 -63.5"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 134
+{
+"classname" "atdm:moveable_spoon_ornamental"
+"name" "atdm_moveable_spoon_ornamental_2"
+"origin" "360.375 480 -63.625"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 135
+{
+"classname" "atdm:moveable_spoon_ornamental"
+"name" "atdm_moveable_spoon_ornamental_7"
+"origin" "388.375 480 -63.625"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 136
+{
+"classname" "atdm:moveable_small_spoon_ornamental"
+"name" "atdm_moveable_small_spoon_ornamental_7"
+"origin" "388.75 483.125 -63.625"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 137
+{
+"classname" "atdm:moveable_fork_ornamental"
+"name" "atdm_moveable_fork_ornamental_8"
+"origin" "394.5 490.25 -63.75"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 138
+{
+"classname" "atdm:moveable_knife_ornamental"
+"name" "atdm_moveable_knife_ornamental_8"
+"origin" "376 491.75 -63.5"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 139
+{
+"classname" "atdm:moveable_plate_china"
+"name" "atdm_moveable_plate_china_7"
+"origin" "385.5 492.25 -62.75"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 140
+{
+"classname" "atdm:moveable_plate_china"
+"name" "atdm_moveable_plate_china_8"
+"origin" "417.5 492.25 -62.75"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 141
+{
+"classname" "atdm:moveable_knife_ornamental"
+"name" "atdm_moveable_knife_ornamental_9"
+"origin" "408 491.75 -63.5"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 142
+{
+"classname" "atdm:moveable_fork_ornamental"
+"name" "atdm_moveable_fork_ornamental_9"
+"origin" "426.5 490.25 -63.75"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+}
+// entity 143
+{
+"classname" "atdm:moveable_spoon_ornamental"
+"name" "atdm_moveable_spoon_ornamental_8"
+"origin" "420.375 480 -63.625"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 144
+{
+"classname" "atdm:moveable_small_spoon_ornamental"
+"name" "atdm_moveable_small_spoon_ornamental_8"
+"origin" "420.75 483.125 -63.625"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 145
+{
+"classname" "func_static"
+"name" "func_static_71"
+"model" "models/darkmod/furniture/seating/armchair1.lwo"
+"origin" "161.162 418.735 -100.99"
+"rotation" "-0.267757 -0.963486 0 0.963486 -0.267757 0 0 0 1"
+}
+// entity 146
+{
+"classname" "func_static"
+"name" "func_static_267"
+"model" "models/darkmod/furniture/seating/armchair1.lwo"
+"origin" "157.141 549.236 -100.99"
+"rotation" "0.24094 -0.97054 0 0.97054 0.24094 0 0 0 1"
+}
+// entity 147
+{
+"classname" "func_static"
+"name" "func_static_624"
+"model" "models/darkmod/furniture/tables/coffeetable1.lwo"
+"origin" "156 483 -90.24"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 148
+{
+"classname" "func_static"
+"name" "func_static_643"
+"model" "models/darkmod/decorative/pillow_decorative01.lwo"
+"origin" "162.505 549.227 -72.73"
+"rotation" "0.849598 -0.0575574 -0.52428 0.52743 0.092715 0.844525 0 -0.994028 0.109128"
+}
+// entity 149
+{
+"classname" "func_static"
+"name" "func_static_648"
+"model" "models/darkmod/kitchen/decanter_silver.ase"
+"origin" "156.055 486.106 -79.5"
+"rotation" "0.492132 -0.870521 0 0.870521 0.492132 0 0 0 1"
+"skin" "brass_copper_clean"
+}
+// entity 150
+{
+"classname" "func_static"
+"name" "func_static_649"
+"model" "models/darkmod/kitchen/creamer_silver.ase"
+"origin" "161.545 495.918 -79.5"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+"skin" "brass_copper_clean"
+}
+// entity 151
+{
+"classname" "func_static"
+"name" "func_static_650"
+"model" "models/darkmod/kitchen/wineglass_silver.ase"
+"origin" "164 475.5 -79.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "brass_copper_clean"
+}
+// entity 152
+{
+"classname" "func_static"
+"name" "func_static_651"
+"model" "models/darkmod/kitchen/wineglass_silver.ase"
+"origin" "154.5 497.5 -79.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "brass_copper_clean"
+}
+// entity 153
+{
+"classname" "func_static"
+"name" "func_static_658"
+"model" "models/darkmod/decorative/pillow_decorative01.lwo"
+"origin" "165.377 416.258 -72.73"
+"rotation" "0.715511 -0.461707 -0.52428 0.506378 -0.17424 0.844525 -0.481273 -0.869752 0.109128"
+}
+// entity 154
+{
+"classname" "func_static"
+"name" "func_static_482"
+"model" "models/darkmod/furniture/seating/armchair1.lwo"
+"origin" "69.8145 651.964 -101.99"
+"rotation" "0.774403 0.632693 0 -0.632693 0.774403 0 0 0 1"
+}
+// entity 155
+{
+"classname" "func_static"
+"name" "func_static_597"
+"model" "models/darkmod/furniture/tables/endtable_round01.lwo"
+"origin" "51.9505 608.192 -102"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 156
+{
+"classname" "func_static"
+"name" "func_static_610"
+"model" "models/darkmod/kitchen/teacup01_andsaucer.lwo"
+"origin" "41.9505 609.942 -63.5"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 157
+{
+"classname" "func_static"
+"name" "func_static_611"
+"model" "models/darkmod/readables/book_open1_lean2.lwo"
+"origin" "57.8015 601.962 -63.5"
+"rotation" "-0.314397 -0.949292 0 0.949292 -0.314397 0 0 0 1"
+}
+// entity 158
+{
+"classname" "atdm:oil_lamp_wall1"
+"name" "atdm_oil_lamp_wall1_2"
+"origin" "96.088 676.088 -6"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 159
+{
+"classname" "func_static"
+"name" "func_static_11"
+"model" "models/darkmod/decorative/wall/painting_round_tearable.ase"
+"origin" "28 612 -2"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+"skin" "builder_mythology"
+}
+// entity 160
+{
+"classname" "func_static"
+"name" "func_static_12"
+"model" "models/darkmod/lights/non-extinguishable/bhm_chandelier_02.lwo"
+"origin" "375 474 78"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 161
+{
+"classname" "func_static"
+"name" "func_static_130"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall04.lwo"
+"noshadows" "0"
+"origin" "482.898 1117.9 -92"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "mansion_full_vitorian_paper_04"
+}
+// entity 162
+{
+"classname" "func_static"
+"name" "func_static_132"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall04.lwo"
+"noshadows" "0"
+"origin" "354.898 1117.9 -92"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "mansion_full_vitorian_paper_04"
+}
+// entity 163
+{
+"classname" "func_static"
+"name" "func_static_98"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall04.lwo"
+"noshadows" "0"
+"origin" "506.898 961.9 -92"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+"skin" "mansion_full_vitorian_paper_04"
+}
+// entity 164
+{
+"classname" "func_static"
+"name" "func_static_3"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_door03.lwo"
+"origin" "478.898 929.9 -92"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+"skin" "mansion_full_walnut"
+}
+// entity 165
+{
+"classname" "func_static"
+"name" "func_static_128"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall04.lwo"
+"origin" "330.898 1089.9 -92"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+"skin" "mansion_full_vitorian_paper_04"
+}
+// entity 166
+{
+"classname" "func_static"
+"name" "func_static_170"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_pillar01_corner.lwo"
+"noshadows" "1"
+"origin" "549.888 889.9 -92.01"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+"skin" "pillar_corner"
+}
+// entity 167
+{
+"classname" "func_static"
+"name" "func_static_126"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall04.lwo"
+"noshadows" "0"
+"origin" "330.898 961.9 -92"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+"skin" "mansion_full_vitorian_paper_04"
+}
+// entity 168
+{
+"classname" "func_static"
+"name" "func_static_99"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall04.lwo"
+"noshadows" "0"
+"origin" "506.898 1089.9 -92"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+"skin" "mansion_full_vitorian_paper_04"
+}
+// entity 169
+{
+"classname" "func_static"
+"name" "func_static_171"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_pillar01_corner.lwo"
+"noshadows" "0"
+"origin" "550.898 1163.9 -92.01"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+"skin" "pillar_corner"
+}
+// entity 170
+{
+"classname" "func_static"
+"name" "func_static_172"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_pillar01_corner.lwo"
+"noshadows" "1"
+"origin" "285.898 889.91 -92.01"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+"skin" "pillar_corner"
+}
+// entity 171
+{
+"classname" "func_static"
+"name" "func_static_173"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_pillar01_corner.lwo"
+"noshadows" "1"
+"origin" "286.905 1163.9 -92.01"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "pillar_corner"
+}
+// entity 172
+{
+"classname" "func_static"
+"name" "func_static_124"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall04.lwo"
+"noshadows" "0"
+"origin" "350.898 929.9 -92"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+"skin" "mansion_full_vitorian_paper_04"
+}
+// entity 173
+{
+"classname" "atdm:ai_townsfolk_wench"
+"name" "atdm_ai_townsfolk_wench_1"
+"origin" "522 1104 -103.698"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"team" "0"
+}
+// entity 174
+{
+"classname" "func_static"
+"name" "func_static_2374"
+"model" "models/darkmod/kitchen/stove.lwo"
+"origin" "315.993 1095.77 -103.558"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 175
+{
+"classname" "func_static"
+"name" "func_static_2375"
+"model" "models/darkmod/mechanical/pipes/pipe_kit02_bend01.lwo"
+"origin" "306.501 1095.28 24.5"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 176
+{
+"classname" "func_static"
+"name" "func_static_2376"
+"model" "models/darkmod/mechanical/pipes/pipe_kit02_straight_plain.lwo"
+"origin" "306.483 1140.88 32.01"
+"rotation" "0 0 -1 -1 0 0 0 1 0"
+}
+// entity 177
+{
+"classname" "func_static"
+"name" "func_static_2378"
+"model" "models/darkmod/kitchen/kettle01.lwo"
+"origin" "331.373 1117.68 -44.5"
+"rotation" "0.473007 0.881059 0 -0.881059 0.473007 0 0 0 1"
+}
+// entity 178
+{
+"classname" "func_static"
+"name" "func_static_2379"
+"model" "models/darkmod/kitchen/pot_stove01.lwo"
+"origin" "332.153 1078.24 -49.5"
+"rotation" "-0.756279 0.654249 0 -0.654249 -0.756279 0 0 0 1"
+"skin" "pot_copper"
+}
+// entity 179
+{
+"classname" "func_static"
+"name" "func_static_2391"
+"model" "models/darkmod/kitchen/spice_pot01_full.lwo"
+"origin" "307.443 1130.67 -54.5"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+"skin" "gen/gen_copper_001"
+}
+// entity 180
+{
+"classname" "func_static"
+"name" "func_static_2392"
+"model" "models/darkmod/kitchen/spice_pot01_closed.lwo"
+"origin" "297.943 1131.17 -54.5"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+"skin" "gen/gen_copper_001"
+}
+// entity 181
+{
+"classname" "func_static"
+"name" "func_static_2393"
+"model" "models/darkmod/kitchen/spice_pot01_empty.lwo"
+"origin" "318.443 1132.17 -54.5"
+"rotation" "0 1 0 -1 0 0 0 0 1"
+"skin" "gen/gen_copper_001"
+}
+// entity 182
+{
+"classname" "func_static"
+"name" "func_static_2394"
+"model" "models/darkmod/kitchen/ceramic_pot01.lwo"
+"origin" "303.273 1113.21 -35.5"
+"rotation" "-0.903291 0.429028 0 -0.429028 -0.903291 0 0 0 1"
+"skin" "rustic_spice"
+}
+// entity 183
+{
+"classname" "func_static"
+"name" "func_static_79"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall02.lwo"
+"origin" "95.382 749.618 -92"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 184
+{
+"classname" "func_static"
+"name" "func_static_268"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall02.lwo"
+"origin" "223.382 749.618 -92"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 185
+{
+"classname" "func_static"
+"name" "func_static_305"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall02.lwo"
+"origin" "351.382 749.618 -92"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 186
+{
+"classname" "func_static"
+"name" "func_static_306"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_door01.lwo"
+"origin" "479.382 749.618 -92"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+"skin" "mansion_full_walnut_plain"
+}
+// entity 187
+{
+"classname" "func_static"
+"name" "func_static_328"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_door01.lwo"
+"origin" "479.382 813.618 -92"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"skin" "mansion_full_walnut_plain"
+}
+// entity 188
+{
+"classname" "func_static"
+"name" "func_static_329"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall02.lwo"
+"origin" "351.382 813.618 -92"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 189
+{
+"classname" "func_static"
+"name" "func_static_327"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall02.lwo"
+"origin" "223.382 813.618 -92"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 190
+{
+"classname" "func_static"
+"name" "func_static_330"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_wall02.lwo"
+"origin" "95.382 813.618 -92"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 191
+{
+"classname" "func_static"
+"name" "func_static_331"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_arch02.lwo"
+"origin" "479.382 781.618 -92"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 192
+{
+"classname" "func_static"
+"name" "func_static_19"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_horiz_spacer02.lwo"
+"origin" "95 693 71"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 193
+{
+"classname" "func_static"
+"name" "func_static_18"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_horiz_spacer02.lwo"
+"origin" "223 693 71"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 194
+{
+"classname" "func_static"
+"name" "func_static_20"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_horiz_spacer02.lwo"
+"origin" "351 693 71"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 195
+{
+"classname" "func_static"
+"name" "func_static_22"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_horiz_spacer02.lwo"
+"origin" "479 693 71"
+"rotation" "-1 0 0 0 -1 0 0 0 1"
+}
+// entity 196
+{
+"classname" "func_static"
+"name" "func_static_21"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_horiz_spacer02.lwo"
+"origin" "95 869 71"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 197
+{
+"classname" "func_static"
+"name" "func_static_23"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_horiz_spacer02.lwo"
+"origin" "351 869 71"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 198
+{
+"classname" "func_static"
+"name" "func_static_24"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_horiz_spacer02.lwo"
+"origin" "223 869 71"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 199
+{
+"classname" "func_static"
+"name" "func_static_13"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_horiz_spacer02.lwo"
+"origin" "479 869 71"
+"rotation" "1 0 0 0 1 0 0 0 1"
+}
+// entity 200
+{
+"classname" "atdm:interior_mansion01_ceiling01_128x128"
+"name" "func_static_14"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_ceiling01_128x128.lwo"
+"origin" "479 781 103"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 201
+{
+"classname" "atdm:interior_mansion01_ceiling01_128x128"
+"name" "func_static_17"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_ceiling01_128x128.lwo"
+"origin" "95 781 103"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 202
+{
+"classname" "atdm:interior_mansion01_ceiling01_128x128"
+"name" "func_static_16"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_ceiling01_128x128.lwo"
+"origin" "223 781 103"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
+// entity 203
+{
+"classname" "atdm:interior_mansion01_ceiling01_128x128"
+"name" "func_static_15"
+"model" "models/darkmod/architecture/modules/interior_mansion01/mansion01_ceiling01_128x128.lwo"
+"origin" "351 781 103"
+"rotation" "0 -1 0 1 0 0 0 0 1"
+}
