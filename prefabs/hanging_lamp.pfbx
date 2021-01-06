@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map version="1" format="portable">
+  <layers>
+    <layer id="0" name="Default"/>
+    <layer id="1" name="garden"/>
+    <layer id="2" name="sealing"/>
+    <layer id="3" name="pipe"/>
+    <layer id="4" name="end_house"/>
+  </layers>
+  <selectionGroups>
+    <selectionGroup id="2" name=""/>
+    <selectionGroup id="3" name=""/>
+  </selectionGroups>
+  <selectionSets/>
+  <properties>
+    <property key="EditTimeInSeconds" value="21154"/>
+    <property key="LastCameraAngle" value="12.6 168.3 0"/>
+    <property key="LastCameraPosition" value="617.759 169.312 -11.7606"/>
+    <property key="LastShaderClipboardMaterial" value="textures/common/caulk"/>
+  </properties>
+  <entity number="0">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="light"/>
+      <keyValue key="name" value="light_17"/>
+      <keyValue key="_color" value="0.498 0.420 0.247"/>
+      <keyValue key="light_center" value="0 0 0"/>
+      <keyValue key="light_radius" value="69 67 320"/>
+      <keyValue key="nodiffuse" value="0"/>
+      <keyValue key="noshadows" value="0"/>
+      <keyValue key="nospecular" value="0"/>
+      <keyValue key="origin" value="560 162 -4"/>
+      <keyValue key="parallel" value="0"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+  <entity number="1">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="func_static"/>
+      <keyValue key="name" value="func_static_407"/>
+      <keyValue key="model" value="models/darkmod/hangers/hook_sharp_small.lwo"/>
+      <keyValue key="origin" value="560 176.592 17.408"/>
+      <keyValue key="rotation" value="-1 0 0 0 0 1 0 1 0"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+  <entity number="2">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="func_static"/>
+      <keyValue key="name" value="func_static_418"/>
+      <keyValue key="model" value="models/darkmod/lights/non-extinguishable/simple_square2_hanging.lwo"/>
+      <keyValue key="origin" value="560 176 -4"/>
+      <keyValue key="rotation" value="0 -1 0 1 0 0 0 0 1"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+</map>
