@@ -2,9 +2,9 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "107178" } 
-		KeyValue { "LastCameraAngle" "0.299992 267.9 0" } 
-		KeyValue { "LastCameraPosition" "324.29 2.06312 113.178" } 
+		KeyValue { "EditTimeInSeconds" "110499" } 
+		KeyValue { "LastCameraAngle" "-10.5 248.701 0" } 
+		KeyValue { "LastCameraPosition" "386.812 119.926 142.262" } 
 		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/metal/detailed/bars_rivets_steel" } 
 	}
 	SelectionGroups
@@ -36,6 +36,8 @@ DarkRadiant Map Information File Version 2
 		SelectionGroup 58 { "" }
 		SelectionGroup 61 { "" }
 		SelectionGroup 62 { "" }
+		SelectionGroup 63 { "" }
+		SelectionGroup 64 { "" }
 	}
 	SelectionGroupNodeMapping
 	{
@@ -44,12 +46,13 @@ DarkRadiant Map Information File Version 2
 		Node { ( 0 164 ) ( 34 ) } // brush (Brush)
 		Node { ( 0 166 ) ( 41 ) } // brush (Brush)
 		Node { ( 0 167 ) ( 41 ) } // brush (Brush)
-		Node { ( 0 187 ) ( 45 ) } // patch (Patch)
+		Node { ( 0 186 ) ( 45 ) } // patch (Patch)
+		Node { ( 0 192 ) ( 57 ) } // brush (Brush)
 		Node { ( 0 193 ) ( 57 ) } // brush (Brush)
 		Node { ( 0 194 ) ( 57 ) } // brush (Brush)
 		Node { ( 0 195 ) ( 57 ) } // brush (Brush)
 		Node { ( 0 196 ) ( 57 ) } // brush (Brush)
-		Node { ( 0 197 ) ( 57 ) } // brush (Brush)
+		Node { ( 0 218 ) ( 63 ) } // patch (Patch)
 		Node { ( 459 ) ( 3 ) } // entity (func_static_310)
 		Node { ( 460 ) ( 3 ) } // entity (func_static_311)
 		Node { ( 461 ) ( 3 ) } // entity (func_static_312)
@@ -240,10 +243,17 @@ DarkRadiant Map Information File Version 2
 		Node { ( 1069 ) ( 61 ) } // entity (func_static_682)
 		Node { ( 1070 ) ( 62 ) } // entity (atdm_handle_curved_rotate_double_right_5)
 		Node { ( 1071 ) ( 62 ) } // entity (func_static_683)
+		Node { ( 1077 ) ( 63 ) } // entity (ChestFrobControl_2)
+		Node { ( 1078 ) ( 63 ) } // entity (FootlockerLid_2)
+		Node { ( 1079 ) ( 63 ) } // entity (FootLockerBody_2)
+		Node { ( 1080 ) ( 63 ) } // entity (FrobLockHandle1)
+		Node { ( 1081 ) ( 63 ) } // entity (FootLockerKey_2)
+		Node { ( 1090 ) ( 64 ) } // entity (atdm_handle_curved_rotate_double_right_6)
+		Node { ( 1091 ) ( 64 ) } // entity (func_static_696)
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 107178 }
+		TotalSecondsEdited { 110499 }
 	}
 	Layers
 	{
@@ -432,7 +442,6 @@ DarkRadiant Map Information File Version 2
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
-		Node { 1 } // brush (Brush)
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
@@ -470,6 +479,15 @@ DarkRadiant Map Information File Version 2
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
+		Node { 2 } // brush (Brush)
+		Node { 2 } // brush (Brush)
+		Node { 2 } // brush (Brush)
+		Node { 2 } // brush (Brush)
+		Node { 2 } // brush (Brush)
+		Node { 2 } // brush (Brush)
+		Node { 2 } // brush (Brush)
+		Node { 6 } // patch (Patch)
+		Node { 0 } // brush (Brush)
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
@@ -1879,23 +1897,44 @@ DarkRadiant Map Information File Version 2
 		Node { 6 } // entity (func_static_668)
 		Node { 6 } // entity (func_static_669)
 		Node { 6 } // entity (func_static_670)
-		Node { 0 } // entity (func_static_671)
+		Node { 6 } // entity (func_static_671)
 		Node { 6 } // entity (func_static_672)
 		Node { 6 } // entity (func_static_652)
 		Node { 0 } // entity (func_static_673)
 		Node { 0 } // entity (func_static_674)
 		Node { 0 } // entity (func_static_675)
-		Node { 0 } // entity (func_static_676)
-		Node { 0 } // entity (func_static_677)
-		Node { 0 } // entity (func_static_678)
-		Node { 0 } // entity (func_static_679)
-		Node { 0 } // entity (func_static_680)
-		Node { 0 } // entity (func_static_681)
+		Node { 6 } // entity (func_static_676)
+		Node { 6 } // entity (func_static_677)
+		Node { 6 } // entity (func_static_678)
+		Node { 6 } // entity (func_static_679)
+		Node { 6 } // entity (func_static_680)
+		Node { 6 } // entity (func_static_681)
 		Node { 6 } // entity (atdm_cagelamp02_hanging_2)
-		Node { 0 } // entity (atdm_handle_curved_rotate_double_right_4)
-		Node { 0 } // entity (func_static_682)
+		Node { 6 } // entity (atdm_handle_curved_rotate_double_right_4)
+		Node { 6 } // entity (func_static_682)
 		Node { 6 } // entity (atdm_handle_curved_rotate_double_right_5)
 		Node { 6 } // entity (func_static_683)
+		Node { 6 } // entity (func_static_684)
+		Node { 6 } // entity (func_static_685)
+		Node { 6 } // entity (func_static_686)
+		Node { 6 } // entity (func_static_687)
+		Node { 6 } // entity (func_static_688)
+		Node { 6 } // entity (ChestFrobControl_2)
+		Node { 6 } // brush (Brush)
+		Node { 6 } // entity (FootlockerLid_2)
+		Node { 6 } // entity (FootLockerBody_2)
+		Node { 6 } // entity (FrobLockHandle1)
+		Node { 6 } // entity (FootLockerKey_2)
+		Node { 6 } // entity (func_static_689)
+		Node { 6 } // entity (func_static_690)
+		Node { 6 } // entity (func_static_691)
+		Node { 6 } // entity (func_static_692)
+		Node { 6 } // entity (func_static_693)
+		Node { 6 } // entity (func_static_694)
+		Node { 6 } // entity (func_static_695)
+		Node { 6 } // entity (atdm_moveable_holder_small_plus_candle_2)
+		Node { 2 } // entity (atdm_handle_curved_rotate_double_right_6)
+		Node { 2 } // entity (func_static_696)
 	}
 	SelectionSets
 	{
