@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map version="1" format="portable">
+  <layers>
+    <layer id="0" name="Default"/>
+    <layer id="1" name="garden"/>
+    <layer id="2" name="sealing"/>
+    <layer id="3" name="pipe"/>
+    <layer id="4" name="end_house"/>
+    <layer id="5" name="new_room"/>
+    <layer id="6" name="inn"/>
+    <layer id="7" name="large_guestroom"/>
+    <layer id="8" name="tan_house_study"/>
+    <layer id="9" name="mansion"/>
+    <layer id="10" name="tan_house_middle"/>
+    <layer id="11" name="green_house"/>
+    <layer id="12" name="leaves"/>
+  </layers>
+  <selectionGroups>
+    <selectionGroup id="2" name=""/>
+    <selectionGroup id="3" name=""/>
+    <selectionGroup id="6" name=""/>
+    <selectionGroup id="17" name=""/>
+    <selectionGroup id="23" name=""/>
+    <selectionGroup id="26" name=""/>
+    <selectionGroup id="37" name=""/>
+    <selectionGroup id="41" name=""/>
+    <selectionGroup id="42" name=""/>
+    <selectionGroup id="44" name=""/>
+    <selectionGroup id="45" name=""/>
+    <selectionGroup id="46" name=""/>
+    <selectionGroup id="47" name=""/>
+    <selectionGroup id="48" name=""/>
+    <selectionGroup id="50" name=""/>
+    <selectionGroup id="51" name=""/>
+    <selectionGroup id="52" name=""/>
+    <selectionGroup id="53" name=""/>
+    <selectionGroup id="54" name=""/>
+    <selectionGroup id="58" name=""/>
+    <selectionGroup id="61" name=""/>
+    <selectionGroup id="62" name=""/>
+    <selectionGroup id="63" name=""/>
+    <selectionGroup id="64" name=""/>
+    <selectionGroup id="65" name=""/>
+    <selectionGroup id="66" name=""/>
+    <selectionGroup id="68" name=""/>
+    <selectionGroup id="71" name=""/>
+    <selectionGroup id="79" name=""/>
+    <selectionGroup id="80" name=""/>
+    <selectionGroup id="81" name=""/>
+    <selectionGroup id="82" name=""/>
+    <selectionGroup id="83" name=""/>
+    <selectionGroup id="84" name=""/>
+    <selectionGroup id="86" name=""/>
+    <selectionGroup id="87" name=""/>
+    <selectionGroup id="88" name=""/>
+    <selectionGroup id="89" name=""/>
+    <selectionGroup id="90" name=""/>
+    <selectionGroup id="92" name=""/>
+    <selectionGroup id="93" name=""/>
+    <selectionGroup id="94" name=""/>
+    <selectionGroup id="95" name=""/>
+    <selectionGroup id="96" name=""/>
+    <selectionGroup id="97" name=""/>
+    <selectionGroup id="100" name=""/>
+    <selectionGroup id="102" name=""/>
+    <selectionGroup id="109" name=""/>
+    <selectionGroup id="112" name=""/>
+    <selectionGroup id="113" name=""/>
+    <selectionGroup id="114" name=""/>
+    <selectionGroup id="121" name=""/>
+    <selectionGroup id="122" name=""/>
+    <selectionGroup id="123" name=""/>
+    <selectionGroup id="158" name=""/>
+    <selectionGroup id="159" name=""/>
+    <selectionGroup id="162" name=""/>
+    <selectionGroup id="163" name=""/>
+    <selectionGroup id="164" name=""/>
+    <selectionGroup id="165" name=""/>
+    <selectionGroup id="166" name=""/>
+    <selectionGroup id="167" name=""/>
+    <selectionGroup id="170" name=""/>
+    <selectionGroup id="171" name=""/>
+    <selectionGroup id="174" name=""/>
+    <selectionGroup id="175" name=""/>
+    <selectionGroup id="176" name=""/>
+    <selectionGroup id="177" name=""/>
+    <selectionGroup id="178" name=""/>
+    <selectionGroup id="179" name=""/>
+    <selectionGroup id="180" name=""/>
+    <selectionGroup id="181" name=""/>
+    <selectionGroup id="182" name=""/>
+    <selectionGroup id="183" name=""/>
+    <selectionGroup id="185" name=""/>
+    <selectionGroup id="186" name=""/>
+    <selectionGroup id="187" name=""/>
+    <selectionGroup id="188" name=""/>
+    <selectionGroup id="189" name=""/>
+    <selectionGroup id="190" name=""/>
+    <selectionGroup id="191" name=""/>
+    <selectionGroup id="193" name=""/>
+    <selectionGroup id="194" name=""/>
+    <selectionGroup id="195" name=""/>
+    <selectionGroup id="196" name=""/>
+    <selectionGroup id="197" name=""/>
+    <selectionGroup id="199" name=""/>
+    <selectionGroup id="203" name=""/>
+    <selectionGroup id="204" name=""/>
+    <selectionGroup id="206" name=""/>
+    <selectionGroup id="207" name=""/>
+    <selectionGroup id="209" name=""/>
+    <selectionGroup id="210" name=""/>
+    <selectionGroup id="211" name=""/>
+    <selectionGroup id="212" name=""/>
+    <selectionGroup id="213" name=""/>
+    <selectionGroup id="214" name=""/>
+    <selectionGroup id="215" name=""/>
+    <selectionGroup id="216" name=""/>
+  </selectionGroups>
+  <selectionSets/>
+  <properties>
+    <property key="EditTimeInSeconds" value="334733"/>
+    <property key="LastCameraAngle" value="-10.5 4.80685 0"/>
+    <property key="LastCameraPosition" value="1241.83 315.819 -0.681425"/>
+    <property key="LastShaderClipboardMaterial" value="textures/darkmod/metal/detailed/bars_rivets_steel"/>
+  </properties>
+  <entity number="0">
+    <primitives>
+      <brush number="0">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="0"/>
+            <textureProjection xx="-0.013021" yx="0.000000" tx="-0.000000" xy="0.000000" yy="0.013021" ty="0"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull_ns"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-347.000000"/>
+            <textureProjection xx="-0.013021" yx="0.000000" tx="-0.000000" xy="0.000000" yy="0.013021" ty="0"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull_ns"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1341.000000"/>
+            <textureProjection xx="-0.013021" yx="0.000000" tx="-0.000000" xy="0.000000" yy="0.013021" ty="0"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull_ns"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-40.000000"/>
+            <textureProjection xx="-0.013021" yx="0.000000" tx="-0.000000" xy="0.000000" yy="0.013021" ty="0"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull_ns"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="293.000000"/>
+            <textureProjection xx="-0.013021" yx="0.000000" tx="-0.000000" xy="0.000000" yy="0.013021" ty="0"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull_ns"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1340.000000"/>
+            <textureProjection xx="-0.013021" yx="0.000000" tx="-0.000000" xy="0.000000" yy="0.013021" ty="0"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull_ns"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="216"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="worldspawn"/>
+      <keyValue key="skin" value="timber01_lighter_wood"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+  <entity number="1">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="func_static"/>
+      <keyValue key="name" value="func_static_1391"/>
+      <keyValue key="origin" value="1340.82 318.824 -28"/>
+      <keyValue key="rotation" value="-1 0 0 0 -1 0 0 0 1"/>
+      <keyValue key="model" value="models/darkmod/furniture/shelves/wall_shelf_tall01.lwo"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="216"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+</map>
