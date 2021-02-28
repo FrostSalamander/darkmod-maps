@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map version="1" format="portable">
+  <layers>
+    <layer id="0" name="Default"/>
+    <layer id="1" name="garden"/>
+    <layer id="2" name="sealing"/>
+    <layer id="3" name="pipe"/>
+    <layer id="4" name="end_house"/>
+    <layer id="5" name="new_room"/>
+    <layer id="6" name="inn"/>
+    <layer id="7" name="large_guestroom"/>
+    <layer id="8" name="tan_house_study"/>
+    <layer id="9" name="mansion"/>
+    <layer id="10" name="tan_house_middle"/>
+    <layer id="11" name="green_house"/>
+    <layer id="12" name="leaves"/>
+    <layer id="13" name="tunnels"/>
+    <layer id="14" name="street"/>
+    <layer id="15" name="garden_view"/>
+  </layers>
+  <selectionGroups>
+    <selectionGroup id="3" name=""/>
+    <selectionGroup id="23" name=""/>
+    <selectionGroup id="37" name=""/>
+    <selectionGroup id="48" name=""/>
+    <selectionGroup id="50" name=""/>
+    <selectionGroup id="51" name=""/>
+    <selectionGroup id="52" name=""/>
+    <selectionGroup id="53" name=""/>
+    <selectionGroup id="54" name=""/>
+    <selectionGroup id="58" name=""/>
+    <selectionGroup id="61" name=""/>
+    <selectionGroup id="68" name=""/>
+    <selectionGroup id="71" name=""/>
+    <selectionGroup id="79" name=""/>
+    <selectionGroup id="80" name=""/>
+    <selectionGroup id="81" name=""/>
+    <selectionGroup id="82" name=""/>
+    <selectionGroup id="83" name=""/>
+    <selectionGroup id="84" name=""/>
+    <selectionGroup id="86" name=""/>
+    <selectionGroup id="87" name=""/>
+    <selectionGroup id="88" name=""/>
+    <selectionGroup id="90" name=""/>
+    <selectionGroup id="92" name=""/>
+    <selectionGroup id="93" name=""/>
+    <selectionGroup id="96" name=""/>
+    <selectionGroup id="97" name=""/>
+    <selectionGroup id="100" name=""/>
+    <selectionGroup id="109" name=""/>
+    <selectionGroup id="123" name=""/>
+    <selectionGroup id="176" name=""/>
+    <selectionGroup id="177" name=""/>
+    <selectionGroup id="185" name=""/>
+    <selectionGroup id="186" name=""/>
+    <selectionGroup id="187" name=""/>
+    <selectionGroup id="190" name=""/>
+    <selectionGroup id="191" name=""/>
+    <selectionGroup id="195" name=""/>
+    <selectionGroup id="196" name=""/>
+    <selectionGroup id="203" name=""/>
+    <selectionGroup id="210" name=""/>
+    <selectionGroup id="211" name=""/>
+    <selectionGroup id="212" name=""/>
+    <selectionGroup id="213" name=""/>
+    <selectionGroup id="216" name=""/>
+    <selectionGroup id="233" name=""/>
+    <selectionGroup id="234" name=""/>
+    <selectionGroup id="236" name=""/>
+    <selectionGroup id="237" name=""/>
+    <selectionGroup id="245" name=""/>
+    <selectionGroup id="254" name=""/>
+    <selectionGroup id="257" name=""/>
+    <selectionGroup id="258" name=""/>
+    <selectionGroup id="259" name=""/>
+    <selectionGroup id="260" name=""/>
+    <selectionGroup id="261" name=""/>
+    <selectionGroup id="263" name=""/>
+    <selectionGroup id="265" name=""/>
+    <selectionGroup id="268" name=""/>
+    <selectionGroup id="270" name=""/>
+    <selectionGroup id="288" name=""/>
+    <selectionGroup id="292" name=""/>
+    <selectionGroup id="294" name=""/>
+    <selectionGroup id="306" name=""/>
+    <selectionGroup id="309" name=""/>
+    <selectionGroup id="310" name=""/>
+    <selectionGroup id="319" name=""/>
+    <selectionGroup id="320" name=""/>
+    <selectionGroup id="322" name=""/>
+    <selectionGroup id="333" name=""/>
+    <selectionGroup id="334" name=""/>
+    <selectionGroup id="335" name=""/>
+    <selectionGroup id="338" name=""/>
+    <selectionGroup id="339" name=""/>
+    <selectionGroup id="341" name=""/>
+    <selectionGroup id="354" name=""/>
+    <selectionGroup id="355" name=""/>
+    <selectionGroup id="356" name=""/>
+    <selectionGroup id="357" name=""/>
+    <selectionGroup id="358" name=""/>
+    <selectionGroup id="359" name=""/>
+    <selectionGroup id="361" name=""/>
+    <selectionGroup id="362" name=""/>
+    <selectionGroup id="363" name=""/>
+    <selectionGroup id="364" name=""/>
+    <selectionGroup id="365" name=""/>
+    <selectionGroup id="366" name=""/>
+    <selectionGroup id="367" name=""/>
+    <selectionGroup id="368" name=""/>
+    <selectionGroup id="385" name=""/>
+    <selectionGroup id="389" name=""/>
+    <selectionGroup id="393" name=""/>
+    <selectionGroup id="395" name=""/>
+    <selectionGroup id="396" name=""/>
+    <selectionGroup id="398" name=""/>
+    <selectionGroup id="402" name=""/>
+    <selectionGroup id="406" name=""/>
+    <selectionGroup id="409" name=""/>
+    <selectionGroup id="412" name=""/>
+    <selectionGroup id="414" name=""/>
+    <selectionGroup id="415" name=""/>
+    <selectionGroup id="416" name=""/>
+    <selectionGroup id="417" name=""/>
+    <selectionGroup id="419" name=""/>
+    <selectionGroup id="426" name=""/>
+    <selectionGroup id="427" name=""/>
+    <selectionGroup id="433" name=""/>
+    <selectionGroup id="434" name=""/>
+    <selectionGroup id="435" name=""/>
+    <selectionGroup id="436" name=""/>
+    <selectionGroup id="444" name=""/>
+    <selectionGroup id="445" name=""/>
+    <selectionGroup id="446" name=""/>
+    <selectionGroup id="449" name=""/>
+    <selectionGroup id="450" name=""/>
+    <selectionGroup id="453" name=""/>
+    <selectionGroup id="454" name=""/>
+    <selectionGroup id="461" name=""/>
+    <selectionGroup id="469" name=""/>
+    <selectionGroup id="480" name=""/>
+    <selectionGroup id="481" name=""/>
+    <selectionGroup id="482" name=""/>
+    <selectionGroup id="484" name=""/>
+    <selectionGroup id="485" name=""/>
+    <selectionGroup id="493" name=""/>
+    <selectionGroup id="498" name=""/>
+    <selectionGroup id="500" name=""/>
+    <selectionGroup id="502" name=""/>
+    <selectionGroup id="504" name=""/>
+    <selectionGroup id="512" name=""/>
+    <selectionGroup id="516" name=""/>
+    <selectionGroup id="523" name=""/>
+    <selectionGroup id="524" name=""/>
+    <selectionGroup id="534" name=""/>
+    <selectionGroup id="536" name=""/>
+    <selectionGroup id="537" name=""/>
+    <selectionGroup id="542" name=""/>
+    <selectionGroup id="544" name=""/>
+    <selectionGroup id="548" name=""/>
+    <selectionGroup id="549" name=""/>
+    <selectionGroup id="552" name=""/>
+    <selectionGroup id="554" name=""/>
+    <selectionGroup id="556" name=""/>
+    <selectionGroup id="557" name=""/>
+    <selectionGroup id="561" name=""/>
+    <selectionGroup id="562" name=""/>
+    <selectionGroup id="563" name=""/>
+    <selectionGroup id="565" name=""/>
+    <selectionGroup id="566" name=""/>
+    <selectionGroup id="570" name=""/>
+    <selectionGroup id="571" name=""/>
+    <selectionGroup id="572" name=""/>
+    <selectionGroup id="573" name=""/>
+    <selectionGroup id="575" name=""/>
+    <selectionGroup id="577" name=""/>
+    <selectionGroup id="586" name=""/>
+    <selectionGroup id="587" name=""/>
+    <selectionGroup id="590" name=""/>
+    <selectionGroup id="591" name=""/>
+    <selectionGroup id="593" name=""/>
+    <selectionGroup id="599" name=""/>
+    <selectionGroup id="603" name=""/>
+    <selectionGroup id="604" name=""/>
+    <selectionGroup id="606" name=""/>
+    <selectionGroup id="607" name=""/>
+    <selectionGroup id="618" name=""/>
+    <selectionGroup id="619" name=""/>
+    <selectionGroup id="636" name=""/>
+    <selectionGroup id="641" name=""/>
+    <selectionGroup id="642" name=""/>
+    <selectionGroup id="643" name=""/>
+    <selectionGroup id="644" name=""/>
+    <selectionGroup id="657" name=""/>
+    <selectionGroup id="664" name=""/>
+    <selectionGroup id="665" name=""/>
+    <selectionGroup id="679" name=""/>
+    <selectionGroup id="681" name=""/>
+    <selectionGroup id="682" name=""/>
+    <selectionGroup id="687" name=""/>
+    <selectionGroup id="688" name=""/>
+    <selectionGroup id="689" name=""/>
+    <selectionGroup id="691" name=""/>
+    <selectionGroup id="694" name=""/>
+    <selectionGroup id="699" name=""/>
+    <selectionGroup id="701" name=""/>
+    <selectionGroup id="702" name=""/>
+    <selectionGroup id="703" name=""/>
+    <selectionGroup id="708" name=""/>
+    <selectionGroup id="709" name=""/>
+  </selectionGroups>
+  <selectionSets/>
+  <properties>
+    <property key="EditTimeInSeconds" value="902687"/>
+    <property key="LastCameraAngle" value="-13.2 342.6 0"/>
+    <property key="LastCameraPosition" value="826.828 585.257 899.66"/>
+    <property key="LastShaderClipboardMaterial" value="textures/darkmod/wood/boards/rough_wood_darkbrown_dull"/>
+  </properties>
+  <entity number="0">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="func_emitter"/>
+      <keyValue key="name" value="dust_1"/>
+      <keyValue key="model" value="tdm_floating_moon_dust.prt"/>
+      <keyValue key="origin" value="935.381 542.494 891.25"/>
+      <keyValue key="rotation" value="0 -0.644884 0.764281 -1 0 0 0 -0.764281 -0.644884"/>
+      <keyValue key="start_off" value="0"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="708"/>
+      <selectionGroup id="709"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+  <entity number="1">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="light"/>
+      <keyValue key="name" value="light_24"/>
+      <keyValue key="_color" value="0.11 0.15 0.20"/>
+      <keyValue key="light_right" value="1.15801 44.0869 0"/>
+      <keyValue key="light_target" value="-105.907 -4.43122 -191"/>
+      <keyValue key="light_up" value="-93.9178 -3.92957 12"/>
+      <keyValue key="nodiffuse" value="0"/>
+      <keyValue key="noshadows" value="0"/>
+      <keyValue key="nospecular" value="0"/>
+      <keyValue key="origin" value="933.922 566.954 933.25"/>
+      <keyValue key="parallel" value="0"/>
+      <keyValue key="rotation" value="0 1 0 -1 0 0 0 0 1"/>
+      <keyValue key="texture" value="lights/window01_interior_set"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="708"/>
+      <selectionGroup id="709"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+  <entity number="2">
+    <primitives>
+      <patch number="0" width="9" height="3" fixedSubdivisions="true" subdivisionsX="2" subdivisionsY="1">
+        <material name="textures/darkmod/sfx/moon_light_rays"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="964.745028" y="476.015518" z="763.250000" u="0.234375" v="0"/>
+          <controlVertex row="1" column="0" x="966.693558" y="526.137405" z="801.250000" u="0.234375" v="0.500000"/>
+          <controlVertex row="2" column="0" x="967.053389" y="566.185745" z="821.250000" u="0.234375" v="1.000000"/>
+          <controlVertex row="0" column="1" x="964.745028" y="476.015518" z="745.250000" u="0.484375" v="0"/>
+          <controlVertex row="1" column="1" x="966.775482" y="524.139084" z="785.250000" u="0.484375" v="0.500000"/>
+          <controlVertex row="2" column="1" x="967.053389" y="566.185745" z="805.250000" u="0.484375" v="1.000000"/>
+          <controlVertex row="0" column="2" x="936.768528" y="474.868576" z="745.250000" u="0.734375" v="0"/>
+          <controlVertex row="1" column="2" x="938.798983" y="522.992142" z="785.250000" u="0.734375" v="0.500000"/>
+          <controlVertex row="2" column="2" x="939.076890" y="565.038803" z="805.250000" u="0.734375" v="1.000000"/>
+          <controlVertex row="0" column="3" x="908.792028" y="473.721634" z="745.250000" u="0.984375" v="0"/>
+          <controlVertex row="1" column="3" x="910.822483" y="521.845200" z="785.250000" u="0.984375" v="0.500000"/>
+          <controlVertex row="2" column="3" x="911.100389" y="563.891861" z="805.250000" u="0.984375" v="1.000000"/>
+          <controlVertex row="0" column="4" x="908.792028" y="473.721634" z="763.250000" u="1.234375" v="0"/>
+          <controlVertex row="1" column="4" x="910.740559" y="523.843521" z="801.250000" u="1.234375" v="0.500000"/>
+          <controlVertex row="2" column="4" x="911.100389" y="563.891861" z="821.250000" u="1.234375" v="1.000000"/>
+          <controlVertex row="0" column="5" x="908.710104" y="475.719955" z="783.250000" u="1.484375" v="0"/>
+          <controlVertex row="1" column="5" x="910.740559" y="523.843521" z="817.250000" u="1.484375" v="0.500000"/>
+          <controlVertex row="2" column="5" x="911.100389" y="563.891861" z="837.250000" u="1.484375" v="1.000000"/>
+          <controlVertex row="0" column="6" x="936.686603" y="476.866898" z="783.250000" u="1.734375" v="0"/>
+          <controlVertex row="1" column="6" x="938.717058" y="524.990463" z="817.250000" u="1.734375" v="0.500000"/>
+          <controlVertex row="2" column="6" x="939.076890" y="565.038803" z="837.250000" u="1.734375" v="1.000000"/>
+          <controlVertex row="0" column="7" x="964.663103" y="478.013840" z="783.250000" u="1.984375" v="0"/>
+          <controlVertex row="1" column="7" x="966.693558" y="526.137405" z="817.250000" u="1.984375" v="0.500000"/>
+          <controlVertex row="2" column="7" x="967.053389" y="566.185745" z="837.250000" u="1.984375" v="1.000000"/>
+          <controlVertex row="0" column="8" x="964.745028" y="476.015518" z="763.250000" u="2.234375" v="0"/>
+          <controlVertex row="1" column="8" x="966.693558" y="526.137405" z="801.250000" u="2.234375" v="0.500000"/>
+          <controlVertex row="2" column="8" x="967.053389" y="566.185745" z="821.250000" u="2.234375" v="1.000000"/>
+        </controlVertices>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </patch>
+      <patch number="1" width="9" height="3" fixedSubdivisions="true" subdivisionsX="2" subdivisionsY="1">
+        <material name="textures/darkmod/sfx/moon_light_rays"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="964.745028" y="476.015518" z="791.250000" u="-0.468750" v="0"/>
+          <controlVertex row="1" column="0" x="966.693558" y="526.137405" z="833.250000" u="-0.468750" v="0.500000"/>
+          <controlVertex row="2" column="0" x="967.053389" y="566.185745" z="853.250000" u="-0.468750" v="1.000000"/>
+          <controlVertex row="0" column="1" x="964.745028" y="476.015518" z="773.250000" u="-0.218750" v="0"/>
+          <controlVertex row="1" column="1" x="966.775482" y="524.139084" z="817.250000" u="-0.218750" v="0.500000"/>
+          <controlVertex row="2" column="1" x="967.053389" y="566.185745" z="837.250000" u="-0.218750" v="1.000000"/>
+          <controlVertex row="0" column="2" x="936.768528" y="474.868576" z="773.250000" u="0.031250" v="0"/>
+          <controlVertex row="1" column="2" x="938.798983" y="522.992142" z="817.250000" u="0.031250" v="0.500000"/>
+          <controlVertex row="2" column="2" x="939.076890" y="565.038803" z="837.250000" u="0.031250" v="1.000000"/>
+          <controlVertex row="0" column="3" x="908.792028" y="473.721634" z="773.250000" u="0.281250" v="0"/>
+          <controlVertex row="1" column="3" x="910.822483" y="521.845200" z="817.250000" u="0.281250" v="0.500000"/>
+          <controlVertex row="2" column="3" x="911.100389" y="563.891861" z="837.250000" u="0.281250" v="1.000000"/>
+          <controlVertex row="0" column="4" x="908.792028" y="473.721634" z="791.250000" u="0.531250" v="0"/>
+          <controlVertex row="1" column="4" x="910.740559" y="523.843521" z="833.250000" u="0.531250" v="0.500000"/>
+          <controlVertex row="2" column="4" x="911.100389" y="563.891861" z="853.250000" u="0.531250" v="1.000000"/>
+          <controlVertex row="0" column="5" x="908.710104" y="475.719955" z="811.250000" u="0.781250" v="0"/>
+          <controlVertex row="1" column="5" x="910.740559" y="523.843521" z="849.250000" u="0.781250" v="0.500000"/>
+          <controlVertex row="2" column="5" x="911.100389" y="563.891861" z="869.250000" u="0.781250" v="1.000000"/>
+          <controlVertex row="0" column="6" x="936.686603" y="476.866898" z="811.250000" u="1.031250" v="0"/>
+          <controlVertex row="1" column="6" x="938.717058" y="524.990463" z="849.250000" u="1.031250" v="0.500000"/>
+          <controlVertex row="2" column="6" x="939.076890" y="565.038803" z="869.250000" u="1.031250" v="1.000000"/>
+          <controlVertex row="0" column="7" x="964.663103" y="478.013840" z="811.250000" u="1.281250" v="0"/>
+          <controlVertex row="1" column="7" x="966.693558" y="526.137405" z="849.250000" u="1.281250" v="0.500000"/>
+          <controlVertex row="2" column="7" x="967.053389" y="566.185745" z="869.250000" u="1.281250" v="1.000000"/>
+          <controlVertex row="0" column="8" x="964.745028" y="476.015518" z="791.250000" u="1.531250" v="0"/>
+          <controlVertex row="1" column="8" x="966.693558" y="526.137405" z="833.250000" u="1.531250" v="0.500000"/>
+          <controlVertex row="2" column="8" x="967.053389" y="566.185745" z="853.250000" u="1.531250" v="1.000000"/>
+        </controlVertices>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </patch>
+      <patch number="2" width="9" height="3" fixedSubdivisions="true" subdivisionsX="2" subdivisionsY="1">
+        <material name="textures/darkmod/sfx/moon_light_rays"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="964.745028" y="476.015518" z="819.250000" u="0" v="0"/>
+          <controlVertex row="1" column="0" x="966.693558" y="526.137405" z="865.250000" u="0" v="0.500000"/>
+          <controlVertex row="2" column="0" x="967.053389" y="566.185745" z="885.250000" u="0" v="1.000000"/>
+          <controlVertex row="0" column="1" x="964.745028" y="476.015518" z="801.250000" u="0.250000" v="0"/>
+          <controlVertex row="1" column="1" x="966.775482" y="524.139084" z="849.250000" u="0.250000" v="0.500000"/>
+          <controlVertex row="2" column="1" x="967.053389" y="566.185745" z="869.250000" u="0.250000" v="1.000000"/>
+          <controlVertex row="0" column="2" x="936.768528" y="474.868576" z="801.250000" u="0.500000" v="0"/>
+          <controlVertex row="1" column="2" x="938.798983" y="522.992142" z="849.250000" u="0.500000" v="0.500000"/>
+          <controlVertex row="2" column="2" x="939.076890" y="565.038803" z="869.250000" u="0.500000" v="1.000000"/>
+          <controlVertex row="0" column="3" x="908.792028" y="473.721634" z="801.250000" u="0.750000" v="0"/>
+          <controlVertex row="1" column="3" x="910.822483" y="521.845200" z="849.250000" u="0.750000" v="0.500000"/>
+          <controlVertex row="2" column="3" x="911.100389" y="563.891861" z="869.250000" u="0.750000" v="1.000000"/>
+          <controlVertex row="0" column="4" x="908.792028" y="473.721634" z="819.250000" u="1.000000" v="0"/>
+          <controlVertex row="1" column="4" x="910.740559" y="523.843521" z="865.250000" u="1.000000" v="0.500000"/>
+          <controlVertex row="2" column="4" x="911.100389" y="563.891861" z="885.250000" u="1.000000" v="1.000000"/>
+          <controlVertex row="0" column="5" x="908.710104" y="475.719955" z="839.250000" u="1.250000" v="0"/>
+          <controlVertex row="1" column="5" x="910.740559" y="523.843521" z="881.250000" u="1.250000" v="0.500000"/>
+          <controlVertex row="2" column="5" x="911.100389" y="563.891861" z="901.250000" u="1.250000" v="1.000000"/>
+          <controlVertex row="0" column="6" x="936.686603" y="476.866898" z="839.250000" u="1.500000" v="0"/>
+          <controlVertex row="1" column="6" x="938.717058" y="524.990463" z="881.250000" u="1.500000" v="0.500000"/>
+          <controlVertex row="2" column="6" x="939.076890" y="565.038803" z="901.250000" u="1.500000" v="1.000000"/>
+          <controlVertex row="0" column="7" x="964.663103" y="478.013840" z="839.250000" u="1.750000" v="0"/>
+          <controlVertex row="1" column="7" x="966.693558" y="526.137405" z="881.250000" u="1.750000" v="0.500000"/>
+          <controlVertex row="2" column="7" x="967.053389" y="566.185745" z="901.250000" u="1.750000" v="1.000000"/>
+          <controlVertex row="0" column="8" x="964.745028" y="476.015518" z="819.250000" u="2.000000" v="0"/>
+          <controlVertex row="1" column="8" x="966.693558" y="526.137405" z="865.250000" u="2.000000" v="0.500000"/>
+          <controlVertex row="2" column="8" x="967.053389" y="566.185745" z="885.250000" u="2.000000" v="1.000000"/>
+        </controlVertices>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </patch>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="func_static"/>
+      <keyValue key="name" value="func_static_2172"/>
+      <keyValue key="model" value="func_static_2172"/>
+      <keyValue key="origin" value="937.922 519.954 823.25"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="709"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+  <entity number="3">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="func_emitter"/>
+      <keyValue key="name" value="dust_9"/>
+      <keyValue key="cycleTrigger" value="0"/>
+      <keyValue key="model" value="tdm_floating_moon_dust.prt"/>
+      <keyValue key="origin" value="941.172 554.204 873"/>
+      <keyValue key="rotation" value="0 -0.644884 0.764281 -1 0 0 0 -0.764281 -0.644884"/>
+      <keyValue key="start_off" value="1"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="708"/>
+      <selectionGroup id="709"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+  <entity number="4">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="light"/>
+      <keyValue key="name" value="light_66"/>
+      <keyValue key="_color" value="0.32 0.34 0.40"/>
+      <keyValue key="light_center" value="20 0 10"/>
+      <keyValue key="light_radius" value="82 44 57.25"/>
+      <keyValue key="nodiffuse" value="0"/>
+      <keyValue key="noshadows" value="0"/>
+      <keyValue key="nospecular" value="0"/>
+      <keyValue key="origin" value="935.672 546.954 863.25"/>
+      <keyValue key="parallel" value="0"/>
+      <keyValue key="rotation" value="0 1 0 -1 0 0 0 0 1"/>
+      <keyValue key="texture" value="lights/window01_interior_set"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="708"/>
+      <selectionGroup id="709"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+</map>

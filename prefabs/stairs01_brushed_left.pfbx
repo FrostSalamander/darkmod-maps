@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map version="1" format="portable">
+  <layers>
+    <layer id="0" name="Default"/>
+    <layer id="1" name="garden"/>
+    <layer id="2" name="sealing"/>
+    <layer id="3" name="pipe"/>
+    <layer id="4" name="end_house"/>
+    <layer id="5" name="new_room"/>
+    <layer id="6" name="inn"/>
+    <layer id="7" name="large_guestroom"/>
+    <layer id="8" name="tan_house_study"/>
+    <layer id="9" name="mansion"/>
+    <layer id="10" name="tan_house_middle"/>
+    <layer id="11" name="green_house"/>
+    <layer id="12" name="leaves"/>
+    <layer id="13" name="tunnels"/>
+  </layers>
+  <selectionGroups>
+    <selectionGroup id="1" name=""/>
+    <selectionGroup id="2" name=""/>
+    <selectionGroup id="3" name=""/>
+    <selectionGroup id="4" name=""/>
+    <selectionGroup id="23" name=""/>
+    <selectionGroup id="37" name=""/>
+    <selectionGroup id="46" name=""/>
+    <selectionGroup id="48" name=""/>
+    <selectionGroup id="50" name=""/>
+    <selectionGroup id="51" name=""/>
+    <selectionGroup id="52" name=""/>
+    <selectionGroup id="53" name=""/>
+    <selectionGroup id="54" name=""/>
+    <selectionGroup id="58" name=""/>
+    <selectionGroup id="61" name=""/>
+    <selectionGroup id="68" name=""/>
+    <selectionGroup id="71" name=""/>
+    <selectionGroup id="79" name=""/>
+    <selectionGroup id="80" name=""/>
+    <selectionGroup id="81" name=""/>
+    <selectionGroup id="82" name=""/>
+    <selectionGroup id="83" name=""/>
+    <selectionGroup id="84" name=""/>
+    <selectionGroup id="86" name=""/>
+    <selectionGroup id="87" name=""/>
+    <selectionGroup id="88" name=""/>
+    <selectionGroup id="90" name=""/>
+    <selectionGroup id="92" name=""/>
+    <selectionGroup id="93" name=""/>
+    <selectionGroup id="95" name=""/>
+    <selectionGroup id="96" name=""/>
+    <selectionGroup id="97" name=""/>
+    <selectionGroup id="100" name=""/>
+    <selectionGroup id="109" name=""/>
+    <selectionGroup id="123" name=""/>
+    <selectionGroup id="176" name=""/>
+    <selectionGroup id="177" name=""/>
+    <selectionGroup id="180" name=""/>
+    <selectionGroup id="185" name=""/>
+    <selectionGroup id="186" name=""/>
+    <selectionGroup id="187" name=""/>
+    <selectionGroup id="190" name=""/>
+    <selectionGroup id="191" name=""/>
+    <selectionGroup id="195" name=""/>
+    <selectionGroup id="196" name=""/>
+    <selectionGroup id="203" name=""/>
+    <selectionGroup id="210" name=""/>
+    <selectionGroup id="211" name=""/>
+    <selectionGroup id="212" name=""/>
+    <selectionGroup id="213" name=""/>
+    <selectionGroup id="216" name=""/>
+    <selectionGroup id="219" name=""/>
+    <selectionGroup id="233" name=""/>
+    <selectionGroup id="234" name=""/>
+    <selectionGroup id="236" name=""/>
+    <selectionGroup id="237" name=""/>
+    <selectionGroup id="245" name=""/>
+    <selectionGroup id="247" name=""/>
+    <selectionGroup id="252" name=""/>
+    <selectionGroup id="254" name=""/>
+    <selectionGroup id="257" name=""/>
+    <selectionGroup id="258" name=""/>
+    <selectionGroup id="259" name=""/>
+    <selectionGroup id="260" name=""/>
+    <selectionGroup id="261" name=""/>
+    <selectionGroup id="263" name=""/>
+    <selectionGroup id="265" name=""/>
+    <selectionGroup id="268" name=""/>
+    <selectionGroup id="270" name=""/>
+    <selectionGroup id="284" name=""/>
+    <selectionGroup id="288" name=""/>
+    <selectionGroup id="292" name=""/>
+    <selectionGroup id="294" name=""/>
+    <selectionGroup id="306" name=""/>
+    <selectionGroup id="309" name=""/>
+    <selectionGroup id="310" name=""/>
+    <selectionGroup id="314" name=""/>
+    <selectionGroup id="319" name=""/>
+    <selectionGroup id="320" name=""/>
+    <selectionGroup id="322" name=""/>
+    <selectionGroup id="333" name=""/>
+    <selectionGroup id="334" name=""/>
+    <selectionGroup id="335" name=""/>
+    <selectionGroup id="338" name=""/>
+    <selectionGroup id="339" name=""/>
+    <selectionGroup id="341" name=""/>
+    <selectionGroup id="354" name=""/>
+    <selectionGroup id="355" name=""/>
+    <selectionGroup id="356" name=""/>
+    <selectionGroup id="357" name=""/>
+    <selectionGroup id="358" name=""/>
+    <selectionGroup id="359" name=""/>
+    <selectionGroup id="360" name=""/>
+    <selectionGroup id="361" name=""/>
+    <selectionGroup id="362" name=""/>
+    <selectionGroup id="363" name=""/>
+    <selectionGroup id="364" name=""/>
+    <selectionGroup id="365" name=""/>
+    <selectionGroup id="366" name=""/>
+    <selectionGroup id="367" name=""/>
+    <selectionGroup id="368" name=""/>
+    <selectionGroup id="374" name=""/>
+    <selectionGroup id="385" name=""/>
+    <selectionGroup id="387" name=""/>
+    <selectionGroup id="389" name=""/>
+    <selectionGroup id="390" name=""/>
+    <selectionGroup id="391" name=""/>
+    <selectionGroup id="393" name=""/>
+    <selectionGroup id="394" name=""/>
+    <selectionGroup id="395" name=""/>
+    <selectionGroup id="396" name=""/>
+    <selectionGroup id="398" name=""/>
+    <selectionGroup id="402" name=""/>
+    <selectionGroup id="406" name=""/>
+    <selectionGroup id="409" name=""/>
+    <selectionGroup id="412" name=""/>
+    <selectionGroup id="414" name=""/>
+    <selectionGroup id="415" name=""/>
+    <selectionGroup id="416" name=""/>
+    <selectionGroup id="417" name=""/>
+    <selectionGroup id="419" name=""/>
+    <selectionGroup id="426" name=""/>
+    <selectionGroup id="427" name=""/>
+    <selectionGroup id="428" name=""/>
+    <selectionGroup id="433" name=""/>
+    <selectionGroup id="434" name=""/>
+    <selectionGroup id="435" name=""/>
+    <selectionGroup id="436" name=""/>
+    <selectionGroup id="438" name=""/>
+    <selectionGroup id="439" name=""/>
+    <selectionGroup id="441" name=""/>
+    <selectionGroup id="443" name=""/>
+    <selectionGroup id="444" name=""/>
+    <selectionGroup id="445" name=""/>
+    <selectionGroup id="446" name=""/>
+    <selectionGroup id="447" name=""/>
+    <selectionGroup id="449" name=""/>
+    <selectionGroup id="450" name=""/>
+    <selectionGroup id="453" name=""/>
+    <selectionGroup id="454" name=""/>
+    <selectionGroup id="455" name=""/>
+    <selectionGroup id="456" name=""/>
+    <selectionGroup id="457" name=""/>
+    <selectionGroup id="461" name=""/>
+    <selectionGroup id="465" name=""/>
+    <selectionGroup id="469" name=""/>
+    <selectionGroup id="472" name=""/>
+    <selectionGroup id="473" name=""/>
+  </selectionGroups>
+  <selectionSets/>
+  <properties>
+    <property key="EditTimeInSeconds" value="646239"/>
+    <property key="LastCameraAngle" value="-37.5 321.175 0"/>
+    <property key="LastCameraPosition" value="551.593 -373.29 286.694"/>
+    <property key="LastShaderClipboardMaterial" value="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+  </properties>
+  <entity number="0">
+    <primitives>
+      <brush number="0">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-54.000000"/>
+            <textureProjection xx="-0.013021" yx="0" tx="122.160057" xy="0" yy="-0.013021" ty="8.372422"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-552.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="119.627579" xy="0" yy="0.013021" ty="0.546847"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="587.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="122.055901" xy="0" yy="0.013021" ty="0.546847"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="42.000000"/>
+            <textureProjection xx="-0.013021" yx="0" tx="122.055901" xy="0" yy="-0.013021" ty="119.627579"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="448.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="8.372422" xy="0" yy="0.013021" ty="0.546847"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-611.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="5.944106" xy="0" yy="0.013021" ty="0.546847"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1"/>
+          <selectionGroup id="473"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="1">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-82.000000"/>
+            <textureProjection xx="-0.013021" yx="0" tx="122.160057" xy="0" yy="-0.013021" ty="8.971360"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-552.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="119.028610" xy="0" yy="0.013021" ty="0.911425"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="633.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="122.055901" xy="0" yy="0.013021" ty="0.911425"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="70.000000"/>
+            <textureProjection xx="-0.013021" yx="0" tx="122.055901" xy="0" yy="-0.013021" ty="119.028610"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="448.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="8.971360" xy="0" yy="0.013021" ty="0.911425"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-657.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="5.944106" xy="0" yy="0.013021" ty="0.911425"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1"/>
+          <selectionGroup id="473"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="2">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-62.000000"/>
+            <textureProjection xx="-0.013021" yx="0" tx="122.160057" xy="0" yy="-0.013021" ty="8.632829"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-552.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="119.367157" xy="0" yy="0.013021" ty="0.651018"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="607.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="122.055901" xy="0" yy="0.013021" ty="0.651018"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="50.000000"/>
+            <textureProjection xx="-0.013021" yx="0" tx="122.055901" xy="0" yy="-0.013021" ty="119.367157"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="448.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="8.632829" xy="0" yy="0.013021" ty="0.651018"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-631.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="5.944106" xy="0" yy="0.013021" ty="0.651018"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1"/>
+          <selectionGroup id="473"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="3">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-72.000000"/>
+            <textureProjection xx="-0.013021" yx="0" tx="122.160057" xy="0" yy="-0.013021" ty="8.789079"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-552.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="119.210907" xy="0" yy="0.013021" ty="0.781222"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="619.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="122.055901" xy="0" yy="0.013021" ty="0.781222"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="60.000000"/>
+            <textureProjection xx="-0.013021" yx="0" tx="122.055901" xy="0" yy="-0.013021" ty="119.210907"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="448.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="8.789079" xy="0" yy="0.013021" ty="0.781222"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-643.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="5.944106" xy="0" yy="0.013021" ty="0.781222"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1"/>
+          <selectionGroup id="473"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="4">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-92.000000"/>
+            <textureProjection xx="-0.013021" yx="0" tx="122.160057" xy="0" yy="-0.013021" ty="9.179704"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-552.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="118.820282" xy="0" yy="0.013021" ty="1.041643"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="649.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="122.055901" xy="0" yy="0.013021" ty="1.041643"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="80.000000"/>
+            <textureProjection xx="-0.013021" yx="0" tx="122.055901" xy="0" yy="-0.013021" ty="118.820282"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="448.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="9.179704" xy="0" yy="0.013021" ty="1.041643"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-673.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="5.944106" xy="0" yy="0.013021" ty="1.041643"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1"/>
+          <selectionGroup id="473"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="5">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-102.000000"/>
+            <textureProjection xx="-0.013021" yx="0" tx="122.160057" xy="0" yy="-0.013021" ty="9.309907"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-552.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="118.690063" xy="0" yy="0.013021" ty="1.171847"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="659.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="122.055901" xy="0" yy="0.013021" ty="1.171847"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="90.000000"/>
+            <textureProjection xx="-0.013021" yx="0" tx="122.055901" xy="0" yy="-0.013021" ty="118.690063"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="448.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="9.309907" xy="0" yy="0.013021" ty="1.171847"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-769.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="6.048278" xy="0" yy="0.013021" ty="1.171847"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1"/>
+          <selectionGroup id="473"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="6">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-146.000000"/>
+            <textureProjection xx="0" yx="0.013021" tx="119.256477" xy="-0.013021" yy="0" ty="123.507698"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-767.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="4.492278" xy="0" yy="0.013021" ty="1.744763"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-401.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="119.152321" xy="0" yy="0.013021" ty="1.744763"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="134.000000"/>
+            <textureProjection xx="0" yx="-0.013021" tx="119.152321" xy="0.013021" yy="0" ty="4.492278"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="679.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="123.507698" xy="0" yy="0.013021" ty="1.744763"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="377.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="8.847675" xy="0" yy="0.013021" ty="1.744763"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="2"/>
+          <selectionGroup id="4"/>
+          <selectionGroup id="473"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="7">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-114.000000"/>
+            <textureProjection xx="0" yx="0.013021" tx="119.256477" xy="-0.013021" yy="0" ty="122.804573"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-767.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="5.195403" xy="0" yy="0.013021" ty="1.328097"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-455.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="119.152321" xy="0" yy="0.013021" ty="1.328097"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="102.000000"/>
+            <textureProjection xx="0" yx="-0.013021" tx="119.152321" xy="0.013021" yy="0" ty="5.195403"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="679.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="122.804573" xy="0" yy="0.013021" ty="1.328097"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="431.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="8.847675" xy="0" yy="0.013021" ty="1.328097"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="2"/>
+          <selectionGroup id="4"/>
+          <selectionGroup id="473"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="8">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-124.000000"/>
+            <textureProjection xx="0" yx="0.013021" tx="119.256477" xy="-0.013021" yy="0" ty="123.038948"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-767.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="4.961028" xy="0" yy="0.013021" ty="1.458305"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-437.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="119.152321" xy="0" yy="0.013021" ty="1.458305"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="112.000000"/>
+            <textureProjection xx="0" yx="-0.013021" tx="119.152321" xy="0.013021" yy="0" ty="4.961028"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="679.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="123.038948" xy="0" yy="0.013021" ty="1.458305"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="413.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="8.847675" xy="0" yy="0.013021" ty="1.458305"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="2"/>
+          <selectionGroup id="4"/>
+          <selectionGroup id="473"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="9">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-136.000000"/>
+            <textureProjection xx="0" yx="0.013021" tx="119.256477" xy="-0.013021" yy="0" ty="123.273323"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-767.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="4.726653" xy="0" yy="0.013021" ty="1.614555"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-419.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="119.152321" xy="0" yy="0.013021" ty="1.614555"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="124.000000"/>
+            <textureProjection xx="0" yx="-0.013021" tx="119.152321" xy="0.013021" yy="0" ty="4.726653"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="679.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="123.273323" xy="0" yy="0.013021" ty="1.614555"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="395.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="8.847675" xy="0" yy="0.013021" ty="1.614555"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="2"/>
+          <selectionGroup id="4"/>
+          <selectionGroup id="473"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="10">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-170.000000"/>
+            <textureProjection xx="0" yx="0.013021" tx="119.256477" xy="-0.013021" yy="0" ty="123.989479"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-767.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="4.010512" xy="0" yy="0.013021" ty="2.057263"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-364.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="119.152321" xy="0" yy="0.013021" ty="2.057263"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="158.000000"/>
+            <textureProjection xx="0" yx="-0.013021" tx="119.152321" xy="0.013021" yy="0" ty="4.010512"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="679.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="123.989479" xy="0" yy="0.013021" ty="2.057263"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="340.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="8.847675" xy="0" yy="0.013021" ty="2.057263"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="2"/>
+          <selectionGroup id="4"/>
+          <selectionGroup id="473"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="11">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-179.000000"/>
+            <textureProjection xx="0" yx="0.013021" tx="119.256477" xy="-0.013021" yy="0" ty="124.223854"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-767.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="3.776137" xy="0" yy="0.013021" ty="2.174451"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-346.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="119.152321" xy="0" yy="0.013021" ty="2.174451"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="167.000000"/>
+            <textureProjection xx="0" yx="-0.013021" tx="119.152321" xy="0.013021" yy="0" ty="3.776137"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="679.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="124.223854" xy="0" yy="0.013021" ty="2.174451"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="322.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="8.847675" xy="0" yy="0.013021" ty="2.174451"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="4"/>
+          <selectionGroup id="473"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="12">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-158.000000"/>
+            <textureProjection xx="0" yx="0.013021" tx="119.256477" xy="-0.013021" yy="0" ty="123.742073"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-767.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="4.257903" xy="0" yy="0.013021" ty="1.901013"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-383.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="119.152321" xy="0" yy="0.013021" ty="1.901013"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="146.000000"/>
+            <textureProjection xx="0" yx="-0.013021" tx="119.152321" xy="0.013021" yy="0" ty="4.257903"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="679.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="123.742073" xy="0" yy="0.013021" ty="1.901013"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="359.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="8.847675" xy="0" yy="0.013021" ty="1.901013"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="2"/>
+          <selectionGroup id="4"/>
+          <selectionGroup id="473"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="13">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-191.000000"/>
+            <textureProjection xx="0" yx="0.013021" tx="119.256477" xy="-0.013021" yy="0" ty="124.458229"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-767.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="3.541762" xy="0" yy="0.013021" ty="2.330701"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-328.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="119.152321" xy="0" yy="0.013021" ty="2.330701"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="179.000000"/>
+            <textureProjection xx="0" yx="-0.013021" tx="119.152321" xy="0.013021" yy="0" ty="3.541762"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="679.500000"/>
+            <textureProjection xx="0.013021" yx="0" tx="124.458229" xy="0" yy="0.013021" ty="2.330701"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="304.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="8.847675" xy="0" yy="0.013021" ty="2.330701"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="4"/>
+          <selectionGroup id="473"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="worldspawn"/>
+      <keyValue key="shop_skip" value="1"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+</map>

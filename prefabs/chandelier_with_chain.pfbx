@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map version="1" format="portable">
+  <layers>
+    <layer id="0" name="Default"/>
+    <layer id="1" name="garden"/>
+    <layer id="2" name="sealing"/>
+    <layer id="3" name="pipe"/>
+    <layer id="4" name="end_house"/>
+    <layer id="5" name="new_room"/>
+    <layer id="6" name="inn"/>
+    <layer id="7" name="large_guestroom"/>
+    <layer id="8" name="tan_house_study"/>
+    <layer id="9" name="mansion"/>
+    <layer id="10" name="tan_house_middle"/>
+    <layer id="11" name="green_house"/>
+    <layer id="12" name="leaves"/>
+    <layer id="13" name="tunnels"/>
+  </layers>
+  <selectionGroups>
+    <selectionGroup id="3" name=""/>
+    <selectionGroup id="23" name=""/>
+    <selectionGroup id="37" name=""/>
+    <selectionGroup id="42" name=""/>
+    <selectionGroup id="44" name=""/>
+    <selectionGroup id="45" name=""/>
+    <selectionGroup id="46" name=""/>
+    <selectionGroup id="48" name=""/>
+    <selectionGroup id="50" name=""/>
+    <selectionGroup id="51" name=""/>
+    <selectionGroup id="52" name=""/>
+    <selectionGroup id="53" name=""/>
+    <selectionGroup id="54" name=""/>
+    <selectionGroup id="58" name=""/>
+    <selectionGroup id="61" name=""/>
+    <selectionGroup id="65" name=""/>
+    <selectionGroup id="66" name=""/>
+    <selectionGroup id="68" name=""/>
+    <selectionGroup id="71" name=""/>
+    <selectionGroup id="79" name=""/>
+    <selectionGroup id="80" name=""/>
+    <selectionGroup id="81" name=""/>
+    <selectionGroup id="82" name=""/>
+    <selectionGroup id="83" name=""/>
+    <selectionGroup id="84" name=""/>
+    <selectionGroup id="86" name=""/>
+    <selectionGroup id="87" name=""/>
+    <selectionGroup id="88" name=""/>
+    <selectionGroup id="90" name=""/>
+    <selectionGroup id="92" name=""/>
+    <selectionGroup id="93" name=""/>
+    <selectionGroup id="94" name=""/>
+    <selectionGroup id="95" name=""/>
+    <selectionGroup id="96" name=""/>
+    <selectionGroup id="97" name=""/>
+    <selectionGroup id="100" name=""/>
+    <selectionGroup id="102" name=""/>
+    <selectionGroup id="109" name=""/>
+    <selectionGroup id="123" name=""/>
+    <selectionGroup id="176" name=""/>
+    <selectionGroup id="177" name=""/>
+    <selectionGroup id="180" name=""/>
+    <selectionGroup id="185" name=""/>
+    <selectionGroup id="186" name=""/>
+    <selectionGroup id="187" name=""/>
+    <selectionGroup id="190" name=""/>
+    <selectionGroup id="191" name=""/>
+    <selectionGroup id="193" name=""/>
+    <selectionGroup id="194" name=""/>
+    <selectionGroup id="195" name=""/>
+    <selectionGroup id="196" name=""/>
+    <selectionGroup id="203" name=""/>
+    <selectionGroup id="204" name=""/>
+    <selectionGroup id="209" name=""/>
+    <selectionGroup id="210" name=""/>
+    <selectionGroup id="211" name=""/>
+    <selectionGroup id="212" name=""/>
+    <selectionGroup id="213" name=""/>
+    <selectionGroup id="214" name=""/>
+    <selectionGroup id="216" name=""/>
+    <selectionGroup id="219" name=""/>
+    <selectionGroup id="228" name=""/>
+    <selectionGroup id="233" name=""/>
+    <selectionGroup id="234" name=""/>
+    <selectionGroup id="236" name=""/>
+    <selectionGroup id="237" name=""/>
+    <selectionGroup id="245" name=""/>
+    <selectionGroup id="246" name=""/>
+    <selectionGroup id="247" name=""/>
+    <selectionGroup id="252" name=""/>
+    <selectionGroup id="254" name=""/>
+    <selectionGroup id="257" name=""/>
+    <selectionGroup id="258" name=""/>
+    <selectionGroup id="259" name=""/>
+    <selectionGroup id="260" name=""/>
+    <selectionGroup id="261" name=""/>
+    <selectionGroup id="263" name=""/>
+    <selectionGroup id="265" name=""/>
+    <selectionGroup id="268" name=""/>
+    <selectionGroup id="270" name=""/>
+    <selectionGroup id="272" name=""/>
+    <selectionGroup id="284" name=""/>
+    <selectionGroup id="288" name=""/>
+    <selectionGroup id="289" name=""/>
+    <selectionGroup id="292" name=""/>
+    <selectionGroup id="294" name=""/>
+    <selectionGroup id="299" name=""/>
+    <selectionGroup id="302" name=""/>
+    <selectionGroup id="305" name=""/>
+    <selectionGroup id="306" name=""/>
+    <selectionGroup id="309" name=""/>
+    <selectionGroup id="310" name=""/>
+    <selectionGroup id="314" name=""/>
+    <selectionGroup id="319" name=""/>
+    <selectionGroup id="320" name=""/>
+    <selectionGroup id="322" name=""/>
+    <selectionGroup id="323" name=""/>
+    <selectionGroup id="327" name=""/>
+    <selectionGroup id="333" name=""/>
+    <selectionGroup id="334" name=""/>
+    <selectionGroup id="335" name=""/>
+    <selectionGroup id="338" name=""/>
+    <selectionGroup id="339" name=""/>
+    <selectionGroup id="341" name=""/>
+    <selectionGroup id="354" name=""/>
+    <selectionGroup id="355" name=""/>
+    <selectionGroup id="356" name=""/>
+    <selectionGroup id="357" name=""/>
+    <selectionGroup id="358" name=""/>
+    <selectionGroup id="359" name=""/>
+    <selectionGroup id="360" name=""/>
+    <selectionGroup id="361" name=""/>
+    <selectionGroup id="362" name=""/>
+    <selectionGroup id="363" name=""/>
+    <selectionGroup id="364" name=""/>
+    <selectionGroup id="365" name=""/>
+    <selectionGroup id="366" name=""/>
+    <selectionGroup id="367" name=""/>
+    <selectionGroup id="368" name=""/>
+    <selectionGroup id="374" name=""/>
+    <selectionGroup id="383" name=""/>
+    <selectionGroup id="385" name=""/>
+    <selectionGroup id="387" name=""/>
+    <selectionGroup id="389" name=""/>
+    <selectionGroup id="390" name=""/>
+    <selectionGroup id="391" name=""/>
+    <selectionGroup id="392" name=""/>
+    <selectionGroup id="393" name=""/>
+    <selectionGroup id="394" name=""/>
+    <selectionGroup id="395" name=""/>
+    <selectionGroup id="396" name=""/>
+    <selectionGroup id="397" name=""/>
+    <selectionGroup id="398" name=""/>
+    <selectionGroup id="400" name=""/>
+  </selectionGroups>
+  <selectionSets/>
+  <properties>
+    <property key="EditTimeInSeconds" value="503439"/>
+    <property key="LastCameraAngle" value="4.20002 11.109 0"/>
+    <property key="LastCameraPosition" value="1260.9 31.842 100.162"/>
+    <property key="LastShaderClipboardMaterial" value="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+  </properties>
+  <entity number="0">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="atdm:chandelier_3_candles"/>
+      <keyValue key="name" value="atdm_chandelier_3_candles_1"/>
+      <keyValue key="origin" value="1424 56 112"/>
+      <keyValue key="rotation" value="1 0 0 0 1 0 0 0 1"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="400"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+  <entity number="1">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="func_static"/>
+      <keyValue key="name" value="func_static_142"/>
+      <keyValue key="origin" value="1424.63 56.125 168"/>
+      <keyValue key="rotation" value="1 0 0 0 1 0 0 0 1"/>
+      <keyValue key="model" value="models/darkmod/dungeon/chain_straight_med.lwo"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="400"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+</map>

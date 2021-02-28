@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map version="1" format="portable">
+  <layers>
+    <layer id="0" name="Default"/>
+  </layers>
+  <selectionGroups>
+    <selectionGroup id="1" name=""/>
+  </selectionGroups>
+  <selectionSets/>
+  <properties>
+    <property key="EditTimeInSeconds" value="43204"/>
+    <property key="LastCameraAngle" value="-14.7 282.775 0"/>
+    <property key="LastCameraPosition" value="152.886 -88.8008 126.099"/>
+  </properties>
+  <entity number="0">
+    <primitives>
+      <patch number="0" width="9" height="3" fixedSubdivisions="true" subdivisionsX="2" subdivisionsY="1">
+        <material name="textures/darkmod/sfx/yellow_light_rays"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="152.439957" y="-201.500015" z="108.156601" u="-0.515625" v="0.054688"/>
+          <controlVertex row="1" column="0" x="212.577408" y="-201.500076" z="108.608322" u="-0.515625" v="0.554688"/>
+          <controlVertex row="2" column="0" x="253.439926" y="-201.500092" z="116.000000" u="-0.515625" v="1.054688"/>
+          <controlVertex row="0" column="1" x="152.439957" y="-218.500015" z="108.156601" u="-0.242766" v="0.054688"/>
+          <controlVertex row="1" column="1" x="212.577393" y="-218.500061" z="108.608322" u="-0.242766" v="0.554688"/>
+          <controlVertex row="2" column="1" x="253.439957" y="-218.500107" z="116.000000" u="-0.242766" v="1.054688"/>
+          <controlVertex row="0" column="2" x="172.485718" y="-218.500000" z="92.675140" u="0.030093" v="0.054688"/>
+          <controlVertex row="1" column="2" x="219.516281" y="-218.500076" z="94.317719" u="0.030093" v="0.554688"/>
+          <controlVertex row="2" column="2" x="253.439957" y="-218.500107" z="99.327637" u="0.030093" v="1.054688"/>
+          <controlVertex row="0" column="3" x="182.508652" y="-218.500031" z="84.338943" u="0.302952" v="0.054688"/>
+          <controlVertex row="1" column="3" x="229.539169" y="-218.500076" z="87.172409" u="0.302952" v="0.554688"/>
+          <controlVertex row="2" column="3" x="253.439957" y="-218.500107" z="83.846161" u="0.302952" v="1.054688"/>
+          <controlVertex row="0" column="4" x="182.508682" y="-201.500015" z="84.338943" u="0.575811" v="0.054688"/>
+          <controlVertex row="1" column="4" x="229.539169" y="-201.500076" z="87.172409" u="0.575811" v="0.554688"/>
+          <controlVertex row="2" column="4" x="253.439926" y="-201.500092" z="83.846161" u="0.575811" v="1.054688"/>
+          <controlVertex row="0" column="5" x="182.508667" y="-184.500031" z="84.338943" u="0.848670" v="0.054688"/>
+          <controlVertex row="1" column="5" x="229.539185" y="-184.500046" z="87.172409" u="0.848670" v="0.554688"/>
+          <controlVertex row="2" column="5" x="253.439926" y="-184.500168" z="83.846161" u="0.848670" v="1.054688"/>
+          <controlVertex row="0" column="6" x="172.485825" y="-184.500244" z="92.675140" u="1.121529" v="0.054688"/>
+          <controlVertex row="1" column="6" x="219.516296" y="-184.500153" z="94.317719" u="1.121529" v="0.554688"/>
+          <controlVertex row="2" column="6" x="253.439926" y="-184.500168" z="99.327637" u="1.121529" v="1.054688"/>
+          <controlVertex row="0" column="7" x="152.439972" y="-184.500046" z="108.156601" u="1.394388" v="0.054688"/>
+          <controlVertex row="1" column="7" x="212.577393" y="-184.500046" z="108.608322" u="1.394388" v="0.554688"/>
+          <controlVertex row="2" column="7" x="253.439926" y="-184.500168" z="116.000000" u="1.394388" v="1.054688"/>
+          <controlVertex row="0" column="8" x="152.439957" y="-201.500015" z="108.156601" u="1.667246" v="0.054688"/>
+          <controlVertex row="1" column="8" x="212.577408" y="-201.500076" z="108.608322" u="1.667246" v="0.554688"/>
+          <controlVertex row="2" column="8" x="253.439926" y="-201.500092" z="116.000000" u="1.667246" v="1.054688"/>
+        </controlVertices>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </patch>
+      <patch number="1" width="9" height="3" fixedSubdivisions="true" subdivisionsX="2" subdivisionsY="1">
+        <material name="textures/darkmod/sfx/yellow_light_rays"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="151.439957" y="-201.500000" z="80.936935" u="-0.515625" v="0.054688"/>
+          <controlVertex row="1" column="0" x="211.577408" y="-201.500076" z="81.458908" u="-0.515625" v="0.554688"/>
+          <controlVertex row="2" column="0" x="252.439926" y="-201.500107" z="90.000000" u="-0.515625" v="1.054688"/>
+          <controlVertex row="0" column="1" x="151.439941" y="-218.500015" z="80.936935" u="-0.242766" v="0.054688"/>
+          <controlVertex row="1" column="1" x="211.577377" y="-218.500046" z="81.458908" u="-0.242766" v="0.554688"/>
+          <controlVertex row="2" column="1" x="252.439926" y="-218.500046" z="90.000000" u="-0.242766" v="1.054688"/>
+          <controlVertex row="0" column="2" x="171.485718" y="-218.500015" z="63.048065" u="0.030093" v="0.054688"/>
+          <controlVertex row="1" column="2" x="218.516312" y="-218.500031" z="64.946075" u="0.030093" v="0.554688"/>
+          <controlVertex row="2" column="2" x="252.439926" y="-218.500046" z="70.735046" u="0.030093" v="1.054688"/>
+          <controlVertex row="0" column="3" x="181.508682" y="-218.500046" z="53.415573" u="0.302952" v="0.054688"/>
+          <controlVertex row="1" column="3" x="228.539169" y="-218.500046" z="56.689651" u="0.302952" v="0.554688"/>
+          <controlVertex row="2" column="3" x="252.439926" y="-218.500046" z="52.846161" u="0.302952" v="1.054688"/>
+          <controlVertex row="0" column="4" x="181.508682" y="-201.500000" z="53.415573" u="0.575811" v="0.054688"/>
+          <controlVertex row="1" column="4" x="228.539169" y="-201.500107" z="56.689651" u="0.575811" v="0.554688"/>
+          <controlVertex row="2" column="4" x="252.439926" y="-201.500107" z="52.846161" u="0.575811" v="1.054688"/>
+          <controlVertex row="0" column="5" x="181.508667" y="-184.500046" z="53.415573" u="0.848670" v="0.054688"/>
+          <controlVertex row="1" column="5" x="228.539200" y="-184.500076" z="56.689651" u="0.848670" v="0.554688"/>
+          <controlVertex row="2" column="5" x="252.439957" y="-184.500168" z="52.846161" u="0.848670" v="1.054688"/>
+          <controlVertex row="0" column="6" x="171.485870" y="-184.500244" z="63.048065" u="1.121529" v="0.054688"/>
+          <controlVertex row="1" column="6" x="218.516312" y="-184.500168" z="64.946075" u="1.121529" v="0.554688"/>
+          <controlVertex row="2" column="6" x="252.439957" y="-184.500168" z="70.735046" u="1.121529" v="1.054688"/>
+          <controlVertex row="0" column="7" x="151.439957" y="-184.500046" z="80.936935" u="1.394388" v="0.054688"/>
+          <controlVertex row="1" column="7" x="211.577393" y="-184.500046" z="81.458908" u="1.394388" v="0.554688"/>
+          <controlVertex row="2" column="7" x="252.439957" y="-184.500168" z="90.000000" u="1.394388" v="1.054688"/>
+          <controlVertex row="0" column="8" x="151.439957" y="-201.500000" z="80.936935" u="1.667246" v="0.054688"/>
+          <controlVertex row="1" column="8" x="211.577408" y="-201.500076" z="81.458908" u="1.667246" v="0.554688"/>
+          <controlVertex row="2" column="8" x="252.439926" y="-201.500107" z="90.000000" u="1.667246" v="1.054688"/>
+        </controlVertices>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </patch>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="func_static"/>
+      <keyValue key="name" value="barsign"/>
+      <keyValue key="hide" value="0"/>
+      <keyValue key="model" value="barsign"/>
+      <keyValue key="origin" value="202.94 -201 84"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+</map>

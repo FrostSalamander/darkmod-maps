@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map version="1" format="portable">
+  <layers>
+    <layer id="0" name="Default"/>
+    <layer id="1" name="gamma"/>
+    <layer id="2" name="handling"/>
+    <layer id="3" name="canal"/>
+    <layer id="4" name="climbing"/>
+    <layer id="5" name="hub"/>
+    <layer id="6" name="archery"/>
+    <layer id="7" name="locks"/>
+    <layer id="8" name="stealth"/>
+    <layer id="9" name="combat"/>
+    <layer id="10" name="tower"/>
+    <layer id="11" name="potions"/>
+  </layers>
+  <selectionGroups/>
+  <selectionSets/>
+  <properties>
+    <property key="EditTimeInSeconds" value="169"/>
+    <property key="LastCameraAngle" value="-20.2 335.975 0"/>
+    <property key="LastCameraPosition" value="-1516.09 -3492.07 404.021"/>
+    <property key="MapAngle1" value="-48 150.8 0"/>
+    <property key="MapAngle2" value="2.10002 84.5976 0"/>
+    <property key="MapAngle3" value="-3.29998 6.59757 0"/>
+    <property key="MapAngle4" value="-10.2 355.498 0"/>
+    <property key="MapAngle5" value="-61.1999 172.198 0"/>
+    <property key="MapAngle6" value="-77.0999 175.798 0"/>
+    <property key="MapAngle7" value="-74.8 149.373 0"/>
+    <property key="MapAngle8" value="-3 15.3467 0"/>
+    <property key="MapAngle9" value="-16.8 284.947 0"/>
+    <property key="MapPosition1" value="145.117 609.786 279.045"/>
+    <property key="MapPosition2" value="414.798 255.441 -264.933"/>
+    <property key="MapPosition3" value="-749.97 -1606.21 -470.066"/>
+    <property key="MapPosition4" value="1014.05 -953.679 -556.857"/>
+    <property key="MapPosition5" value="987.599 3513.79 -319.877"/>
+    <property key="MapPosition6" value="-1032.5 -2840 739.5"/>
+    <property key="MapPosition7" value="952.822 285.005 1366.04"/>
+    <property key="MapPosition8" value="976 424 320"/>
+    <property key="MapPosition9" value="409.146 547.464 392.83"/>
+  </properties>
+  <entity number="0">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="func_static"/>
+      <keyValue key="name" value="func_static_2265"/>
+      <keyValue key="model" value="models/darkmod/lights/non-extinguishable/lamp_shaded.lwo"/>
+      <keyValue key="noshadows" value="1"/>
+      <keyValue key="origin" value="-1440.08 -3557.56 413.694"/>
+      <keyValue key="rotation" value="-1 8.9407e-008 2.78233e-008 -5.96046e-008 -0.999995 0.00324152 -7.19671e-008 0.00324152 0.999995"/>
+    </keyValues>
+    <layers>
+      <layer id="8"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+  <entity number="1">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="light"/>
+      <keyValue key="name" value="light_448"/>
+      <keyValue key="_color" value="0.57 0.48 0.26"/>
+      <keyValue key="_colorORG" value="0.67 0.57 0.30"/>
+      <keyValue key="light_right" value="-131 -1 -2"/>
+      <keyValue key="light_target" value="8 45.454 -252.111"/>
+      <keyValue key="light_up" value="1 -88 -16"/>
+      <keyValue key="nodiffuse" value="0"/>
+      <keyValue key="noshadows" value="0"/>
+      <keyValue key="nospecular" value="0"/>
+      <keyValue key="origin" value="-1439 -3558 418.5"/>
+      <keyValue key="parallel" value="0"/>
+      <keyValue key="texture" value="lights/biground1"/>
+    </keyValues>
+    <layers>
+      <layer id="8"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+  <entity number="2">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="light"/>
+      <keyValue key="name" value="light_449"/>
+      <keyValue key="_color" value="0.57 0.48 0.26"/>
+      <keyValue key="light_center" value="0 0 0"/>
+      <keyValue key="light_radius" value="40 32 48"/>
+      <keyValue key="nodiffuse" value="0"/>
+      <keyValue key="noshadows" value="1"/>
+      <keyValue key="nospecular" value="0"/>
+      <keyValue key="origin" value="-1440 -3552 392"/>
+      <keyValue key="parallel" value="0"/>
+      <keyValue key="texture" value="lights/biground1"/>
+    </keyValues>
+    <layers>
+      <layer id="8"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+  <entity number="3">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="func_emitter"/>
+      <keyValue key="name" value="func_emitter_21"/>
+      <keyValue key="model" value="tdm_lamphaze_yellow_dim_short.prt"/>
+      <keyValue key="origin" value="-1438 -3558 410"/>
+      <keyValue key="rotation" value="1 0 0 0 -0.939693 -0.34202 0 0.34202 -0.939693"/>
+    </keyValues>
+    <layers>
+      <layer id="8"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+</map>

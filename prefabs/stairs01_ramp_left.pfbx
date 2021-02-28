@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map version="1" format="portable">
+  <layers>
+    <layer id="0" name="Default"/>
+  </layers>
+  <selectionGroups>
+    <selectionGroup id="1" name=""/>
+  </selectionGroups>
+  <selectionSets/>
+  <properties>
+    <property key="EditTimeInSeconds" value="43414"/>
+    <property key="LastCameraAngle" value="-33.6 96.475 0"/>
+    <property key="LastCameraPosition" value="15.6382 42.1389 2.74492"/>
+  </properties>
+  <entity number="0">
+    <primitives>
+      <brush number="0">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="68.000000"/>
+            <textureProjection xx="0.039063" yx="0" tx="63.671875" xy="0" yy="0.039063" ty="45.859375"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-236.000000"/>
+            <textureProjection xx="0.039063" yx="0" tx="82.140625" xy="0" yy="0.039063" ty="116.984375"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-76.000000"/>
+            <textureProjection xx="0.039063" yx="0" tx="63.671875" xy="0" yy="0.039063" ty="116.984375"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-128.000000"/>
+            <textureProjection xx="0.039063" yx="0" tx="63.671875" xy="0" yy="0.039063" ty="82.140625"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="128.000000"/>
+            <textureProjection xx="0.039063" yx="0" tx="45.859375" xy="0" yy="0.039063" ty="116.984375"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-12.000000"/>
+            <textureProjection xx="0.039063" yx="0" tx="64.445313" xy="0" yy="0.039063" ty="116.984375"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </brush>
+      <brush number="1">
+        <faces>
+          <face>
+            <plane x="0.514496" y="0" z="0.857493" d="56.251537"/>
+            <textureProjection xx="0.039063" yx="0" tx="63.750000" xy="0" yy="0.039063" ty="35.884113"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-228.000000"/>
+            <textureProjection xx="0.039063" yx="0" tx="77.140625" xy="0" yy="0.039063" ty="116.984375"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-4.000000"/>
+            <textureProjection xx="0.039063" yx="0" tx="63.750000" xy="0" yy="0.039063" ty="116.984375"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.514496" y="0" z="-0.857493" d="-73.401398"/>
+            <textureProjection xx="0.039063" yx="0" tx="83.921875" xy="0" yy="0.039063" ty="40.675396"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="144.000000"/>
+            <textureProjection xx="0.039063" yx="0" tx="50.859375" xy="0" yy="0.039063" ty="116.984375"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-156.000000"/>
+            <textureProjection xx="0.039063" yx="0" tx="64.328125" xy="0" yy="0.039063" ty="116.984375"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </brush>
+      <brush number="2">
+        <faces>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-128.000000"/>
+            <textureProjection xx="0.039063" yx="0" tx="82.257813" xy="0" yy="0.039063" ty="117.375000"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-76.000000"/>
+            <textureProjection xx="0.039063" yx="0" tx="63.750000" xy="0" yy="0.039063" ty="117.375000"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-128.000000"/>
+            <textureProjection xx="0.039063" yx="0" tx="63.554688" xy="0" yy="0.039063" ty="82.140625"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-12.000000"/>
+            <textureProjection xx="0.039063" yx="0" tx="64.289063" xy="0" yy="0.039063" ty="117.375000"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.563337" z="0.826227" d="128.290573"/>
+            <textureProjection xx="0.039063" yx="0" tx="65.703125" xy="0" yy="0.039063" ty="109.365990"/>
+            <material name="textures/common/tdm_nodrawsolid_wood"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </brush>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="worldspawn"/>
+      <keyValue key="shop_skip" value="1"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+</map>

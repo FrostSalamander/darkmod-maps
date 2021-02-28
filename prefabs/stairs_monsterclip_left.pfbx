@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map version="1" format="portable">
+  <layers>
+    <layer id="0" name="Default"/>
+    <layer id="1" name="garden"/>
+    <layer id="2" name="sealing"/>
+    <layer id="3" name="pipe"/>
+    <layer id="4" name="end_house"/>
+    <layer id="5" name="new_room"/>
+    <layer id="6" name="inn"/>
+    <layer id="7" name="large_guestroom"/>
+    <layer id="8" name="tan_house_study"/>
+    <layer id="9" name="mansion"/>
+    <layer id="10" name="tan_house_middle"/>
+    <layer id="11" name="green_house"/>
+    <layer id="12" name="leaves"/>
+    <layer id="13" name="tunnels"/>
+  </layers>
+  <selectionGroups>
+    <selectionGroup id="3" name=""/>
+    <selectionGroup id="23" name=""/>
+    <selectionGroup id="37" name=""/>
+    <selectionGroup id="46" name=""/>
+    <selectionGroup id="48" name=""/>
+    <selectionGroup id="50" name=""/>
+    <selectionGroup id="51" name=""/>
+    <selectionGroup id="52" name=""/>
+    <selectionGroup id="53" name=""/>
+    <selectionGroup id="54" name=""/>
+    <selectionGroup id="58" name=""/>
+    <selectionGroup id="61" name=""/>
+    <selectionGroup id="68" name=""/>
+    <selectionGroup id="71" name=""/>
+    <selectionGroup id="79" name=""/>
+    <selectionGroup id="80" name=""/>
+    <selectionGroup id="81" name=""/>
+    <selectionGroup id="82" name=""/>
+    <selectionGroup id="83" name=""/>
+    <selectionGroup id="84" name=""/>
+    <selectionGroup id="86" name=""/>
+    <selectionGroup id="87" name=""/>
+    <selectionGroup id="88" name=""/>
+    <selectionGroup id="90" name=""/>
+    <selectionGroup id="92" name=""/>
+    <selectionGroup id="93" name=""/>
+    <selectionGroup id="95" name=""/>
+    <selectionGroup id="96" name=""/>
+    <selectionGroup id="97" name=""/>
+    <selectionGroup id="100" name=""/>
+    <selectionGroup id="102" name=""/>
+    <selectionGroup id="109" name=""/>
+    <selectionGroup id="123" name=""/>
+    <selectionGroup id="176" name=""/>
+    <selectionGroup id="177" name=""/>
+    <selectionGroup id="180" name=""/>
+    <selectionGroup id="185" name=""/>
+    <selectionGroup id="186" name=""/>
+    <selectionGroup id="187" name=""/>
+    <selectionGroup id="190" name=""/>
+    <selectionGroup id="191" name=""/>
+    <selectionGroup id="193" name=""/>
+    <selectionGroup id="194" name=""/>
+    <selectionGroup id="195" name=""/>
+    <selectionGroup id="196" name=""/>
+    <selectionGroup id="203" name=""/>
+    <selectionGroup id="204" name=""/>
+    <selectionGroup id="209" name=""/>
+    <selectionGroup id="210" name=""/>
+    <selectionGroup id="211" name=""/>
+    <selectionGroup id="212" name=""/>
+    <selectionGroup id="213" name=""/>
+    <selectionGroup id="214" name=""/>
+    <selectionGroup id="216" name=""/>
+    <selectionGroup id="219" name=""/>
+    <selectionGroup id="233" name=""/>
+    <selectionGroup id="234" name=""/>
+    <selectionGroup id="236" name=""/>
+    <selectionGroup id="237" name=""/>
+    <selectionGroup id="245" name=""/>
+    <selectionGroup id="246" name=""/>
+    <selectionGroup id="247" name=""/>
+    <selectionGroup id="252" name=""/>
+    <selectionGroup id="254" name=""/>
+    <selectionGroup id="257" name=""/>
+    <selectionGroup id="258" name=""/>
+    <selectionGroup id="259" name=""/>
+    <selectionGroup id="260" name=""/>
+    <selectionGroup id="261" name=""/>
+    <selectionGroup id="263" name=""/>
+    <selectionGroup id="265" name=""/>
+    <selectionGroup id="268" name=""/>
+    <selectionGroup id="270" name=""/>
+    <selectionGroup id="284" name=""/>
+    <selectionGroup id="288" name=""/>
+    <selectionGroup id="289" name=""/>
+    <selectionGroup id="292" name=""/>
+    <selectionGroup id="294" name=""/>
+    <selectionGroup id="306" name=""/>
+    <selectionGroup id="309" name=""/>
+    <selectionGroup id="310" name=""/>
+    <selectionGroup id="314" name=""/>
+    <selectionGroup id="319" name=""/>
+    <selectionGroup id="320" name=""/>
+    <selectionGroup id="322" name=""/>
+    <selectionGroup id="333" name=""/>
+    <selectionGroup id="334" name=""/>
+    <selectionGroup id="335" name=""/>
+    <selectionGroup id="338" name=""/>
+    <selectionGroup id="339" name=""/>
+    <selectionGroup id="341" name=""/>
+    <selectionGroup id="354" name=""/>
+    <selectionGroup id="355" name=""/>
+    <selectionGroup id="356" name=""/>
+    <selectionGroup id="357" name=""/>
+    <selectionGroup id="358" name=""/>
+    <selectionGroup id="359" name=""/>
+    <selectionGroup id="360" name=""/>
+    <selectionGroup id="361" name=""/>
+    <selectionGroup id="362" name=""/>
+    <selectionGroup id="363" name=""/>
+    <selectionGroup id="364" name=""/>
+    <selectionGroup id="365" name=""/>
+    <selectionGroup id="366" name=""/>
+    <selectionGroup id="367" name=""/>
+    <selectionGroup id="368" name=""/>
+    <selectionGroup id="374" name=""/>
+    <selectionGroup id="385" name=""/>
+    <selectionGroup id="387" name=""/>
+    <selectionGroup id="389" name=""/>
+    <selectionGroup id="390" name=""/>
+    <selectionGroup id="391" name=""/>
+    <selectionGroup id="392" name=""/>
+    <selectionGroup id="393" name=""/>
+    <selectionGroup id="394" name=""/>
+    <selectionGroup id="395" name=""/>
+    <selectionGroup id="396" name=""/>
+    <selectionGroup id="397" name=""/>
+    <selectionGroup id="398" name=""/>
+    <selectionGroup id="401" name=""/>
+    <selectionGroup id="402" name=""/>
+    <selectionGroup id="404" name=""/>
+    <selectionGroup id="405" name=""/>
+    <selectionGroup id="406" name=""/>
+    <selectionGroup id="409" name=""/>
+    <selectionGroup id="412" name=""/>
+    <selectionGroup id="414" name=""/>
+    <selectionGroup id="415" name=""/>
+    <selectionGroup id="416" name=""/>
+    <selectionGroup id="417" name=""/>
+    <selectionGroup id="419" name=""/>
+    <selectionGroup id="426" name=""/>
+    <selectionGroup id="427" name=""/>
+    <selectionGroup id="428" name=""/>
+    <selectionGroup id="432" name=""/>
+    <selectionGroup id="433" name=""/>
+    <selectionGroup id="434" name=""/>
+    <selectionGroup id="435" name=""/>
+    <selectionGroup id="436" name=""/>
+    <selectionGroup id="438" name=""/>
+    <selectionGroup id="439" name=""/>
+    <selectionGroup id="441" name=""/>
+  </selectionGroups>
+  <selectionSets/>
+  <properties>
+    <property key="EditTimeInSeconds" value="585916"/>
+    <property key="LastCameraAngle" value="-48 357.755 0"/>
+    <property key="LastCameraPosition" value="504.285 -500.882 197.616"/>
+    <property key="LastShaderClipboardMaterial" value="textures/common/monster_clip"/>
+  </properties>
+  <entity number="0">
+    <primitives>
+      <brush number="0">
+        <faces>
+          <face>
+            <plane x="0" y="-0.488778" z="0.872408" d="-307.380215"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-762.969119"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.872408" z="-0.488778" d="-360.098491"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.488778" z="-0.872408" d="299.380201"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="682.969119"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.872408" z="0.488778" d="167.336489"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="8"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="441"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="1">
+        <faces>
+          <face>
+            <plane x="-0.507231" y="0" z="0.861810" d="265.961148"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.861810" y="0" z="-0.507231" d="522.482326"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="460.163064"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.507231" y="0" z="-0.861810" d="-273.961148"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.861810" y="0" z="0.507231" d="-638.047412"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-540.163064"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="8"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="441"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="2">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-93.000000"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-758.969119"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-540.163065"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="85.000000"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="682.969119"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="460.163065"/>
+            <textureProjection xx="0.026042" yx="0" tx="0" xy="0" yy="0.026042" ty="0"/>
+            <material name="textures/common/monster_clip"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="8"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="441"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="worldspawn"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+</map>
