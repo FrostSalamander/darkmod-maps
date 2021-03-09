@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map version="1" format="portable">
+  <layers>
+    <layer id="0" name="Default"/>
+    <layer id="1" name="supports"/>
+    <layer id="2" name="arches"/>
+    <layer id="3" name="arch_faces"/>
+  </layers>
+  <selectionGroups>
+    <selectionGroup id="1" name=""/>
+    <selectionGroup id="9" name=""/>
+    <selectionGroup id="12" name=""/>
+    <selectionGroup id="16" name=""/>
+    <selectionGroup id="17" name=""/>
+    <selectionGroup id="18" name=""/>
+    <selectionGroup id="19" name=""/>
+    <selectionGroup id="20" name=""/>
+    <selectionGroup id="21" name=""/>
+    <selectionGroup id="22" name=""/>
+    <selectionGroup id="26" name=""/>
+    <selectionGroup id="27" name=""/>
+    <selectionGroup id="36" name=""/>
+    <selectionGroup id="38" name=""/>
+    <selectionGroup id="39" name=""/>
+    <selectionGroup id="40" name=""/>
+    <selectionGroup id="47" name=""/>
+    <selectionGroup id="48" name=""/>
+    <selectionGroup id="49" name=""/>
+    <selectionGroup id="64" name=""/>
+    <selectionGroup id="69" name=""/>
+    <selectionGroup id="70" name=""/>
+    <selectionGroup id="71" name=""/>
+    <selectionGroup id="74" name=""/>
+    <selectionGroup id="75" name=""/>
+    <selectionGroup id="76" name=""/>
+    <selectionGroup id="77" name=""/>
+    <selectionGroup id="79" name=""/>
+    <selectionGroup id="82" name=""/>
+    <selectionGroup id="83" name=""/>
+    <selectionGroup id="84" name=""/>
+    <selectionGroup id="85" name=""/>
+  </selectionGroups>
+  <selectionSets/>
+  <properties>
+    <property key="EditTimeInSeconds" value="38812"/>
+    <property key="LastCameraAngle" value="-1.2 38.3056 0"/>
+    <property key="LastCameraPosition" value="-1826.05 4794.35 104.702"/>
+    <property key="LastShaderClipboardMaterial" value="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+  </properties>
+  <entity number="0">
+    <primitives>
+      <brush number="0">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-320.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460281" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-5120.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460281" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="384.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="224.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="18.291667"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="4608.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="28.460278" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-592.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460281" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="85"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <patch number="1" width="5" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/stone/brick/stone_rough_segmented"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-376.000000" y="5120.000000" z="-8.000000" u="0" v="0"/>
+          <controlVertex row="1" column="0" x="-388.000000" y="5120.000000" z="-8.000000" u="0" v="-0.104167"/>
+          <controlVertex row="2" column="0" x="-400.000000" y="5120.000000" z="-8.000000" u="0" v="-0.208333"/>
+          <controlVertex row="0" column="1" x="-376.000000" y="5088.000000" z="152.000000" u="2.124591" v="0"/>
+          <controlVertex row="1" column="1" x="-388.000000" y="5088.000000" z="152.000000" u="2.124591" v="-0.104167"/>
+          <controlVertex row="2" column="1" x="-400.000000" y="5088.000000" z="152.000000" u="2.124591" v="-0.208333"/>
+          <controlVertex row="0" column="2" x="-376.000000" y="4864.000000" z="184.000000" u="5.070869" v="0"/>
+          <controlVertex row="1" column="2" x="-388.000000" y="4864.000000" z="184.000000" u="5.070869" v="-0.104167"/>
+          <controlVertex row="2" column="2" x="-400.000000" y="4864.000000" z="184.000000" u="5.070869" v="-0.208333"/>
+          <controlVertex row="0" column="3" x="-376.000000" y="4640.000000" z="152.000000" u="8.017147" v="0"/>
+          <controlVertex row="1" column="3" x="-388.000000" y="4640.000000" z="152.000000" u="8.017147" v="-0.104167"/>
+          <controlVertex row="2" column="3" x="-400.000000" y="4640.000000" z="152.000000" u="8.017147" v="-0.208333"/>
+          <controlVertex row="0" column="4" x="-376.000000" y="4608.000000" z="-8.000000" u="10.141739" v="0"/>
+          <controlVertex row="1" column="4" x="-388.000000" y="4608.000000" z="-8.000000" u="10.141739" v="-0.104167"/>
+          <controlVertex row="2" column="4" x="-400.000000" y="4608.000000" z="-8.000000" u="10.141739" v="-0.208333"/>
+        </controlVertices>
+        <layers>
+          <layer id="3"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="85"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="2" width="5" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-592.000000" y="5151.378583" z="-1.724283" u="0" v="-2.708333"/>
+          <controlVertex row="1" column="0" x="-484.000000" y="5151.378583" z="-1.724283" u="0" v="-1.354167"/>
+          <controlVertex row="2" column="0" x="-376.000000" y="5151.378583" z="-1.724283" u="0" v="0"/>
+          <controlVertex row="0" column="1" x="-592.000000" y="5114.938418" z="180.476537" u="2.500000" v="-2.708333"/>
+          <controlVertex row="1" column="1" x="-484.000000" y="5114.938418" z="180.476537" u="2.500000" v="-1.354167"/>
+          <controlVertex row="2" column="1" x="-376.000000" y="5114.938418" z="180.476537" u="2.500000" v="0"/>
+          <controlVertex row="0" column="2" x="-592.000000" y="4864.000000" z="216.324881" u="5.833333" v="-2.708333"/>
+          <controlVertex row="1" column="2" x="-484.000000" y="4864.000000" z="216.324881" u="5.833333" v="-1.354167"/>
+          <controlVertex row="2" column="2" x="-376.000000" y="4864.000000" z="216.324881" u="5.833333" v="0"/>
+          <controlVertex row="0" column="3" x="-592.000000" y="4613.061582" z="180.476537" u="9.166666" v="-2.708333"/>
+          <controlVertex row="1" column="3" x="-484.000000" y="4613.061582" z="180.476537" u="9.166666" v="-1.354167"/>
+          <controlVertex row="2" column="3" x="-376.000000" y="4613.061582" z="180.476537" u="9.166666" v="0"/>
+          <controlVertex row="0" column="4" x="-592.000000" y="4576.621417" z="-1.724283" u="11.666666" v="-2.708333"/>
+          <controlVertex row="1" column="4" x="-484.000000" y="4576.621417" z="-1.724283" u="11.666666" v="-1.354167"/>
+          <controlVertex row="2" column="4" x="-376.000000" y="4576.621417" z="-1.724283" u="11.666666" v="0"/>
+        </controlVertices>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="85"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="3" width="5" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/stone/brick/stone_rough_segmented"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-376.000000" y="5151.378583" z="-1.724283" u="0" v="0"/>
+          <controlVertex row="1" column="0" x="-376.000000" y="5135.689291" z="-4.862142" u="0" v="-0.208333"/>
+          <controlVertex row="2" column="0" x="-376.000000" y="5120.000000" z="-8.000000" u="0" v="-0.416667"/>
+          <controlVertex row="0" column="1" x="-376.000000" y="5114.938418" z="180.476537" u="2.419389" v="0"/>
+          <controlVertex row="1" column="1" x="-376.000000" y="5101.469209" z="166.238269" u="2.419389" v="-0.208333"/>
+          <controlVertex row="2" column="1" x="-376.000000" y="5088.000000" z="152.000000" u="2.419389" v="-0.416667"/>
+          <controlVertex row="0" column="2" x="-376.000000" y="4864.000000" z="216.324881" u="5.719989" v="0"/>
+          <controlVertex row="1" column="2" x="-376.000000" y="4864.000000" z="200.162441" u="5.719989" v="-0.208333"/>
+          <controlVertex row="2" column="2" x="-376.000000" y="4864.000000" z="184.000000" u="5.719989" v="-0.416667"/>
+          <controlVertex row="0" column="3" x="-376.000000" y="4613.061582" z="180.476537" u="9.020589" v="0"/>
+          <controlVertex row="1" column="3" x="-376.000000" y="4626.530791" z="166.238269" u="9.020589" v="-0.208333"/>
+          <controlVertex row="2" column="3" x="-376.000000" y="4640.000000" z="152.000000" u="9.020589" v="-0.416667"/>
+          <controlVertex row="0" column="4" x="-376.000000" y="4576.621417" z="-1.724283" u="11.439979" v="0"/>
+          <controlVertex row="1" column="4" x="-376.000000" y="4592.310709" z="-4.862142" u="11.439979" v="-0.208333"/>
+          <controlVertex row="2" column="4" x="-376.000000" y="4608.000000" z="-8.000000" u="11.439979" v="-0.416667"/>
+        </controlVertices>
+        <layers>
+          <layer id="3"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="85"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="4" width="5" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-1536.000000" y="5120.000000" z="0" u="0" v="0"/>
+          <controlVertex row="1" column="0" x="-1536.000000" y="5135.689291" z="3.137858" u="0" v="-0.208333"/>
+          <controlVertex row="2" column="0" x="-1536.000000" y="5151.378583" z="6.275717" u="0" v="-0.416667"/>
+          <controlVertex row="0" column="1" x="-1536.000000" y="5088.000000" z="160.000000" u="2.419389" v="0"/>
+          <controlVertex row="1" column="1" x="-1536.000000" y="5101.469209" z="174.238269" u="2.419389" v="-0.208333"/>
+          <controlVertex row="2" column="1" x="-1536.000000" y="5114.938418" z="188.476537" u="2.419389" v="-0.416667"/>
+          <controlVertex row="0" column="2" x="-1536.000000" y="4864.000000" z="192.000000" u="5.719989" v="0"/>
+          <controlVertex row="1" column="2" x="-1536.000000" y="4864.000000" z="208.162441" u="5.719989" v="-0.208333"/>
+          <controlVertex row="2" column="2" x="-1536.000000" y="4864.000000" z="224.324881" u="5.719989" v="-0.416667"/>
+          <controlVertex row="0" column="3" x="-1536.000000" y="4640.000000" z="160.000000" u="9.020589" v="0"/>
+          <controlVertex row="1" column="3" x="-1536.000000" y="4626.530791" z="174.238269" u="9.020589" v="-0.208333"/>
+          <controlVertex row="2" column="3" x="-1536.000000" y="4613.061582" z="188.476537" u="9.020589" v="-0.416667"/>
+          <controlVertex row="0" column="4" x="-1536.000000" y="4608.000000" z="0" u="11.439979" v="0"/>
+          <controlVertex row="1" column="4" x="-1536.000000" y="4592.310709" z="3.137858" u="11.439979" v="-0.208333"/>
+          <controlVertex row="2" column="4" x="-1536.000000" y="4576.621417" z="6.275717" u="11.439979" v="-0.416667"/>
+        </controlVertices>
+        <layers>
+          <layer id="3"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="85"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="5" width="5" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-400.000000" y="5120.000000" z="0" u="257.861989" v="21.500000"/>
+          <controlVertex row="1" column="0" x="-968.000000" y="5120.000000" z="0" u="260.820323" v="21.500000"/>
+          <controlVertex row="2" column="0" x="-1536.000000" y="5120.000000" z="0" u="263.778656" v="21.500000"/>
+          <controlVertex row="0" column="1" x="-400.000000" y="5088.000000" z="160.000000" u="257.861989" v="22.333333"/>
+          <controlVertex row="1" column="1" x="-968.000000" y="5088.000000" z="160.000000" u="260.820323" v="22.333333"/>
+          <controlVertex row="2" column="1" x="-1536.000000" y="5088.000000" z="160.000000" u="263.778656" v="22.333333"/>
+          <controlVertex row="0" column="2" x="-400.000000" y="4864.000000" z="192.000000" u="257.861989" v="22.500000"/>
+          <controlVertex row="1" column="2" x="-968.000000" y="4864.000000" z="192.000000" u="260.820323" v="22.500000"/>
+          <controlVertex row="2" column="2" x="-1536.000000" y="4864.000000" z="192.000000" u="263.778656" v="22.500000"/>
+          <controlVertex row="0" column="3" x="-400.000000" y="4640.000000" z="160.000000" u="257.861989" v="22.333333"/>
+          <controlVertex row="1" column="3" x="-968.000000" y="4640.000000" z="160.000000" u="260.820323" v="22.333333"/>
+          <controlVertex row="2" column="3" x="-1536.000000" y="4640.000000" z="160.000000" u="263.778656" v="22.333333"/>
+          <controlVertex row="0" column="4" x="-400.000000" y="4608.000000" z="0" u="257.861989" v="21.500000"/>
+          <controlVertex row="1" column="4" x="-968.000000" y="4608.000000" z="0" u="260.820323" v="21.500000"/>
+          <controlVertex row="2" column="4" x="-1536.000000" y="4608.000000" z="0" u="263.778656" v="21.500000"/>
+        </controlVertices>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="85"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <brush number="6">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-224.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="22.291667"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="384.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="4608.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="28.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-1536.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460278" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-4720.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="59.376945" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="168.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="82"/>
+          <selectionGroup id="84"/>
+          <selectionGroup id="85"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="7">
+        <faces>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="384.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="4608.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-1536.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460278" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.470588" z="-0.882353" d="-2101.647059"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="59.376945" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-168.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-4648.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="59.376945" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="82"/>
+          <selectionGroup id="84"/>
+          <selectionGroup id="85"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="8">
+        <faces>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="384.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-1536.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460278" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-4720.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="59.376945" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-168.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="4648.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="49.543613" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="128.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.514496" z="-0.857493" d="-2298.081282"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="59.376945" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="82"/>
+          <selectionGroup id="84"/>
+          <selectionGroup id="85"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="9">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-224.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-4864.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="59.376945" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="384.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-1536.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460278" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.470588" z="-0.882353" d="-2101.647059"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="59.376945" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="4720.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="49.543613" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="168.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.316228" z="-0.948683" d="-1343.335704"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="59.376945" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="82"/>
+          <selectionGroup id="84"/>
+          <selectionGroup id="85"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="10">
+        <faces>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-1536.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460278" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="384.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="5008.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="49.543613" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-168.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-5080.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="59.376945" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="128.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.514496" z="-0.857493" d="2706.933819"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="49.543613" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="83"/>
+          <selectionGroup id="84"/>
+          <selectionGroup id="85"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="11">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-224.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="4864.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="49.543613" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-1536.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460278" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="384.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.470588" z="-0.882353" d="2476.235294"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-5008.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="59.376945" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="168.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.316228" z="-0.948683" d="1732.928145"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="83"/>
+          <selectionGroup id="84"/>
+          <selectionGroup id="85"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="12">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-224.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="22.291667"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-1536.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460278" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-5120.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="29.793611" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="384.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="5008.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="49.543613" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="168.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="83"/>
+          <selectionGroup id="84"/>
+          <selectionGroup id="85"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="13">
+        <faces>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-1536.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460278" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-5120.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="384.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.470588" z="-0.882353" d="2476.235294"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="49.543613" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-168.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="54.460279" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="5080.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="49.543613" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="83"/>
+          <selectionGroup id="84"/>
+          <selectionGroup id="85"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="worldspawn"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+</map>
