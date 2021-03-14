@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map version="1" format="portable">
+  <layers>
+    <layer id="0" name="Default"/>
+    <layer id="1" name="supports"/>
+    <layer id="2" name="arches"/>
+  </layers>
+  <selectionGroups>
+    <selectionGroup id="1" name=""/>
+    <selectionGroup id="9" name=""/>
+    <selectionGroup id="12" name=""/>
+    <selectionGroup id="16" name=""/>
+    <selectionGroup id="17" name=""/>
+    <selectionGroup id="18" name=""/>
+    <selectionGroup id="19" name=""/>
+    <selectionGroup id="20" name=""/>
+    <selectionGroup id="21" name=""/>
+    <selectionGroup id="22" name=""/>
+    <selectionGroup id="26" name=""/>
+    <selectionGroup id="27" name=""/>
+    <selectionGroup id="36" name=""/>
+    <selectionGroup id="38" name=""/>
+    <selectionGroup id="39" name=""/>
+    <selectionGroup id="40" name=""/>
+    <selectionGroup id="47" name=""/>
+    <selectionGroup id="48" name=""/>
+    <selectionGroup id="49" name=""/>
+    <selectionGroup id="62" name=""/>
+    <selectionGroup id="64" name=""/>
+    <selectionGroup id="69" name=""/>
+    <selectionGroup id="70" name=""/>
+    <selectionGroup id="71" name=""/>
+    <selectionGroup id="72" name=""/>
+    <selectionGroup id="73" name=""/>
+  </selectionGroups>
+  <selectionSets/>
+  <properties>
+    <property key="EditTimeInSeconds" value="30343"/>
+    <property key="LastCameraAngle" value="-2.4 181.2 0"/>
+    <property key="LastCameraPosition" value="299.8 3314.54 181.047"/>
+    <property key="LastShaderClipboardMaterial" value="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+  </properties>
+  <entity number="0">
+    <primitives>
+      <brush number="0">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-320.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="254.695328" xy="-0.000000" yy="-0.005208" ty="21.791666"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="2944.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="255.778656" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-96.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="254.653656" xy="-0.000000" yy="-0.005208" ty="21.125002"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-592.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="0.278656" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-3168.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="255.111969" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.707107" y="0.707107" z="0" d="-2025.153931"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="254.649811" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.707107" y="-0.707107" z="0" d="2296.683594"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="254.767670" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.800000" y="0" z="0.600000" d="115.199997"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="254.695328" xy="-0.000000" yy="-0.005208" ty="21.391666"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="1"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </brush>
+      <brush number="1">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-320.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="32.403625" xy="-0.000000" yy="-0.005208" ty="25.500000"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-3616.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="254.236969" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="392.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="255.403641" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="3168.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="12.861979" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-584.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="255.403641" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="224.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="255.403641" xy="-0.000000" yy="-0.005208" ty="20.291668"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="2"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="72"/>
+          <selectionGroup id="73"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <patch number="2" width="5" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/stone/brick/rough_big_blocks03"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-384.000000" y="3616.000000" z="-16.000000" u="0" v="0"/>
+          <controlVertex row="1" column="0" x="-488.000000" y="3616.000000" z="-16.000000" u="0" v="-1.354167"/>
+          <controlVertex row="2" column="0" x="-592.000000" y="3616.000000" z="-16.000000" u="0" v="-2.708333"/>
+          <controlVertex row="0" column="1" x="-384.000000" y="3616.000000" z="224.000000" u="3.125000" v="0"/>
+          <controlVertex row="1" column="1" x="-488.000000" y="3616.000000" z="224.000000" u="3.125000" v="-1.354167"/>
+          <controlVertex row="2" column="1" x="-592.000000" y="3616.000000" z="224.000000" u="3.125000" v="-2.708333"/>
+          <controlVertex row="0" column="2" x="-384.000000" y="3392.000000" z="224.000000" u="6.041666" v="0"/>
+          <controlVertex row="1" column="2" x="-488.000000" y="3392.000000" z="224.000000" u="6.041666" v="-1.354167"/>
+          <controlVertex row="2" column="2" x="-592.000000" y="3392.000000" z="224.000000" u="6.041666" v="-2.708333"/>
+          <controlVertex row="0" column="3" x="-384.000000" y="3168.000000" z="224.000000" u="8.958333" v="0"/>
+          <controlVertex row="1" column="3" x="-488.000000" y="3168.000000" z="224.000000" u="8.958333" v="-1.354167"/>
+          <controlVertex row="2" column="3" x="-592.000000" y="3168.000000" z="224.000000" u="8.958333" v="-2.708333"/>
+          <controlVertex row="0" column="4" x="-384.000000" y="3168.000000" z="-16.000000" u="12.083332" v="0"/>
+          <controlVertex row="1" column="4" x="-488.000000" y="3168.000000" z="-16.000000" u="12.083332" v="-1.354167"/>
+          <controlVertex row="2" column="4" x="-592.000000" y="3168.000000" z="-16.000000" u="12.083332" v="-2.708333"/>
+        </controlVertices>
+        <layers>
+          <layer id="2"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="72"/>
+          <selectionGroup id="73"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="3" width="5" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-392.000000" y="3168.000000" z="-16.000000" u="238.903641" v="21.375000"/>
+          <controlVertex row="1" column="0" x="-392.000000" y="3168.000000" z="224.000000" u="238.903641" v="22.625000"/>
+          <controlVertex row="2" column="0" x="-392.000000" y="3168.000000" z="224.000000" u="238.903641" v="22.625000"/>
+          <controlVertex row="0" column="1" x="-392.000000" y="3168.000000" z="224.000000" u="238.903641" v="22.625000"/>
+          <controlVertex row="1" column="1" x="-392.000000" y="3168.000000" z="224.000000" u="238.903641" v="22.625000"/>
+          <controlVertex row="2" column="1" x="-392.000000" y="3168.000000" z="224.000000" u="238.903641" v="22.625000"/>
+          <controlVertex row="0" column="2" x="-392.000000" y="3392.000000" z="224.000000" u="237.736969" v="22.625000"/>
+          <controlVertex row="1" column="2" x="-392.000000" y="3392.000000" z="224.000000" u="237.736969" v="22.625000"/>
+          <controlVertex row="2" column="2" x="-392.000000" y="3392.000000" z="224.000000" u="237.736969" v="22.625000"/>
+          <controlVertex row="0" column="3" x="-392.000000" y="3616.000000" z="224.000000" u="236.570313" v="22.625000"/>
+          <controlVertex row="1" column="3" x="-392.000000" y="3616.000000" z="224.000000" u="236.570313" v="22.625000"/>
+          <controlVertex row="2" column="3" x="-392.000000" y="3616.000000" z="224.000000" u="236.570313" v="22.625000"/>
+          <controlVertex row="0" column="4" x="-392.000000" y="3616.000000" z="-16.000000" u="236.570313" v="21.375000"/>
+          <controlVertex row="1" column="4" x="-392.000000" y="3616.000000" z="224.000000" u="236.570313" v="22.625000"/>
+          <controlVertex row="2" column="4" x="-392.000000" y="3616.000000" z="224.000000" u="236.570313" v="22.625000"/>
+        </controlVertices>
+        <layers>
+          <layer id="2"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="73"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="4" width="5" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-584.000000" y="3616.000000" z="-16.000000" u="274.236969" v="21.375000"/>
+          <controlVertex row="1" column="0" x="-584.000000" y="3616.000000" z="224.000000" u="274.236969" v="22.625000"/>
+          <controlVertex row="2" column="0" x="-584.000000" y="3616.000000" z="224.000000" u="274.236969" v="22.625000"/>
+          <controlVertex row="0" column="1" x="-584.000000" y="3616.000000" z="224.000000" u="274.236969" v="22.625000"/>
+          <controlVertex row="1" column="1" x="-584.000000" y="3616.000000" z="224.000000" u="274.236969" v="22.625000"/>
+          <controlVertex row="2" column="1" x="-584.000000" y="3616.000000" z="224.000000" u="274.236969" v="22.625000"/>
+          <controlVertex row="0" column="2" x="-584.000000" y="3392.000000" z="224.000000" u="273.070313" v="22.625000"/>
+          <controlVertex row="1" column="2" x="-584.000000" y="3392.000000" z="224.000000" u="273.070313" v="22.625000"/>
+          <controlVertex row="2" column="2" x="-584.000000" y="3392.000000" z="224.000000" u="273.070313" v="22.625000"/>
+          <controlVertex row="0" column="3" x="-584.000000" y="3168.000000" z="224.000000" u="271.903656" v="22.625000"/>
+          <controlVertex row="1" column="3" x="-584.000000" y="3168.000000" z="224.000000" u="271.903656" v="22.625000"/>
+          <controlVertex row="2" column="3" x="-584.000000" y="3168.000000" z="224.000000" u="271.903656" v="22.625000"/>
+          <controlVertex row="0" column="4" x="-584.000000" y="3168.000000" z="-16.000000" u="271.903656" v="21.375000"/>
+          <controlVertex row="1" column="4" x="-584.000000" y="3168.000000" z="224.000000" u="271.903656" v="22.625000"/>
+          <controlVertex row="2" column="4" x="-584.000000" y="3168.000000" z="224.000000" u="271.903656" v="22.625000"/>
+        </controlVertices>
+        <layers>
+          <layer id="2"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="72"/>
+          <selectionGroup id="73"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="5" width="5" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/stone/brick/rough_big_blocks03"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-592.000000" y="3648.000000" z="-16.000000" u="0" v="-0.197917"/>
+          <controlVertex row="1" column="0" x="-488.000000" y="3648.000000" z="-16.000000" u="0" v="1.052083"/>
+          <controlVertex row="2" column="0" x="-384.000000" y="3648.000000" z="-16.000000" u="0" v="2.302083"/>
+          <controlVertex row="0" column="1" x="-592.000000" y="3648.000000" z="256.000000" u="3.125000" v="-0.197917"/>
+          <controlVertex row="1" column="1" x="-488.000000" y="3648.000000" z="256.000000" u="3.125000" v="1.052083"/>
+          <controlVertex row="2" column="1" x="-384.000000" y="3648.000000" z="256.000000" u="3.125000" v="2.302083"/>
+          <controlVertex row="0" column="2" x="-592.000000" y="3392.000000" z="256.000000" u="6.041666" v="-0.197917"/>
+          <controlVertex row="1" column="2" x="-488.000000" y="3392.000000" z="256.000000" u="6.041666" v="1.052083"/>
+          <controlVertex row="2" column="2" x="-384.000000" y="3392.000000" z="256.000000" u="6.041666" v="2.302083"/>
+          <controlVertex row="0" column="3" x="-592.000000" y="3136.000000" z="256.000000" u="8.958333" v="-0.197917"/>
+          <controlVertex row="1" column="3" x="-488.000000" y="3136.000000" z="256.000000" u="8.958333" v="1.052083"/>
+          <controlVertex row="2" column="3" x="-384.000000" y="3136.000000" z="256.000000" u="8.958333" v="2.302083"/>
+          <controlVertex row="0" column="4" x="-592.000000" y="3136.000000" z="-16.000000" u="12.083332" v="-0.197917"/>
+          <controlVertex row="1" column="4" x="-488.000000" y="3136.000000" z="-16.000000" u="12.083332" v="1.052083"/>
+          <controlVertex row="2" column="4" x="-384.000000" y="3136.000000" z="-16.000000" u="12.083332" v="2.302083"/>
+        </controlVertices>
+        <layers>
+          <layer id="2"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="72"/>
+          <selectionGroup id="73"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="6" width="5" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/stone/brick/old_worn_blocks_002"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-384.000000" y="3648.000000" z="-16.000000" u="0" v="0"/>
+          <controlVertex row="1" column="0" x="-384.000000" y="3632.000000" z="-16.000000" u="0" v="-0.208333"/>
+          <controlVertex row="2" column="0" x="-384.000000" y="3616.000000" z="-16.000000" u="0" v="-0.416667"/>
+          <controlVertex row="0" column="1" x="-384.000000" y="3648.000000" z="256.000000" u="3.541667" v="0"/>
+          <controlVertex row="1" column="1" x="-384.000000" y="3632.000000" z="240.000000" u="3.541667" v="-0.208333"/>
+          <controlVertex row="2" column="1" x="-384.000000" y="3616.000000" z="224.000000" u="3.541667" v="-0.416667"/>
+          <controlVertex row="0" column="2" x="-384.000000" y="3392.000000" z="256.000000" u="6.875000" v="0"/>
+          <controlVertex row="1" column="2" x="-384.000000" y="3392.000000" z="240.000000" u="6.875000" v="-0.208333"/>
+          <controlVertex row="2" column="2" x="-384.000000" y="3392.000000" z="224.000000" u="6.875000" v="-0.416667"/>
+          <controlVertex row="0" column="3" x="-384.000000" y="3136.000000" z="256.000000" u="10.208333" v="0"/>
+          <controlVertex row="1" column="3" x="-384.000000" y="3152.000000" z="240.000000" u="10.208333" v="-0.208333"/>
+          <controlVertex row="2" column="3" x="-384.000000" y="3168.000000" z="224.000000" u="10.208333" v="-0.416667"/>
+          <controlVertex row="0" column="4" x="-384.000000" y="3136.000000" z="-16.000000" u="13.750000" v="0"/>
+          <controlVertex row="1" column="4" x="-384.000000" y="3152.000000" z="-16.000000" u="13.750000" v="-0.208333"/>
+          <controlVertex row="2" column="4" x="-384.000000" y="3168.000000" z="-16.000000" u="13.750000" v="-0.416667"/>
+        </controlVertices>
+        <layers>
+          <layer id="2"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="72"/>
+          <selectionGroup id="73"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="7" width="5" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/stone/brick/rough_big_blocks03"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-592.000000" y="3616.000000" z="-16.000000" u="0" v="0.218750"/>
+          <controlVertex row="1" column="0" x="-592.000000" y="3632.000000" z="-16.000000" u="0" v="0.010417"/>
+          <controlVertex row="2" column="0" x="-592.000000" y="3648.000000" z="-16.000000" u="0" v="-0.197917"/>
+          <controlVertex row="0" column="1" x="-592.000000" y="3616.000000" z="224.000000" u="3.541667" v="0.218750"/>
+          <controlVertex row="1" column="1" x="-592.000000" y="3632.000000" z="240.000000" u="3.541667" v="0.010417"/>
+          <controlVertex row="2" column="1" x="-592.000000" y="3648.000000" z="256.000000" u="3.541667" v="-0.197917"/>
+          <controlVertex row="0" column="2" x="-592.000000" y="3392.000000" z="224.000000" u="6.875000" v="0.218750"/>
+          <controlVertex row="1" column="2" x="-592.000000" y="3392.000000" z="240.000000" u="6.875000" v="0.010417"/>
+          <controlVertex row="2" column="2" x="-592.000000" y="3392.000000" z="256.000000" u="6.875000" v="-0.197917"/>
+          <controlVertex row="0" column="3" x="-592.000000" y="3168.000000" z="224.000000" u="10.208333" v="0.218750"/>
+          <controlVertex row="1" column="3" x="-592.000000" y="3152.000000" z="240.000000" u="10.208333" v="0.010417"/>
+          <controlVertex row="2" column="3" x="-592.000000" y="3136.000000" z="256.000000" u="10.208333" v="-0.197917"/>
+          <controlVertex row="0" column="4" x="-592.000000" y="3168.000000" z="-16.000000" u="13.750000" v="0.218750"/>
+          <controlVertex row="1" column="4" x="-592.000000" y="3152.000000" z="-16.000000" u="13.750000" v="0.010417"/>
+          <controlVertex row="2" column="4" x="-592.000000" y="3136.000000" z="-16.000000" u="13.750000" v="-0.197917"/>
+        </controlVertices>
+        <layers>
+          <layer id="2"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="72"/>
+          <selectionGroup id="73"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="8" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/stone/brick/old_worn_blocks_002"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-384.000000" y="3616.000000" z="-16.000000" u="0" v="0"/>
+          <controlVertex row="1" column="0" x="-384.000000" y="3632.000000" z="-16.000000" u="0" v="-0.208333"/>
+          <controlVertex row="2" column="0" x="-384.000000" y="3648.000000" z="-16.000000" u="0" v="-0.416667"/>
+          <controlVertex row="0" column="1" x="-488.000000" y="3616.000000" z="-16.000000" u="1.354167" v="0"/>
+          <controlVertex row="1" column="1" x="-488.000000" y="3632.000000" z="-16.000000" u="1.354167" v="-0.208333"/>
+          <controlVertex row="2" column="1" x="-488.000000" y="3648.000000" z="-16.000000" u="1.354167" v="-0.416667"/>
+          <controlVertex row="0" column="2" x="-592.000000" y="3616.000000" z="-16.000000" u="2.708333" v="0"/>
+          <controlVertex row="1" column="2" x="-592.000000" y="3632.000000" z="-16.000000" u="2.708333" v="-0.208333"/>
+          <controlVertex row="2" column="2" x="-592.000000" y="3648.000000" z="-16.000000" u="2.708333" v="-0.416667"/>
+        </controlVertices>
+        <layers>
+          <layer id="2"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="72"/>
+          <selectionGroup id="73"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="9" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/stone/brick/old_worn_blocks_002"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-384.000000" y="3136.000000" z="-16.000000" u="0" v="0"/>
+          <controlVertex row="1" column="0" x="-384.000000" y="3152.000000" z="-16.000000" u="0" v="-0.208333"/>
+          <controlVertex row="2" column="0" x="-384.000000" y="3168.000000" z="-16.000000" u="0" v="-0.416667"/>
+          <controlVertex row="0" column="1" x="-488.000000" y="3136.000000" z="-16.000000" u="1.354167" v="0"/>
+          <controlVertex row="1" column="1" x="-488.000000" y="3152.000000" z="-16.000000" u="1.354167" v="-0.208333"/>
+          <controlVertex row="2" column="1" x="-488.000000" y="3168.000000" z="-16.000000" u="1.354167" v="-0.416667"/>
+          <controlVertex row="0" column="2" x="-592.000000" y="3136.000000" z="-16.000000" u="2.708333" v="0"/>
+          <controlVertex row="1" column="2" x="-592.000000" y="3152.000000" z="-16.000000" u="2.708333" v="-0.208333"/>
+          <controlVertex row="2" column="2" x="-592.000000" y="3168.000000" z="-16.000000" u="2.708333" v="-0.416667"/>
+        </controlVertices>
+        <layers>
+          <layer id="2"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="72"/>
+          <selectionGroup id="73"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <brush number="10">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-320.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="2.153656" xy="-0.000000" yy="-0.005208" ty="21.791666"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="3616.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="255.778656" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-96.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="2.153656" xy="-0.000000" yy="-0.005208" ty="21.125002"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-592.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="252.778671" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-3840.000000"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="255.111969" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.707107" y="0.707107" z="0" d="-2500.329834"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="1.124700" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.707107" y="-0.707107" z="0" d="2771.859375"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="1.242559" xy="-0.000000" yy="-0.005208" ty="21.458334"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.800000" y="0" z="0.600000" d="115.199997"/>
+            <textureProjection xx="-0.005208" yx="0.000000" tx="2.153656" xy="-0.000000" yy="-0.005208" ty="21.391666"/>
+            <material name="textures/darkmod/stone/brick/blocks_darksheen_smooth"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="1"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </brush>
+      <patch number="11" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/wood/boards/roof_framework_boards_large_old_darkbrown"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-320.000000" y="3600.000000" z="-96.000000" u="271.104170" v="-2.604167"/>
+          <controlVertex row="1" column="0" x="-320.000000" y="3600.000000" z="-96.000000" u="271.104170" v="-2.604167"/>
+          <controlVertex row="2" column="0" x="-320.000000" y="3600.000000" z="-96.000000" u="271.104170" v="-2.604167"/>
+          <controlVertex row="0" column="1" x="-320.000000" y="3600.000000" z="-96.000000" u="271.104170" v="-2.604167"/>
+          <controlVertex row="1" column="1" x="-320.000000" y="3600.000000" z="-96.000000" u="271.104170" v="-2.604167"/>
+          <controlVertex row="2" column="1" x="-320.000000" y="3600.000000" z="-96.000000" u="271.104170" v="-2.604167"/>
+          <controlVertex row="0" column="2" x="-384.000000" y="3568.000000" z="-96.000000" u="270.687504" v="-3.437500"/>
+          <controlVertex row="1" column="2" x="-64.000000" y="3632.000000" z="-96.000000" u="271.520837" v="0.729167"/>
+          <controlVertex row="2" column="2" x="0" y="3760.000000" z="-96.000000" u="273.187504" v="1.562500"/>
+        </controlVertices>
+        <layers>
+          <layer id="1"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="69"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="12" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/wood/boards/dark_rough"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="0" y="3760.000000" z="-96.000000" u="254.437500" v="0.520833"/>
+          <controlVertex row="1" column="0" x="0" y="3760.000000" z="-148.000000" u="254.437500" v="1.197917"/>
+          <controlVertex row="2" column="0" x="0" y="3760.000000" z="-200.000000" u="254.437500" v="1.875000"/>
+          <controlVertex row="0" column="1" x="-64.000000" y="3632.000000" z="-96.000000" u="255.270828" v="0.520833"/>
+          <controlVertex row="1" column="1" x="-64.000000" y="3632.000000" z="-148.000000" u="255.270828" v="1.197917"/>
+          <controlVertex row="2" column="1" x="-64.000000" y="3632.000000" z="-200.000000" u="255.270828" v="1.875000"/>
+          <controlVertex row="0" column="2" x="-384.000000" y="3568.000000" z="-96.000000" u="259.437500" v="0.520833"/>
+          <controlVertex row="1" column="2" x="-384.000000" y="3568.000000" z="-148.000000" u="259.437500" v="1.197917"/>
+          <controlVertex row="2" column="2" x="-384.000000" y="3568.000000" z="-200.000000" u="259.437500" v="1.875000"/>
+        </controlVertices>
+        <layers>
+          <layer id="1"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="69"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="13" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/wood/boards/dark_rough"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="0" y="3760.000000" z="-200.000000" u="254.437500" v="1.875000"/>
+          <controlVertex row="1" column="0" x="0" y="3760.000000" z="-148.000000" u="254.437500" v="1.197917"/>
+          <controlVertex row="2" column="0" x="0" y="3760.000000" z="-96.000000" u="254.437500" v="0.520833"/>
+          <controlVertex row="0" column="1" x="-64.000000" y="3888.000000" z="-200.000000" u="255.270828" v="1.875000"/>
+          <controlVertex row="1" column="1" x="-64.000000" y="3888.000000" z="-148.000000" u="255.270828" v="1.197917"/>
+          <controlVertex row="2" column="1" x="-64.000000" y="3888.000000" z="-96.000000" u="255.270828" v="0.520833"/>
+          <controlVertex row="0" column="2" x="-384.000000" y="3952.000000" z="-200.000000" u="259.437500" v="1.875000"/>
+          <controlVertex row="1" column="2" x="-384.000000" y="3952.000000" z="-148.000000" u="259.437500" v="1.197917"/>
+          <controlVertex row="2" column="2" x="-384.000000" y="3952.000000" z="-96.000000" u="259.437500" v="0.520833"/>
+        </controlVertices>
+        <layers>
+          <layer id="1"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="69"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="14" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/stone/brick/rough_big_blocks02"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-320.000000" y="3696.000000" z="-200.000000" u="0" v="0"/>
+          <controlVertex row="1" column="0" x="-320.000000" y="3696.000000" z="-200.000000" u="0" v="-7.453560"/>
+          <controlVertex row="2" column="0" x="-320.000000" y="3696.000000" z="-200.000000" u="0" v="-24.450291"/>
+          <controlVertex row="0" column="1" x="-320.000000" y="3696.000000" z="-200.000000" u="0" v="0"/>
+          <controlVertex row="1" column="1" x="-320.000000" y="3696.000000" z="-200.000000" u="0" v="-7.453560"/>
+          <controlVertex row="2" column="1" x="-320.000000" y="3696.000000" z="-200.000000" u="0" v="-24.450291"/>
+          <controlVertex row="0" column="2" x="0" y="3760.000000" z="-200.000000" u="16.996731" v="0"/>
+          <controlVertex row="1" column="2" x="-64.000000" y="3632.000000" z="-200.000000" u="16.996731" v="-7.453560"/>
+          <controlVertex row="2" column="2" x="-384.000000" y="3568.000000" z="-200.000000" u="16.996731" v="-24.450291"/>
+        </controlVertices>
+        <layers>
+          <layer id="1"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="69"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="15" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/stone/brick/rough_big_blocks02"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-320.000000" y="3824.000000" z="-200.000000" u="0" v="0"/>
+          <controlVertex row="1" column="0" x="-320.000000" y="3824.000000" z="-200.000000" u="0" v="-16.996731"/>
+          <controlVertex row="2" column="0" x="-320.000000" y="3824.000000" z="-200.000000" u="0" v="-24.450291"/>
+          <controlVertex row="0" column="1" x="-320.000000" y="3824.000000" z="-200.000000" u="0" v="0"/>
+          <controlVertex row="1" column="1" x="-320.000000" y="3824.000000" z="-200.000000" u="0" v="-16.996731"/>
+          <controlVertex row="2" column="1" x="-320.000000" y="3824.000000" z="-200.000000" u="0" v="-24.450291"/>
+          <controlVertex row="0" column="2" x="-384.000000" y="3952.000000" z="-200.000000" u="16.996731" v="0"/>
+          <controlVertex row="1" column="2" x="-64.000000" y="3888.000000" z="-200.000000" u="16.996731" v="-16.996731"/>
+          <controlVertex row="2" column="2" x="0" y="3760.000000" z="-200.000000" u="16.996731" v="-24.450291"/>
+        </controlVertices>
+        <layers>
+          <layer id="1"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="69"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="16" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/wood/boards/roof_framework_boards_large_old_darkbrown"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-288.000000" y="3904.000000" z="-96.000000" u="275.062504" v="-2.187500"/>
+          <controlVertex row="1" column="0" x="-288.000000" y="3904.000000" z="-96.000000" u="275.062504" v="-2.187500"/>
+          <controlVertex row="2" column="0" x="-288.000000" y="3904.000000" z="-96.000000" u="275.062504" v="-2.187500"/>
+          <controlVertex row="0" column="1" x="-288.000000" y="3904.000000" z="-96.000000" u="275.062504" v="-2.187500"/>
+          <controlVertex row="1" column="1" x="-288.000000" y="3904.000000" z="-96.000000" u="275.062504" v="-2.187500"/>
+          <controlVertex row="2" column="1" x="-288.000000" y="3904.000000" z="-96.000000" u="275.062504" v="-2.187500"/>
+          <controlVertex row="0" column="2" x="0" y="3760.000000" z="-96.000000" u="273.187504" v="1.562500"/>
+          <controlVertex row="1" column="2" x="-64.000000" y="3888.000000" z="-96.000000" u="274.854170" v="0.729167"/>
+          <controlVertex row="2" column="2" x="-384.000000" y="3952.000000" z="-96.000000" u="275.687504" v="-3.437500"/>
+        </controlVertices>
+        <layers>
+          <layer id="1"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="69"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <brush number="17">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="96.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="224.229172" xy="0" yy="0.013021" ty="1.562500"/>
+            <material name="textures/darkmod/wood/boards/roof_framework_boards_large_old_darkbrown"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-3952.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="231.520844" xy="0" yy="0.013021" ty="0.208333"/>
+            <material name="textures/darkmod/wood/boards/roof_framework_boards_large_old_darkbrown"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-200.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="224.229172" xy="0" yy="0.013021" ty="1.562500"/>
+            <material name="textures/darkmod/wood/boards/roof_framework_boards_large_old_darkbrown"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="3568.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="231.520844" xy="0" yy="0.013021" ty="0.208333"/>
+            <material name="textures/darkmod/wood/boards/dark_rough"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-1536.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="238.812515" xy="0" yy="0.013021" ty="0.208333"/>
+            <material name="textures/darkmod/wood/boards/roof_framework_boards_large_old_darkbrown"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.447214" y="0.894427" z="0" d="-3363.046387"/>
+            <textureProjection xx="0.013021" yx="0" tx="228.259888" xy="0" yy="0.013021" ty="0.208333"/>
+            <material name="textures/darkmod/wood/boards/roof_framework_boards_large_old_darkbrown"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.447214" y="-0.894427" z="0" d="3363.046387"/>
+            <textureProjection xx="0.013021" yx="0" tx="228.259888" xy="0" yy="0.013021" ty="0.208333"/>
+            <material name="textures/darkmod/wood/boards/roof_framework_boards_large_old_darkbrown"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="1"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="69"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="18">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="96.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="233.812500" xy="0" yy="0.013021" ty="1.562500"/>
+            <material name="textures/darkmod/wood/boards/roof_framework_boards_large_old_darkbrown"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-3216.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="231.520844" xy="0" yy="0.013021" ty="0.208333"/>
+            <material name="textures/darkmod/wood/boards/roof_framework_boards_large_old_darkbrown"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-200.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="233.812500" xy="0" yy="0.013021" ty="1.562500"/>
+            <material name="textures/darkmod/wood/boards/roof_framework_boards_large_old_darkbrown"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="2832.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="231.520844" xy="0" yy="0.013021" ty="0.208333"/>
+            <material name="textures/darkmod/wood/boards/dark_rough"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-1536.000000"/>
+            <textureProjection xx="0.013021" yx="0" tx="229.229187" xy="0" yy="0.013021" ty="0.208333"/>
+            <material name="textures/darkmod/wood/boards/roof_framework_boards_large_old_darkbrown"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.447214" y="0.894427" z="0" d="-2704.747982"/>
+            <textureProjection xx="0.013021" yx="0" tx="232.545685" xy="0" yy="0.013021" ty="0.208333"/>
+            <material name="textures/darkmod/wood/boards/roof_framework_boards_large_old_darkbrown"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.447214" y="-0.894427" z="0" d="2704.747982"/>
+            <textureProjection xx="0.013021" yx="0" tx="232.545685" xy="0" yy="0.013021" ty="0.208333"/>
+            <material name="textures/darkmod/wood/boards/roof_framework_boards_large_old_darkbrown"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="1"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="71"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <patch number="19" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/stone/brick/rough_big_blocks02"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-320.000000" y="2960.000000" z="-200.000000" u="0" v="0"/>
+          <controlVertex row="1" column="0" x="-320.000000" y="2960.000000" z="-200.000000" u="0" v="-7.453560"/>
+          <controlVertex row="2" column="0" x="-320.000000" y="2960.000000" z="-200.000000" u="0" v="-24.450291"/>
+          <controlVertex row="0" column="1" x="-320.000000" y="2960.000000" z="-200.000000" u="0" v="0"/>
+          <controlVertex row="1" column="1" x="-320.000000" y="2960.000000" z="-200.000000" u="0" v="-7.453560"/>
+          <controlVertex row="2" column="1" x="-320.000000" y="2960.000000" z="-200.000000" u="0" v="-24.450291"/>
+          <controlVertex row="0" column="2" x="0" y="3024.000000" z="-200.000000" u="16.996731" v="0"/>
+          <controlVertex row="1" column="2" x="-64.000000" y="2896.000000" z="-200.000000" u="16.996731" v="-7.453560"/>
+          <controlVertex row="2" column="2" x="-384.000000" y="2832.000000" z="-200.000000" u="16.996731" v="-24.450291"/>
+        </controlVertices>
+        <layers>
+          <layer id="1"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="71"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="20" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/wood/boards/dark_rough"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="0" y="3024.000000" z="-96.000000" u="254.437500" v="0.520833"/>
+          <controlVertex row="1" column="0" x="0" y="3024.000000" z="-148.000000" u="254.437500" v="1.197917"/>
+          <controlVertex row="2" column="0" x="0" y="3024.000000" z="-200.000000" u="254.437500" v="1.875000"/>
+          <controlVertex row="0" column="1" x="-64.000000" y="2896.000000" z="-96.000000" u="255.270828" v="0.520833"/>
+          <controlVertex row="1" column="1" x="-64.000000" y="2896.000000" z="-148.000000" u="255.270828" v="1.197917"/>
+          <controlVertex row="2" column="1" x="-64.000000" y="2896.000000" z="-200.000000" u="255.270828" v="1.875000"/>
+          <controlVertex row="0" column="2" x="-384.000000" y="2832.000000" z="-96.000000" u="259.437500" v="0.520833"/>
+          <controlVertex row="1" column="2" x="-384.000000" y="2832.000000" z="-148.000000" u="259.437500" v="1.197917"/>
+          <controlVertex row="2" column="2" x="-384.000000" y="2832.000000" z="-200.000000" u="259.437500" v="1.875000"/>
+        </controlVertices>
+        <layers>
+          <layer id="1"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="71"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="21" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/wood/boards/roof_framework_boards_large_old_darkbrown"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-320.000000" y="2864.000000" z="-96.000000" u="271.104170" v="-2.604167"/>
+          <controlVertex row="1" column="0" x="-320.000000" y="2864.000000" z="-96.000000" u="271.104170" v="-2.604167"/>
+          <controlVertex row="2" column="0" x="-320.000000" y="2864.000000" z="-96.000000" u="271.104170" v="-2.604167"/>
+          <controlVertex row="0" column="1" x="-320.000000" y="2864.000000" z="-96.000000" u="271.104170" v="-2.604167"/>
+          <controlVertex row="1" column="1" x="-320.000000" y="2864.000000" z="-96.000000" u="271.104170" v="-2.604167"/>
+          <controlVertex row="2" column="1" x="-320.000000" y="2864.000000" z="-96.000000" u="271.104170" v="-2.604167"/>
+          <controlVertex row="0" column="2" x="-384.000000" y="2832.000000" z="-96.000000" u="270.687504" v="-3.437500"/>
+          <controlVertex row="1" column="2" x="-64.000000" y="2896.000000" z="-96.000000" u="271.520837" v="0.729167"/>
+          <controlVertex row="2" column="2" x="0" y="3024.000000" z="-96.000000" u="273.187504" v="1.562500"/>
+        </controlVertices>
+        <layers>
+          <layer id="1"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="71"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="22" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/stone/brick/rough_big_blocks02"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-320.000000" y="3088.000000" z="-200.000000" u="0" v="0"/>
+          <controlVertex row="1" column="0" x="-320.000000" y="3088.000000" z="-200.000000" u="0" v="-16.996731"/>
+          <controlVertex row="2" column="0" x="-320.000000" y="3088.000000" z="-200.000000" u="0" v="-24.450291"/>
+          <controlVertex row="0" column="1" x="-320.000000" y="3088.000000" z="-200.000000" u="0" v="0"/>
+          <controlVertex row="1" column="1" x="-320.000000" y="3088.000000" z="-200.000000" u="0" v="-16.996731"/>
+          <controlVertex row="2" column="1" x="-320.000000" y="3088.000000" z="-200.000000" u="0" v="-24.450291"/>
+          <controlVertex row="0" column="2" x="-384.000000" y="3216.000000" z="-200.000000" u="16.996731" v="0"/>
+          <controlVertex row="1" column="2" x="-64.000000" y="3152.000000" z="-200.000000" u="16.996731" v="-16.996731"/>
+          <controlVertex row="2" column="2" x="0" y="3024.000000" z="-200.000000" u="16.996731" v="-24.450291"/>
+        </controlVertices>
+        <layers>
+          <layer id="1"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="71"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="23" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/wood/boards/dark_rough"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="0" y="3024.000000" z="-200.000000" u="254.437500" v="1.875000"/>
+          <controlVertex row="1" column="0" x="0" y="3024.000000" z="-148.000000" u="254.437500" v="1.197917"/>
+          <controlVertex row="2" column="0" x="0" y="3024.000000" z="-96.000000" u="254.437500" v="0.520833"/>
+          <controlVertex row="0" column="1" x="-64.000000" y="3152.000000" z="-200.000000" u="255.270828" v="1.875000"/>
+          <controlVertex row="1" column="1" x="-64.000000" y="3152.000000" z="-148.000000" u="255.270828" v="1.197917"/>
+          <controlVertex row="2" column="1" x="-64.000000" y="3152.000000" z="-96.000000" u="255.270828" v="0.520833"/>
+          <controlVertex row="0" column="2" x="-384.000000" y="3216.000000" z="-200.000000" u="259.437500" v="1.875000"/>
+          <controlVertex row="1" column="2" x="-384.000000" y="3216.000000" z="-148.000000" u="259.437500" v="1.197917"/>
+          <controlVertex row="2" column="2" x="-384.000000" y="3216.000000" z="-96.000000" u="259.437500" v="0.520833"/>
+        </controlVertices>
+        <layers>
+          <layer id="1"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="71"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+      <patch number="24" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/wood/boards/roof_framework_boards_large_old_darkbrown"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-288.000000" y="3168.000000" z="-96.000000" u="275.062504" v="-2.187500"/>
+          <controlVertex row="1" column="0" x="-288.000000" y="3168.000000" z="-96.000000" u="275.062504" v="-2.187500"/>
+          <controlVertex row="2" column="0" x="-288.000000" y="3168.000000" z="-96.000000" u="275.062504" v="-2.187500"/>
+          <controlVertex row="0" column="1" x="-288.000000" y="3168.000000" z="-96.000000" u="275.062504" v="-2.187500"/>
+          <controlVertex row="1" column="1" x="-288.000000" y="3168.000000" z="-96.000000" u="275.062504" v="-2.187500"/>
+          <controlVertex row="2" column="1" x="-288.000000" y="3168.000000" z="-96.000000" u="275.062504" v="-2.187500"/>
+          <controlVertex row="0" column="2" x="0" y="3024.000000" z="-96.000000" u="273.187504" v="1.562500"/>
+          <controlVertex row="1" column="2" x="-64.000000" y="3152.000000" z="-96.000000" u="274.854170" v="0.729167"/>
+          <controlVertex row="2" column="2" x="-384.000000" y="3216.000000" z="-96.000000" u="275.687504" v="-3.437500"/>
+        </controlVertices>
+        <layers>
+          <layer id="1"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="71"/>
+        </selectionGroups>
+        <selectionSets/>
+      </patch>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="worldspawn"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+</map>

@@ -1,0 +1,3867 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map version="1" format="portable">
+  <layers>
+    <layer id="0" name="Default"/>
+    <layer id="1" name="outer_seal"/>
+    <layer id="2" name="mill"/>
+    <layer id="3" name="sealing"/>
+    <layer id="4" name="houses"/>
+    <layer id="5" name="river"/>
+    <layer id="6" name="citywall"/>
+    <layer id="7" name="weather"/>
+  </layers>
+  <selectionGroups>
+    <selectionGroup id="82" name=""/>
+    <selectionGroup id="83" name=""/>
+    <selectionGroup id="84" name=""/>
+    <selectionGroup id="86" name=""/>
+    <selectionGroup id="87" name=""/>
+    <selectionGroup id="88" name=""/>
+    <selectionGroup id="89" name=""/>
+    <selectionGroup id="90" name=""/>
+    <selectionGroup id="91" name=""/>
+    <selectionGroup id="92" name=""/>
+    <selectionGroup id="93" name=""/>
+    <selectionGroup id="94" name=""/>
+    <selectionGroup id="95" name=""/>
+    <selectionGroup id="96" name=""/>
+    <selectionGroup id="97" name=""/>
+    <selectionGroup id="116" name=""/>
+    <selectionGroup id="118" name=""/>
+    <selectionGroup id="119" name=""/>
+    <selectionGroup id="120" name=""/>
+    <selectionGroup id="121" name=""/>
+    <selectionGroup id="122" name=""/>
+    <selectionGroup id="123" name=""/>
+    <selectionGroup id="124" name=""/>
+    <selectionGroup id="128" name=""/>
+    <selectionGroup id="129" name=""/>
+    <selectionGroup id="133" name=""/>
+    <selectionGroup id="134" name=""/>
+    <selectionGroup id="135" name=""/>
+    <selectionGroup id="136" name=""/>
+    <selectionGroup id="138" name=""/>
+    <selectionGroup id="140" name=""/>
+    <selectionGroup id="142" name=""/>
+    <selectionGroup id="144" name=""/>
+    <selectionGroup id="149" name=""/>
+    <selectionGroup id="151" name=""/>
+    <selectionGroup id="152" name=""/>
+    <selectionGroup id="154" name=""/>
+    <selectionGroup id="155" name=""/>
+    <selectionGroup id="157" name=""/>
+    <selectionGroup id="158" name=""/>
+    <selectionGroup id="160" name=""/>
+    <selectionGroup id="161" name=""/>
+    <selectionGroup id="162" name=""/>
+    <selectionGroup id="164" name=""/>
+    <selectionGroup id="167" name=""/>
+    <selectionGroup id="168" name=""/>
+    <selectionGroup id="169" name=""/>
+    <selectionGroup id="170" name=""/>
+    <selectionGroup id="171" name=""/>
+    <selectionGroup id="174" name=""/>
+    <selectionGroup id="175" name=""/>
+    <selectionGroup id="180" name=""/>
+    <selectionGroup id="183" name=""/>
+    <selectionGroup id="184" name=""/>
+    <selectionGroup id="185" name=""/>
+    <selectionGroup id="186" name=""/>
+    <selectionGroup id="187" name=""/>
+    <selectionGroup id="188" name=""/>
+    <selectionGroup id="189" name=""/>
+    <selectionGroup id="190" name=""/>
+    <selectionGroup id="191" name=""/>
+    <selectionGroup id="192" name=""/>
+    <selectionGroup id="193" name=""/>
+    <selectionGroup id="194" name=""/>
+    <selectionGroup id="197" name=""/>
+    <selectionGroup id="198" name=""/>
+    <selectionGroup id="201" name=""/>
+    <selectionGroup id="203" name=""/>
+    <selectionGroup id="204" name=""/>
+    <selectionGroup id="207" name=""/>
+    <selectionGroup id="210" name=""/>
+    <selectionGroup id="211" name=""/>
+    <selectionGroup id="212" name=""/>
+    <selectionGroup id="213" name=""/>
+    <selectionGroup id="214" name=""/>
+    <selectionGroup id="215" name=""/>
+    <selectionGroup id="216" name=""/>
+    <selectionGroup id="217" name=""/>
+    <selectionGroup id="218" name=""/>
+    <selectionGroup id="219" name=""/>
+    <selectionGroup id="220" name=""/>
+    <selectionGroup id="221" name=""/>
+    <selectionGroup id="222" name=""/>
+    <selectionGroup id="223" name=""/>
+    <selectionGroup id="224" name=""/>
+    <selectionGroup id="225" name=""/>
+    <selectionGroup id="226" name=""/>
+    <selectionGroup id="227" name=""/>
+    <selectionGroup id="229" name=""/>
+    <selectionGroup id="230" name=""/>
+    <selectionGroup id="231" name=""/>
+  </selectionGroups>
+  <selectionSets/>
+  <properties>
+    <property key="EditTimeInSeconds" value="68931"/>
+    <property key="LastCameraAngle" value="-12.2999 257.081 0"/>
+    <property key="LastCameraPosition" value="1562.99 -899.178 875.661"/>
+    <property key="LastShaderClipboardMaterial" value="textures/darkmod/wood/boards/wood_brown_dull01"/>
+  </properties>
+  <entity number="0">
+    <primitives>
+      <brush number="0">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-621.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.950424" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.179248" xy="-0.010851" yy="-0.000000" ty="246.950424"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-978.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.168383" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="613.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.049561" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.179248" xy="-0.010851" yy="-0.000000" ty="9.049559"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="970.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.179248" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="222"/>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="1">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-637.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.776810" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.352858" xy="-0.010851" yy="-0.000000" ty="246.776810"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-994.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.341994" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="629.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.223171" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.352858" xy="-0.010851" yy="-0.000000" ty="9.223169"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="986.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.352858" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="220"/>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="2">
+        <faces>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1690.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="9.223168" xy="0" yy="0.010851" ty="3.873701"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-994.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="240.418381" xy="0" yy="0.010851" ty="3.873701"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="693.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="240.418381" xy="0.010851" yy="0" ty="9.223168"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1684.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="246.776810" xy="0" yy="0.010851" ty="3.873701"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="989.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="3.873701"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.707107" z="0.707107" d="207.150906"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="9.413460"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="224"/>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="3">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-629.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.863617" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.266053" xy="-0.010851" yy="-0.000000" ty="246.863617"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-986.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.255189" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="621.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.136366" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.266053" xy="-0.010851" yy="-0.000000" ty="9.136364"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="978.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.266053" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="221"/>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="4">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-646.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.717346" xy="0.000000" yy="-0.010851" ty="14.915344"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.450528" xy="-0.010851" yy="-0.000000" ty="246.690002"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1002.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.439664" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="645.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.309977" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.450528" xy="-0.010851" yy="-0.000000" ty="9.309975"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="993.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.473965" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="219"/>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="5">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-669.000000"/>
+            <textureProjection xx="0.000000" yx="-0.010851" tx="15.633240" xy="0.010851" yy="0.000000" ty="8.903272"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.715688" y="-0.698420" z="0" d="-1884.950909"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="4.519599" xy="0.000000" yy="-0.010851" ty="252.837280"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.698420" y="-0.715688" z="0" d="484.655642"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="17.463017" xy="0.000000" yy="-0.010851" ty="252.837250"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="637.000000"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="15.633240" xy="-0.010851" yy="-0.000000" ty="246.966919"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.715688" y="0.698420" z="0" d="1881.950903"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="251.536865" xy="0.000000" yy="-0.010851" ty="252.837250"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.698420" y="0.715688" z="0" d="-487.655661"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="238.640320" xy="0.000000" yy="-0.010851" ty="252.837250"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="225"/>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="6">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-760.000000"/>
+            <textureProjection xx="0" yx="0.010851" tx="241.221329" xy="-0.010851" yy="0" ty="247.199982"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1619.001511"/>
+            <textureProjection xx="-0.007673" yx="0.007673" tx="251.856705" xy="-0.007673" yy="-0.007673" ty="246.768463"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1607.001507"/>
+            <textureProjection xx="0.007673" yx="0.007673" tx="251.849045" xy="-0.007673" yy="0.007673" ty="9.282568"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="961.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778625" xy="0" yy="0.010851" ty="3.124990"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.707107" z="0.707107" d="242.530098"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778625" xy="0" yy="0.010851" ty="9.176525"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.707107" z="-0.707107" d="-244.650647"/>
+            <textureProjection xx="0.010851" yx="0" tx="241.221329" xy="0" yy="0.010851" ty="8.424597"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="216"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="7">
+        <faces>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1616.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="9.223168" xy="0" yy="0.010851" ty="3.873701"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-994.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="241.221329" xy="0" yy="0.010851" ty="3.873701"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="693.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="241.221329" xy="0.010851" yy="0" ty="9.223168"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1610.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="246.776810" xy="0" yy="0.010851" ty="3.873701"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="989.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778622" xy="0" yy="0.010851" ty="3.873701"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.707107" z="0.707107" d="207.150906"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778622" xy="0" yy="0.010851" ty="9.413460"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="226"/>
+          <selectionGroup id="213"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="8">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-630.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.890961" xy="0.000000" yy="-0.010851" ty="14.915344"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.276917" xy="-0.010851" yy="-0.000000" ty="246.863617"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-986.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.266053" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="629.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.136366" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.276917" xy="-0.010851" yy="-0.000000" ty="9.136364"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="977.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.300355" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="221"/>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="9">
+        <faces>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1690.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="8.962752" xy="0" yy="0.010851" ty="3.613285"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-970.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="240.418381" xy="0" yy="0.010851" ty="3.613285"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="669.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="240.418381" xy="0.010851" yy="0" ty="8.962752"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1684.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="247.037231" xy="0" yy="0.010851" ty="3.613285"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="965.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="3.613285"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.707107" z="0.707107" d="207.150906"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="9.045176"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="225"/>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="10">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-622.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.977768" xy="0.000000" yy="-0.010851" ty="14.915344"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.190112" xy="-0.010851" yy="-0.000000" ty="246.950424"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-978.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.179248" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="621.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.049561" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.190112" xy="-0.010851" yy="-0.000000" ty="9.049559"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="969.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.213549" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="222"/>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="11">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-760.000000"/>
+            <textureProjection xx="0" yx="0.010851" tx="240.418381" xy="-0.010851" yy="0" ty="247.189117"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1693.001507"/>
+            <textureProjection xx="-0.007673" yx="0.007673" tx="251.849045" xy="-0.007673" yy="-0.007673" ty="246.760803"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1681.001511"/>
+            <textureProjection xx="0.007673" yx="0.007673" tx="251.856705" xy="-0.007673" yy="0.007673" ty="9.274908"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="961.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="3.124990"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.707107" z="0.707107" d="242.536901"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="8.532022"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.707107" z="-0.707107" d="-244.657971"/>
+            <textureProjection xx="0.010851" yx="0" tx="240.418381" xy="0" yy="0.010851" ty="8.424566"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="217"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="12">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-760.000000"/>
+            <textureProjection xx="0" yx="0.010851" tx="241.221329" xy="-0.010851" yy="0" ty="247.199982"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1618.001509"/>
+            <textureProjection xx="0.007673" yx="-0.007673" tx="4.150954" xy="0.007673" yy="0.007673" ty="9.260870"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1106.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="241.221329" xy="0" yy="0.010851" ty="2.918816"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="605.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="241.221329" xy="0.010851" yy="0" ty="8.962752"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1608.001507"/>
+            <textureProjection xx="0.007673" yx="0.007673" tx="251.849045" xy="-0.007673" yy="0.007673" ty="9.260870"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="961.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778625" xy="0" yy="0.010851" ty="3.092441"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.707107" z="0.707107" d="244.652112"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778625" xy="0" yy="0.010851" ty="9.260900"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.707107" z="-0.707107" d="-260.915611"/>
+            <textureProjection xx="0.010851" yx="0" tx="241.221329" xy="0" yy="0.010851" ty="9.260900"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="216"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="13">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-798.000000"/>
+            <textureProjection xx="0" yx="0.010851" tx="240.418381" xy="-0.010851" yy="0" ty="247.254242"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1691.001507"/>
+            <textureProjection xx="-0.007673" yx="0.007673" tx="252.255692" xy="-0.007673" yy="-0.007673" ty="246.354126"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1683.001507"/>
+            <textureProjection xx="0.007673" yx="0.007673" tx="252.263351" xy="-0.007673" yy="0.007673" ty="9.681555"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="960.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="3.689243"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.707107" z="0.707107" d="205.060189"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="8.693145"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.707107" z="-0.707107" d="-207.181487"/>
+            <textureProjection xx="0.010851" yx="0" tx="240.418381" xy="0" yy="0.010851" ty="9.813330"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="14">
+        <faces>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1692.001507"/>
+            <textureProjection xx="0.007673" yx="-0.007673" tx="4.150954" xy="0.007673" yy="0.007673" ty="9.260870"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1106.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="240.418381" xy="0" yy="0.010851" ty="2.821160"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="605.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="240.418381" xy="0.010851" yy="0" ty="8.962752"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1682.001511"/>
+            <textureProjection xx="-0.007673" yx="-0.007673" tx="4.150954" xy="0.007673" yy="-0.007673" ty="246.739075"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="961.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="3.092441"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.707107" z="0.707107" d="244.658215"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="9.260900"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.707107" z="-0.707107" d="-260.921958"/>
+            <textureProjection xx="0.010851" yx="0" tx="240.418381" xy="0" yy="0.010851" ty="9.260900"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="217"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="15">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-798.000000"/>
+            <textureProjection xx="0" yx="0.010851" tx="241.221329" xy="-0.010851" yy="0" ty="247.254242"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1617.001507"/>
+            <textureProjection xx="-0.007673" yx="0.007673" tx="252.263351" xy="-0.007673" yy="-0.007673" ty="246.361816"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1609.001507"/>
+            <textureProjection xx="0.007673" yx="0.007673" tx="252.255692" xy="-0.007673" yy="0.007673" ty="9.689215"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="960.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778625" xy="0" yy="0.010851" ty="3.689243"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.707107" z="0.707107" d="205.053569"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778625" xy="0" yy="0.010851" ty="9.429714"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.707107" z="-0.707107" d="-207.174923"/>
+            <textureProjection xx="0.010851" yx="0" tx="241.221329" xy="0" yy="0.010851" ty="9.445045"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="16">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-653.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.603195" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.526469" xy="-0.010851" yy="-0.000000" ty="246.603195"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1010.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.515605" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="645.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.396782" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.526469" xy="-0.010851" yy="-0.000000" ty="9.396780"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1002.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.526469" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="218"/>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="17">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-654.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.630539" xy="0.000000" yy="-0.010851" ty="14.915344"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.537333" xy="-0.010851" yy="-0.000000" ty="246.603195"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1010.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.526469" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="653.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.396782" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.537333" xy="-0.010851" yy="-0.000000" ty="9.396780"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1001.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.560771" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="218"/>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="18">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-645.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.690002" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.439664" xy="-0.010851" yy="-0.000000" ty="246.690002"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1002.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.428799" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="637.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.309977" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.439664" xy="-0.010851" yy="-0.000000" ty="9.309975"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="994.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.439664" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="219"/>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="19">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-638.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.804153" xy="0.000000" yy="-0.010851" ty="14.915344"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.363723" xy="-0.010851" yy="-0.000000" ty="246.776810"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-994.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.352858" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="637.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.223171" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.363723" xy="-0.010851" yy="-0.000000" ty="9.223169"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="985.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.387160" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="220"/>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="20">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-613.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="247.037231" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.092442" xy="-0.010851" yy="-0.000000" ty="247.037231"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-970.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.081578" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="605.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="8.962755" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.092442" xy="-0.010851" yy="-0.000000" ty="8.962753"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="962.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.092442" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="223"/>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="21">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-614.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="247.064575" xy="0.000000" yy="-0.010851" ty="14.915344"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.103307" xy="-0.010851" yy="-0.000000" ty="247.037231"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-970.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.092442" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="613.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="8.962755" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.103307" xy="-0.010851" yy="-0.000000" ty="8.962753"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="961.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.126744" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="223"/>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="22">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-693.000000"/>
+            <textureProjection xx="0.000000" yx="-0.010851" tx="15.633240" xy="0.010851" yy="0.000000" ty="9.163688"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.715688" y="-0.698420" z="0" d="-1901.712997"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="4.333222" xy="0.000000" yy="-0.010851" ty="252.576859"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.698420" y="-0.715688" z="0" d="467.479134"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="17.644897" xy="0.000000" yy="-0.010851" ty="252.576828"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="661.000000"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="15.633240" xy="-0.010851" yy="-0.000000" ty="246.706497"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.715688" y="0.698420" z="0" d="1898.712991"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="251.723236" xy="0.000000" yy="-0.010851" ty="252.576828"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.698420" y="0.715688" z="0" d="-470.479153"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="238.458450" xy="0.000000" yy="-0.010851" ty="252.576828"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="224"/>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="23">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-661.000000"/>
+            <textureProjection xx="0" yx="0.010851" tx="240.418381" xy="-0.010851" yy="0" ty="246.776810"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1690.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="9.223168" xy="0" yy="0.010851" ty="3.352858"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-994.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="240.418381" xy="0" yy="0.010851" ty="3.352858"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="645.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="240.418381" xy="0.010851" yy="0" ty="9.223168"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1684.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="246.776810" xy="0" yy="0.010851" ty="3.352858"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="989.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.550323" xy="0" yy="0.010851" ty="3.352858"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="224"/>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="24">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-637.000000"/>
+            <textureProjection xx="0" yx="0.010851" tx="240.418381" xy="-0.010851" yy="0" ty="247.037231"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1690.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="8.962752" xy="0" yy="0.010851" ty="3.092441"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-970.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="240.418381" xy="0" yy="0.010851" ty="3.092441"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="621.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="240.418381" xy="0.010851" yy="0" ty="8.962752"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1684.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="247.037231" xy="0" yy="0.010851" ty="3.092441"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="965.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.550323" xy="0" yy="0.010851" ty="3.092441"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="225"/>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="25">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-693.000000"/>
+            <textureProjection xx="0.000000" yx="-0.010851" tx="14.830288" xy="0.010851" yy="0.000000" ty="9.163688"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.715688" y="-0.698420" z="0" d="-1848.752099"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="3.772424" xy="0.000000" yy="-0.010851" ty="252.576859"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.698420" y="-0.715688" z="0" d="415.796028"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="17.070234" xy="0.000000" yy="-0.010851" ty="252.576828"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="661.000000"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="14.830288" xy="-0.010851" yy="-0.000000" ty="246.706497"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.715688" y="0.698420" z="0" d="1845.752093"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="252.284027" xy="0.000000" yy="-0.010851" ty="252.576828"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.698420" y="0.715688" z="0" d="-418.796048"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="239.033112" xy="0.000000" yy="-0.010851" ty="252.576828"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="226"/>
+          <selectionGroup id="213"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="26">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-669.000000"/>
+            <textureProjection xx="0.000000" yx="-0.010851" tx="14.830288" xy="0.010851" yy="0.000000" ty="8.903272"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.715688" y="-0.698420" z="0" d="-1831.990011"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="3.958801" xy="0.000000" yy="-0.010851" ty="252.837280"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.698420" y="-0.715688" z="0" d="432.972536"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="16.888353" xy="0.000000" yy="-0.010851" ty="252.837250"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="637.000000"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="14.830288" xy="-0.010851" yy="-0.000000" ty="246.966919"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.715688" y="0.698420" z="0" d="1828.990005"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="252.097656" xy="0.000000" yy="-0.010851" ty="252.837250"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.698420" y="0.715688" z="0" d="-435.972555"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="239.214981" xy="0.000000" yy="-0.010851" ty="252.837250"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="227"/>
+          <selectionGroup id="213"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="27">
+        <faces>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1616.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="8.962752" xy="0" yy="0.010851" ty="3.613285"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-970.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="241.221329" xy="0" yy="0.010851" ty="3.613285"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="669.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="241.221329" xy="0.010851" yy="0" ty="8.962752"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1610.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="247.037231" xy="0" yy="0.010851" ty="3.613285"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="965.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778622" xy="0" yy="0.010851" ty="3.613285"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.707107" z="0.707107" d="207.150906"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778622" xy="0" yy="0.010851" ty="9.045176"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="227"/>
+          <selectionGroup id="213"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="28">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-661.000000"/>
+            <textureProjection xx="0" yx="0.010851" tx="241.221329" xy="-0.010851" yy="0" ty="246.776810"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1616.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="9.223168" xy="0" yy="0.010851" ty="3.352858"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-994.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="241.221329" xy="0" yy="0.010851" ty="3.352858"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="645.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="241.221329" xy="0.010851" yy="0" ty="9.223168"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1610.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="246.776810" xy="0" yy="0.010851" ty="3.352858"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="989.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.747372" xy="0" yy="0.010851" ty="3.352858"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="226"/>
+          <selectionGroup id="213"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="29">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-637.000000"/>
+            <textureProjection xx="0" yx="0.010851" tx="241.221329" xy="-0.010851" yy="0" ty="247.037231"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1616.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="8.962752" xy="0" yy="0.010851" ty="3.092441"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-970.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="241.221329" xy="0" yy="0.010851" ty="3.092441"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="621.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="241.221329" xy="0.010851" yy="0" ty="8.962752"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1610.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="247.037231" xy="0" yy="0.010851" ty="3.092441"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="965.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.747372" xy="0" yy="0.010851" ty="3.092441"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="227"/>
+          <selectionGroup id="213"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="30">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-678.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.186554" xy="0.000000" yy="-0.010851" ty="14.743469"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.797723" xy="-0.010851" yy="-0.000000" ty="246.342804"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1034.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.786889" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="677.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.657202" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.797723" xy="-0.010851" yy="-0.000000" ty="9.657200"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1025.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.797723" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="31">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-693.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.169159" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.960503" xy="-0.010851" yy="-0.000000" ty="246.169159"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1050.009247"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.949639" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="685.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.830816" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.960503" xy="-0.010851" yy="-0.000000" ty="9.830814"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1042.009247"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.905816" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="32">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-701.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.082367" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.047295" xy="-0.010851" yy="-0.000000" ty="246.082367"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1058.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.036461" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="693.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.917608" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.047295" xy="-0.010851" yy="-0.000000" ty="9.917606"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1050.009247"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.012139" xy="-0.010851" yy="-0.000000" ty="241.151016"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="33">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-662.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.543732" xy="0.000000" yy="-0.010851" ty="14.915344"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.624139" xy="-0.010851" yy="-0.000000" ty="246.516388"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1018.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.613274" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="661.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.483587" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.624139" xy="-0.010851" yy="-0.000000" ty="9.483585"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1009.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.647576" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="210"/>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="34">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-669.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.429596" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.700066" xy="-0.010851" yy="-0.000000" ty="246.429596"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1026.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.689233" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="661.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.570379" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.700066" xy="-0.010851" yy="-0.000000" ty="9.570377"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1018.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.664910" xy="-0.010851" yy="-0.000000" ty="241.151016"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="35">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-661.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.516388" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.613274" xy="-0.010851" yy="-0.000000" ty="246.516388"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1018.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.602410" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="653.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.483587" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.613274" xy="-0.010851" yy="-0.000000" ty="9.483585"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1010.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.613274" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="210"/>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="36">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-702.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.074554" xy="0.000000" yy="-0.010851" ty="14.669250"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.058159" xy="-0.010851" yy="-0.000000" ty="246.082367"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1058.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.047295" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="701.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.917608" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.058159" xy="-0.010851" yy="-0.000000" ty="9.917606"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1049.009247"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.042534" xy="-0.010851" yy="-0.000000" ty="241.193985"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="37">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-677.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.342804" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.786889" xy="-0.010851" yy="-0.000000" ty="246.342804"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1034.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.776025" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="669.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.657202" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.786889" xy="-0.010851" yy="-0.000000" ty="9.657200"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1026.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.751733" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="38">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-686.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.318481" xy="0.000000" yy="-0.010851" ty="14.739563"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.884545" xy="-0.010851" yy="-0.000000" ty="246.255981"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1042.009247"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.873681" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="685.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.743994" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.884545" xy="-0.010851" yy="-0.000000" ty="9.743992"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1033.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.868920" xy="-0.010851" yy="-0.000000" ty="241.193985"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="39">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-694.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.196503" xy="0.000000" yy="-0.010851" ty="14.915344"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.971337" xy="-0.010851" yy="-0.000000" ty="246.169159"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1050.009247"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.960503" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="693.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.830816" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.971337" xy="-0.010851" yy="-0.000000" ty="9.830814"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1041.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.994775" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="40">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-670.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.421783" xy="0.000000" yy="-0.010851" ty="14.669250"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.710931" xy="-0.010851" yy="-0.000000" ty="246.429596"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1026.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.700066" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="669.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.570379" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.710931" xy="-0.010851" yy="-0.000000" ty="9.570377"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1017.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.695306" xy="-0.010851" yy="-0.000000" ty="241.193985"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="41">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-685.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="246.255981" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.873681" xy="-0.010851" yy="-0.000000" ty="246.255981"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1042.009247"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.862847" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="677.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="9.743994" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.873681" xy="-0.010851" yy="-0.000000" ty="9.743992"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1034.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.908837" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="42">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-749.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="245.561554" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.568139" xy="-0.010851" yy="-0.000000" ty="245.561554"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1106.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.557274" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="741.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="10.438452" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.568139" xy="-0.010851" yy="-0.000000" ty="10.438450"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1098.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.548607" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="43">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-685.000000"/>
+            <textureProjection xx="0" yx="0.010851" tx="241.221329" xy="-0.010851" yy="0" ty="246.516388"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1616.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="9.483585" xy="0" yy="0.010851" ty="3.613274"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1018.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="241.221329" xy="0" yy="0.010851" ty="3.613274"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="669.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="241.221329" xy="0.010851" yy="0" ty="9.483585"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1610.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="246.516388" xy="0" yy="0.010851" ty="3.613274"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1013.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778625" xy="0" yy="0.010851" ty="3.613274"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="213"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="44">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-726.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="245.849304" xy="0.000000" yy="-0.010851" ty="14.915344"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.318566" xy="-0.010851" yy="-0.000000" ty="245.821960"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1082.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.307732" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="725.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="10.178045" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.318566" xy="-0.010851" yy="-0.000000" ty="10.178043"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1073.009247"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.342003" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="45">
+        <faces>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1616.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="9.483585" xy="0" yy="0.010851" ty="4.134118"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1018.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="241.221329" xy="0" yy="0.010851" ty="4.134118"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="717.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="241.221329" xy="0.010851" yy="0" ty="9.483585"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1610.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="246.516388" xy="0" yy="0.010851" ty="4.134118"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1013.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778625" xy="0" yy="0.010851" ty="4.134118"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.707107" z="0.707107" d="207.151869"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778625" xy="0" yy="0.010851" ty="9.781744"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="213"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="46">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-757.000000"/>
+            <textureProjection xx="0" yx="0.010851" tx="241.221329" xy="-0.010851" yy="0" ty="245.735138"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1616.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="10.264835" xy="0" yy="0.010851" ty="4.394524"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1090.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="241.221329" xy="0" yy="0.010851" ty="4.394524"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="741.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="241.221329" xy="0.010851" yy="0" ty="10.264835"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1610.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="245.735138" xy="0" yy="0.010851" ty="4.394524"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1085.009248"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.747375" xy="0" yy="0.010851" ty="4.394524"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="213"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="47">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-717.000000"/>
+            <textureProjection xx="0.000000" yx="-0.010851" tx="15.633240" xy="0.010851" yy="0.000000" ty="9.424105"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.715688" y="-0.698420" z="0" d="-1918.475085"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="4.146845" xy="0.000000" yy="-0.010851" ty="252.316437"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.698420" y="-0.715688" z="0" d="450.302627"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="17.826778" xy="0.000000" yy="-0.010851" ty="252.316406"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="685.000000"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="15.633240" xy="-0.010851" yy="-0.000000" ty="246.446075"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.715688" y="0.698420" z="0" d="1915.475079"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="251.909607" xy="0.000000" yy="-0.010851" ty="252.316406"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.698420" y="0.715688" z="0" d="-453.302646"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="238.276566" xy="0.000000" yy="-0.010851" ty="252.316406"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="214"/>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="48">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-710.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="245.839325" xy="0.000000" yy="-0.010851" ty="14.743469"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.144951" xy="-0.010851" yy="-0.000000" ty="245.995575"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1066.009247"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.134118" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="709.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="10.004431" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.144951" xy="-0.010851" yy="-0.000000" ty="10.004398"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1057.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.144951" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="49">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-741.000000"/>
+            <textureProjection xx="0.000000" yx="-0.010851" tx="14.830292" xy="0.010851" yy="0.000000" ty="9.684511"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.715688" y="-0.698420" z="0" d="-1882.264100"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="3.399683" xy="0.000000" yy="-0.010851" ty="252.056000"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.698420" y="-0.715688" z="0" d="381.454440"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="17.433987" xy="0.000000" yy="-0.010851" ty="252.056000"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="709.000000"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="14.830292" xy="-0.010851" yy="-0.000000" ty="246.185638"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.715688" y="0.698420" z="0" d="1879.264085"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="252.703644" xy="0.000000" yy="-0.010851" ty="252.056000"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.698420" y="0.715688" z="0" d="-384.454458"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="238.622452" xy="0.000000" yy="-0.010851" ty="252.056000"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="213"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="50">
+        <faces>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1616.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="9.743992" xy="0" yy="0.010851" ty="4.394524"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1042.009247"/>
+            <textureProjection xx="0.010851" yx="0" tx="241.221329" xy="0" yy="0.010851" ty="4.394524"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="741.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="241.221329" xy="0.010851" yy="0" ty="9.743992"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1610.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="246.255981" xy="0" yy="0.010851" ty="4.394524"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1037.009248"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778625" xy="0" yy="0.010851" ty="4.394524"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.707107" z="0.707107" d="207.134686"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778625" xy="0" yy="0.010851" ty="10.150030"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="213"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="51">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-789.000000"/>
+            <textureProjection xx="0.000000" yx="-0.010851" tx="14.830292" xy="0.010851" yy="0.000000" ty="10.205355"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.715688" y="-0.698420" z="0" d="-1915.788501"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="3.026941" xy="0.000000" yy="-0.010851" ty="251.535187"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.698420" y="-0.715688" z="0" d="347.101213"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="17.797756" xy="0.000000" yy="-0.010851" ty="251.535156"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="757.000000"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="14.830292" xy="-0.010851" yy="-0.000000" ty="245.664825"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.715688" y="0.698420" z="0" d="1912.788482"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="253.076385" xy="0.000000" yy="-0.010851" ty="251.535156"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.698420" y="0.715688" z="0" d="-350.101236"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="238.305588" xy="0.000000" yy="-0.010851" ty="251.535156"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="213"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="52">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-709.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="245.995575" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.134118" xy="-0.010851" yy="-0.000000" ty="245.995575"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1066.009247"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.123253" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="701.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="10.004431" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.134118" xy="-0.010851" yy="-0.000000" ty="10.004429"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1058.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="3.919274" xy="-0.010851" yy="-0.000000" ty="241.416641"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="53">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-718.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="245.971252" xy="0.000000" yy="-0.010851" ty="14.739563"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.231774" xy="-0.010851" yy="-0.000000" ty="245.908752"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1074.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.220910" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="717.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="10.091223" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.231774" xy="-0.010851" yy="-0.000000" ty="10.091221"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1065.009247"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.216149" xy="-0.010851" yy="-0.000000" ty="241.193985"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="54">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-725.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="245.821960" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.307732" xy="-0.010851" yy="-0.000000" ty="245.821960"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1082.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.296868" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="717.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="10.178045" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.307732" xy="-0.010851" yy="-0.000000" ty="10.178043"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1074.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.229607" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="55">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-765.000000"/>
+            <textureProjection xx="0.000000" yx="-0.010851" tx="14.830292" xy="0.010851" yy="0.000000" ty="9.944948"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.715688" y="-0.698420" z="0" d="-1899.026305"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="3.213312" xy="0.000000" yy="-0.010851" ty="251.795593"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.698420" y="-0.715688" z="0" d="364.277829"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="17.615871" xy="0.000000" yy="-0.010851" ty="251.795593"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="733.000000"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="14.830292" xy="-0.010851" yy="-0.000000" ty="245.925232"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.715688" y="0.698420" z="0" d="1896.026284"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="252.890015" xy="0.000000" yy="-0.010851" ty="251.795593"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.698420" y="0.715688" z="0" d="-367.277844"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="238.487473" xy="0.000000" yy="-0.010851" ty="251.795593"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="213"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="56">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-734.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="245.727325" xy="0.000000" yy="-0.010851" ty="14.669250"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.405388" xy="-0.010851" yy="-0.000000" ty="245.735138"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1090.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.394524" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="733.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="10.264837" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.405388" xy="-0.010851" yy="-0.000000" ty="10.264835"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1081.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.389763" xy="-0.010851" yy="-0.000000" ty="241.193985"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="57">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-733.000000"/>
+            <textureProjection xx="0" yx="0.010851" tx="241.221329" xy="-0.010851" yy="0" ty="245.995575"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1616.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="10.004429" xy="0" yy="0.010851" ty="4.134118"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1066.009247"/>
+            <textureProjection xx="0.010851" yx="0" tx="241.221329" xy="0" yy="0.010851" ty="4.134118"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="717.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="241.221329" xy="0.010851" yy="0" ty="10.004429"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1610.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="245.995575" xy="0" yy="0.010851" ty="4.134118"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1061.009248"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778625" xy="0" yy="0.010851" ty="4.134118"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="213"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="58">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-741.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="245.648346" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.481316" xy="-0.010851" yy="-0.000000" ty="245.648346"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1098.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.470482" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="733.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="10.351629" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.481316" xy="-0.010851" yy="-0.000000" ty="10.351627"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1090.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.258660" xy="-0.010851" yy="-0.000000" ty="241.365860"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="59">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-717.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="245.908752" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.220910" xy="-0.010851" yy="-0.000000" ty="245.908752"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1074.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.210076" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="709.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="10.091223" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.220910" xy="-0.010851" yy="-0.000000" ty="10.091221"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1066.009247"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.123253" xy="-0.010851" yy="-0.000000" ty="241.334610"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="60">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-733.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="245.735138" xy="0.000000" yy="-0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.394524" xy="-0.010851" yy="-0.000000" ty="245.735138"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1090.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.383690" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="725.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="10.264837" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.394524" xy="-0.010851" yy="-0.000000" ty="10.264835"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1082.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.281243" xy="-0.010851" yy="-0.000000" ty="241.151016"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="61">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-742.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="245.492096" xy="0.000000" yy="-0.010851" ty="14.743469"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.492180" xy="-0.010851" yy="-0.000000" ty="245.648346"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1098.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.481316" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="741.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="10.351629" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.492180" xy="-0.010851" yy="-0.000000" ty="10.351627"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1089.009248"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.546868" xy="-0.010851" yy="-0.000000" ty="241.221329"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="62">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-750.000000"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="245.624054" xy="0.000000" yy="-0.010851" ty="14.739563"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1682.001511"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.578972" xy="-0.010851" yy="-0.000000" ty="245.561554"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1106.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.568139" xy="-0.010851" yy="-0.000000" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="749.000000"/>
+            <textureProjection xx="0.010851" yx="0.000000" tx="10.438452" xy="-0.000000" yy="0.010851" ty="14.778625"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1618.001509"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.578972" xy="-0.010851" yy="-0.000000" ty="10.438419"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1097.009250"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="4.563347" xy="-0.010851" yy="-0.000000" ty="241.193985"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_sand"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="63">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-717.000000"/>
+            <textureProjection xx="0.000000" yx="-0.010851" tx="14.830292" xy="0.010851" yy="0.000000" ty="9.424105"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.715688" y="-0.698420" z="0" d="-1865.514072"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="3.586054" xy="0.000000" yy="-0.010851" ty="252.316437"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.698420" y="-0.715688" z="0" d="398.619414"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="17.252132" xy="0.000000" yy="-0.010851" ty="252.316406"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="685.000000"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="14.830292" xy="-0.010851" yy="-0.000000" ty="246.446075"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.715688" y="0.698420" z="0" d="1862.514064"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="252.517242" xy="0.000000" yy="-0.010851" ty="252.316406"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.698420" y="0.715688" z="0" d="-401.619419"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="238.851212" xy="0.000000" yy="-0.010851" ty="252.316406"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="213"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="64">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-709.000000"/>
+            <textureProjection xx="0" yx="0.010851" tx="241.221329" xy="-0.010851" yy="0" ty="246.255981"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1616.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="9.743992" xy="0" yy="0.010851" ty="3.873681"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1042.009247"/>
+            <textureProjection xx="0.010851" yx="0" tx="241.221329" xy="0" yy="0.010851" ty="3.873681"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="693.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="241.221329" xy="0.010851" yy="0" ty="9.743992"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1610.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="246.255981" xy="0" yy="0.010851" ty="3.873681"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1037.009248"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.813782" xy="0" yy="0.010851" ty="3.873681"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="213"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="65">
+        <faces>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1616.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="10.264835" xy="0" yy="0.010851" ty="4.915368"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1090.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="241.221329" xy="0" yy="0.010851" ty="4.915368"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="789.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="241.221329" xy="0.010851" yy="0" ty="10.264835"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1610.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="245.735138" xy="0" yy="0.010851" ty="4.915368"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1085.009248"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778625" xy="0" yy="0.010851" ty="4.915368"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.707107" z="0.707107" d="207.131579"/>
+            <textureProjection xx="0.010851" yx="0" tx="14.778625" xy="0" yy="0.010851" ty="10.886602"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="213"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="66">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-685.000000"/>
+            <textureProjection xx="0" yx="0.010851" tx="240.418381" xy="-0.010851" yy="0" ty="246.516388"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1690.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="9.483585" xy="0" yy="0.010851" ty="3.613274"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1018.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="240.418381" xy="0" yy="0.010851" ty="3.613274"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="669.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="240.418381" xy="0.010851" yy="0" ty="9.483585"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1684.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="246.516388" xy="0" yy="0.010851" ty="3.613274"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1013.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.550323" xy="0" yy="0.010851" ty="3.613274"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="214"/>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="67">
+        <faces>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1690.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="9.483585" xy="0" yy="0.010851" ty="4.134118"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1018.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="240.418381" xy="0" yy="0.010851" ty="4.134118"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="717.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="240.418381" xy="0.010851" yy="0" ty="9.483585"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1684.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="246.516388" xy="0" yy="0.010851" ty="4.134118"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1013.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="4.134118"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.707107" z="0.707107" d="207.150906"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="9.781744"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="214"/>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="68">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-709.000000"/>
+            <textureProjection xx="0" yx="0.010851" tx="240.418381" xy="-0.010851" yy="0" ty="246.255981"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1690.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="9.743992" xy="0" yy="0.010851" ty="3.873681"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1042.009247"/>
+            <textureProjection xx="0.010851" yx="0" tx="240.418381" xy="0" yy="0.010851" ty="3.873681"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="693.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="240.418381" xy="0.010851" yy="0" ty="9.743992"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1684.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="246.255981" xy="0" yy="0.010851" ty="3.873681"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1037.009248"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="3.873681"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="69">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-741.000000"/>
+            <textureProjection xx="0.000000" yx="-0.010851" tx="15.633240" xy="0.010851" yy="0.000000" ty="9.684511"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.715688" y="-0.698420" z="0" d="-1935.225331"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="3.960474" xy="0.000000" yy="-0.010851" ty="252.056000"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.698420" y="-0.715688" z="0" d="433.137864"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="18.008663" xy="0.000000" yy="-0.010851" ty="252.056000"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="709.000000"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="15.633240" xy="-0.010851" yy="-0.000000" ty="246.185638"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.715688" y="0.698420" z="0" d="1932.225313"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="252.142822" xy="0.000000" yy="-0.010851" ty="252.056000"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.698420" y="0.715688" z="0" d="-436.137880"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="238.094681" xy="0.000000" yy="-0.010851" ty="252.056000"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="70">
+        <faces>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1690.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="9.743992" xy="0" yy="0.010851" ty="4.394524"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1042.009247"/>
+            <textureProjection xx="0.010851" yx="0" tx="240.418381" xy="0" yy="0.010851" ty="4.394524"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="741.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="240.418381" xy="0.010851" yy="0" ty="9.743992"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1684.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="246.255981" xy="0" yy="0.010851" ty="4.394524"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1037.009248"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="4.394524"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.707107" z="0.707107" d="207.133725"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="10.150030"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="71">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-733.000000"/>
+            <textureProjection xx="0" yx="0.010851" tx="240.418381" xy="-0.010851" yy="0" ty="245.995575"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1690.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="10.004429" xy="0" yy="0.010851" ty="4.134118"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1066.009247"/>
+            <textureProjection xx="0.010851" yx="0" tx="240.418381" xy="0" yy="0.010851" ty="4.134118"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="717.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="240.418381" xy="0.010851" yy="0" ty="10.004429"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1684.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="245.995575" xy="0" yy="0.010851" ty="4.134118"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1061.009248"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.616730" xy="0" yy="0.010851" ty="4.134118"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="72">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-765.000000"/>
+            <textureProjection xx="0.000000" yx="-0.010851" tx="15.633240" xy="0.010851" yy="0.000000" ty="9.944948"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.715688" y="-0.698420" z="0" d="-1951.987534"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="3.774103" xy="0.000000" yy="-0.010851" ty="251.795593"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.698420" y="-0.715688" z="0" d="415.961250"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="18.190548" xy="0.000000" yy="-0.010851" ty="251.795593"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="733.000000"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="15.633240" xy="-0.010851" yy="-0.000000" ty="245.925232"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.715688" y="0.698420" z="0" d="1948.987512"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="252.329193" xy="0.000000" yy="-0.010851" ty="251.795593"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.698420" y="0.715688" z="0" d="-418.961267"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="237.865921" xy="0.000000" yy="-0.010851" ty="251.795593"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="73">
+        <faces>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1690.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="10.004429" xy="0" yy="0.010851" ty="4.654931"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1066.009247"/>
+            <textureProjection xx="0.010851" yx="0" tx="240.418381" xy="0" yy="0.010851" ty="4.654931"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="765.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="240.418381" xy="0.010851" yy="0" ty="10.004429"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1684.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="245.995575" xy="0" yy="0.010851" ty="4.654931"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1061.009248"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="4.654931"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.707107" z="0.707107" d="207.131579"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="10.518316"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="74">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-757.000000"/>
+            <textureProjection xx="0" yx="0.010851" tx="240.418381" xy="-0.010851" yy="0" ty="245.735138"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1690.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="10.264835" xy="0" yy="0.010851" ty="4.394524"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1090.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="240.418381" xy="0" yy="0.010851" ty="4.394524"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="741.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="240.418381" xy="0.010851" yy="0" ty="10.264835"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1684.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="245.735138" xy="0" yy="0.010851" ty="4.394524"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1085.009248"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="4.394524"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="75">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-789.000000"/>
+            <textureProjection xx="0.000000" yx="-0.010851" tx="15.633240" xy="0.010851" yy="0.000000" ty="10.205355"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.715688" y="-0.698420" z="0" d="-1968.749727"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="3.587732" xy="0.000000" yy="-0.010851" ty="251.535187"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.698420" y="-0.715688" z="0" d="398.784638"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="18.372433" xy="0.000000" yy="-0.010851" ty="251.535156"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="757.000000"/>
+            <textureProjection xx="-0.000000" yx="0.010851" tx="15.633240" xy="-0.010851" yy="-0.000000" ty="245.664825"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-0.715688" y="0.698420" z="0" d="1965.749711"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="252.515594" xy="0.000000" yy="-0.010851" ty="251.535156"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0.698420" y="0.715688" z="0" d="-401.784658"/>
+            <textureProjection xx="-0.010851" yx="-0.000000" tx="237.730911" xy="0.000000" yy="-0.010851" ty="251.535156"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="76">
+        <faces>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-1690.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="10.264835" xy="0" yy="0.010851" ty="4.915368"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1090.009250"/>
+            <textureProjection xx="0.010851" yx="0" tx="240.418381" xy="0" yy="0.010851" ty="4.915368"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="789.000000"/>
+            <textureProjection xx="0" yx="-0.010851" tx="240.418381" xy="0.010851" yy="0" ty="10.264835"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="1684.001507"/>
+            <textureProjection xx="0.010851" yx="0" tx="245.735138" xy="0" yy="0.010851" ty="4.915368"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="1085.009248"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="4.915368"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0.707107" z="0.707107" d="207.130612"/>
+            <textureProjection xx="0.010851" yx="0" tx="15.581573" xy="0" yy="0.010851" ty="10.886602"/>
+            <material name="textures/darkmod/wood/boards/rough_wood_brown_dull"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="4"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="215"/>
+          <selectionGroup id="212"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="worldspawn"/>
+      <keyValue key="skin" value="bt_basewall1"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+</map>
