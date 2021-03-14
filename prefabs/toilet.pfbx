@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map version="1" format="portable">
+  <layers>
+    <layer id="0" name="Default"/>
+    <layer id="1" name="garden"/>
+    <layer id="2" name="sealing"/>
+    <layer id="3" name="pipe"/>
+    <layer id="4" name="end_house"/>
+    <layer id="5" name="new_room"/>
+    <layer id="6" name="inn"/>
+    <layer id="7" name="large_guestroom"/>
+    <layer id="8" name="tan_house_study"/>
+    <layer id="9" name="mansion"/>
+    <layer id="10" name="tan_house_middle"/>
+    <layer id="11" name="green_house"/>
+    <layer id="12" name="leaves"/>
+    <layer id="13" name="tunnels"/>
+    <layer id="14" name="street"/>
+    <layer id="15" name="garden_view"/>
+    <layer id="16" name="1HH"/>
+    <layer id="17" name="back_alley"/>
+  </layers>
+  <selectionGroups>
+    <selectionGroup id="3" name=""/>
+    <selectionGroup id="23" name=""/>
+    <selectionGroup id="37" name=""/>
+    <selectionGroup id="48" name=""/>
+    <selectionGroup id="50" name=""/>
+    <selectionGroup id="51" name=""/>
+    <selectionGroup id="52" name=""/>
+    <selectionGroup id="53" name=""/>
+    <selectionGroup id="54" name=""/>
+    <selectionGroup id="58" name=""/>
+    <selectionGroup id="61" name=""/>
+    <selectionGroup id="68" name=""/>
+    <selectionGroup id="71" name=""/>
+    <selectionGroup id="79" name=""/>
+    <selectionGroup id="80" name=""/>
+    <selectionGroup id="81" name=""/>
+    <selectionGroup id="82" name=""/>
+    <selectionGroup id="83" name=""/>
+    <selectionGroup id="84" name=""/>
+    <selectionGroup id="86" name=""/>
+    <selectionGroup id="87" name=""/>
+    <selectionGroup id="88" name=""/>
+    <selectionGroup id="90" name=""/>
+    <selectionGroup id="92" name=""/>
+    <selectionGroup id="93" name=""/>
+    <selectionGroup id="96" name=""/>
+    <selectionGroup id="97" name=""/>
+    <selectionGroup id="100" name=""/>
+    <selectionGroup id="109" name=""/>
+    <selectionGroup id="123" name=""/>
+    <selectionGroup id="176" name=""/>
+    <selectionGroup id="177" name=""/>
+    <selectionGroup id="185" name=""/>
+    <selectionGroup id="186" name=""/>
+    <selectionGroup id="187" name=""/>
+    <selectionGroup id="190" name=""/>
+    <selectionGroup id="195" name=""/>
+    <selectionGroup id="196" name=""/>
+    <selectionGroup id="203" name=""/>
+    <selectionGroup id="210" name=""/>
+    <selectionGroup id="211" name=""/>
+    <selectionGroup id="212" name=""/>
+    <selectionGroup id="213" name=""/>
+    <selectionGroup id="216" name=""/>
+    <selectionGroup id="233" name=""/>
+    <selectionGroup id="234" name=""/>
+    <selectionGroup id="236" name=""/>
+    <selectionGroup id="237" name=""/>
+    <selectionGroup id="245" name=""/>
+    <selectionGroup id="254" name=""/>
+    <selectionGroup id="257" name=""/>
+    <selectionGroup id="258" name=""/>
+    <selectionGroup id="259" name=""/>
+    <selectionGroup id="260" name=""/>
+    <selectionGroup id="261" name=""/>
+    <selectionGroup id="263" name=""/>
+    <selectionGroup id="265" name=""/>
+    <selectionGroup id="268" name=""/>
+    <selectionGroup id="270" name=""/>
+    <selectionGroup id="288" name=""/>
+    <selectionGroup id="292" name=""/>
+    <selectionGroup id="294" name=""/>
+    <selectionGroup id="306" name=""/>
+    <selectionGroup id="309" name=""/>
+    <selectionGroup id="310" name=""/>
+    <selectionGroup id="319" name=""/>
+    <selectionGroup id="320" name=""/>
+    <selectionGroup id="322" name=""/>
+    <selectionGroup id="333" name=""/>
+    <selectionGroup id="334" name=""/>
+    <selectionGroup id="335" name=""/>
+    <selectionGroup id="338" name=""/>
+    <selectionGroup id="339" name=""/>
+    <selectionGroup id="341" name=""/>
+    <selectionGroup id="354" name=""/>
+    <selectionGroup id="355" name=""/>
+    <selectionGroup id="356" name=""/>
+    <selectionGroup id="357" name=""/>
+    <selectionGroup id="358" name=""/>
+    <selectionGroup id="359" name=""/>
+    <selectionGroup id="361" name=""/>
+    <selectionGroup id="362" name=""/>
+    <selectionGroup id="363" name=""/>
+    <selectionGroup id="364" name=""/>
+    <selectionGroup id="365" name=""/>
+    <selectionGroup id="366" name=""/>
+    <selectionGroup id="367" name=""/>
+    <selectionGroup id="368" name=""/>
+    <selectionGroup id="385" name=""/>
+    <selectionGroup id="389" name=""/>
+    <selectionGroup id="393" name=""/>
+    <selectionGroup id="395" name=""/>
+    <selectionGroup id="396" name=""/>
+    <selectionGroup id="398" name=""/>
+    <selectionGroup id="402" name=""/>
+    <selectionGroup id="409" name=""/>
+    <selectionGroup id="412" name=""/>
+    <selectionGroup id="414" name=""/>
+    <selectionGroup id="415" name=""/>
+    <selectionGroup id="416" name=""/>
+    <selectionGroup id="417" name=""/>
+    <selectionGroup id="419" name=""/>
+    <selectionGroup id="427" name=""/>
+    <selectionGroup id="433" name=""/>
+    <selectionGroup id="435" name=""/>
+    <selectionGroup id="436" name=""/>
+    <selectionGroup id="444" name=""/>
+    <selectionGroup id="445" name=""/>
+    <selectionGroup id="446" name=""/>
+    <selectionGroup id="449" name=""/>
+    <selectionGroup id="450" name=""/>
+    <selectionGroup id="453" name=""/>
+    <selectionGroup id="454" name=""/>
+    <selectionGroup id="469" name=""/>
+    <selectionGroup id="480" name=""/>
+    <selectionGroup id="481" name=""/>
+    <selectionGroup id="482" name=""/>
+    <selectionGroup id="484" name=""/>
+    <selectionGroup id="485" name=""/>
+    <selectionGroup id="493" name=""/>
+    <selectionGroup id="498" name=""/>
+    <selectionGroup id="500" name=""/>
+    <selectionGroup id="502" name=""/>
+    <selectionGroup id="504" name=""/>
+    <selectionGroup id="512" name=""/>
+    <selectionGroup id="516" name=""/>
+    <selectionGroup id="523" name=""/>
+    <selectionGroup id="524" name=""/>
+    <selectionGroup id="534" name=""/>
+    <selectionGroup id="537" name=""/>
+    <selectionGroup id="542" name=""/>
+    <selectionGroup id="544" name=""/>
+    <selectionGroup id="548" name=""/>
+    <selectionGroup id="549" name=""/>
+    <selectionGroup id="552" name=""/>
+    <selectionGroup id="554" name=""/>
+    <selectionGroup id="556" name=""/>
+    <selectionGroup id="557" name=""/>
+    <selectionGroup id="561" name=""/>
+    <selectionGroup id="562" name=""/>
+    <selectionGroup id="563" name=""/>
+    <selectionGroup id="565" name=""/>
+    <selectionGroup id="566" name=""/>
+    <selectionGroup id="570" name=""/>
+    <selectionGroup id="571" name=""/>
+    <selectionGroup id="572" name=""/>
+    <selectionGroup id="573" name=""/>
+    <selectionGroup id="575" name=""/>
+    <selectionGroup id="577" name=""/>
+    <selectionGroup id="586" name=""/>
+    <selectionGroup id="587" name=""/>
+    <selectionGroup id="590" name=""/>
+    <selectionGroup id="591" name=""/>
+    <selectionGroup id="593" name=""/>
+    <selectionGroup id="599" name=""/>
+    <selectionGroup id="603" name=""/>
+    <selectionGroup id="604" name=""/>
+    <selectionGroup id="606" name=""/>
+    <selectionGroup id="607" name=""/>
+    <selectionGroup id="618" name=""/>
+    <selectionGroup id="619" name=""/>
+    <selectionGroup id="636" name=""/>
+    <selectionGroup id="641" name=""/>
+    <selectionGroup id="642" name=""/>
+    <selectionGroup id="643" name=""/>
+    <selectionGroup id="644" name=""/>
+    <selectionGroup id="664" name=""/>
+    <selectionGroup id="665" name=""/>
+    <selectionGroup id="679" name=""/>
+    <selectionGroup id="681" name=""/>
+    <selectionGroup id="682" name=""/>
+    <selectionGroup id="687" name=""/>
+    <selectionGroup id="688" name=""/>
+    <selectionGroup id="689" name=""/>
+    <selectionGroup id="694" name=""/>
+    <selectionGroup id="699" name=""/>
+    <selectionGroup id="701" name=""/>
+    <selectionGroup id="702" name=""/>
+    <selectionGroup id="703" name=""/>
+    <selectionGroup id="704" name=""/>
+    <selectionGroup id="705" name=""/>
+    <selectionGroup id="706" name=""/>
+    <selectionGroup id="710" name=""/>
+    <selectionGroup id="711" name=""/>
+    <selectionGroup id="712" name=""/>
+    <selectionGroup id="713" name=""/>
+    <selectionGroup id="714" name=""/>
+    <selectionGroup id="715" name=""/>
+    <selectionGroup id="718" name=""/>
+    <selectionGroup id="719" name=""/>
+    <selectionGroup id="721" name=""/>
+    <selectionGroup id="723" name=""/>
+    <selectionGroup id="725" name=""/>
+    <selectionGroup id="726" name=""/>
+    <selectionGroup id="728" name=""/>
+    <selectionGroup id="733" name=""/>
+    <selectionGroup id="734" name=""/>
+    <selectionGroup id="737" name=""/>
+    <selectionGroup id="739" name=""/>
+    <selectionGroup id="742" name=""/>
+    <selectionGroup id="743" name=""/>
+    <selectionGroup id="744" name=""/>
+    <selectionGroup id="745" name=""/>
+    <selectionGroup id="746" name=""/>
+    <selectionGroup id="748" name=""/>
+    <selectionGroup id="749" name=""/>
+    <selectionGroup id="750" name=""/>
+    <selectionGroup id="751" name=""/>
+    <selectionGroup id="752" name=""/>
+    <selectionGroup id="753" name=""/>
+    <selectionGroup id="766" name=""/>
+    <selectionGroup id="767" name=""/>
+    <selectionGroup id="770" name=""/>
+    <selectionGroup id="773" name=""/>
+    <selectionGroup id="774" name=""/>
+    <selectionGroup id="776" name=""/>
+    <selectionGroup id="780" name=""/>
+    <selectionGroup id="783" name=""/>
+    <selectionGroup id="789" name=""/>
+    <selectionGroup id="790" name=""/>
+    <selectionGroup id="791" name=""/>
+    <selectionGroup id="792" name=""/>
+    <selectionGroup id="793" name=""/>
+    <selectionGroup id="794" name=""/>
+    <selectionGroup id="795" name=""/>
+    <selectionGroup id="796" name=""/>
+    <selectionGroup id="798" name=""/>
+    <selectionGroup id="799" name=""/>
+    <selectionGroup id="800" name=""/>
+  </selectionGroups>
+  <selectionSets/>
+  <properties>
+    <property key="EditTimeInSeconds" value="1040147"/>
+    <property key="LastCameraAngle" value="-34.2 104.233 0"/>
+    <property key="LastCameraPosition" value="331.875 -248.308 -29.4322"/>
+    <property key="LastShaderClipboardMaterial" value="textures/darkmod/stone/brick/blocks_large_mildew"/>
+  </properties>
+  <entity number="0">
+    <primitives>
+      <brush number="0">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="80.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="170.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-376.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-112.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="280.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-172.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="6"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="1">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="80.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="170.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-376.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-112.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-202.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="374.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="6"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="2">
+        <faces>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="170.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-376.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-112.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-202.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="280.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="104.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="6"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="3">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="80.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-376.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-112.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-202.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="280.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="200.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="6"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="4">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="80.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="170.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-112.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-202.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="280.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-282.000000"/>
+            <textureProjection xx="0.007813" yx="0" tx="0" xy="0" yy="0.007813" ty="0"/>
+            <material name="textures/darkmod/wood/boards/wood_brown_dull01"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="6"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="211"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="worldspawn"/>
+      <keyValue key="difficulty0Name" value="Easy"/>
+      <keyValue key="difficulty1Name" value="Hard"/>
+      <keyValue key="difficulty2Name" value="Expert"/>
+      <keyValue key="shop_skip" value="1"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+  <entity number="1">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="func_static"/>
+      <keyValue key="name" value="func_static_644"/>
+      <keyValue key="model" value="models/darkmod/furniture/seating/privy_seat_double_hinged.lwo"/>
+      <keyValue key="origin" value="328 -170 -80"/>
+      <keyValue key="rotation" value="1 0 0 0 1 0 0 0 1"/>
+      <keyValue key="skin" value="doorframe_rough_wood_darkbrown"/>
+    </keyValues>
+    <layers>
+      <layer id="6"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="211"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+  <entity number="2">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="func_static"/>
+      <keyValue key="name" value="func_static_1379"/>
+      <keyValue key="model" value="models/darkmod/containers/bucket_wood.lwo"/>
+      <keyValue key="origin" value="304 -195 -104"/>
+      <keyValue key="rotation" value="1 0 0 0 1 0 0 0 1"/>
+      <keyValue key="skin" value="bucket_iron"/>
+    </keyValues>
+    <layers>
+      <layer id="6"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="211"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+  <entity number="3">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="func_static"/>
+      <keyValue key="name" value="func_static_1380"/>
+      <keyValue key="model" value="models/darkmod/containers/bucket_wood.lwo"/>
+      <keyValue key="origin" value="352 -195 -104"/>
+      <keyValue key="rotation" value="1 0 0 0 1 0 0 0 1"/>
+      <keyValue key="skin" value="bucket_iron"/>
+    </keyValues>
+    <layers>
+      <layer id="6"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="211"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+</map>
