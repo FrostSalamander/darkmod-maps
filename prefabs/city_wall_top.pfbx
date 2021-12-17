@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map version="1" format="portable">
+  <layers>
+    <layer id="0" name="Default"/>
+  </layers>
+  <selectionGroups>
+    <selectionGroup id="2" name=""/>
+    <selectionGroup id="4" name=""/>
+    <selectionGroup id="19" name=""/>
+    <selectionGroup id="20" name=""/>
+    <selectionGroup id="24" name=""/>
+    <selectionGroup id="25" name=""/>
+    <selectionGroup id="32" name=""/>
+    <selectionGroup id="33" name=""/>
+    <selectionGroup id="34" name=""/>
+    <selectionGroup id="35" name=""/>
+    <selectionGroup id="37" name=""/>
+    <selectionGroup id="38" name=""/>
+    <selectionGroup id="40" name=""/>
+    <selectionGroup id="43" name=""/>
+    <selectionGroup id="47" name=""/>
+    <selectionGroup id="50" name=""/>
+    <selectionGroup id="53" name=""/>
+    <selectionGroup id="56" name=""/>
+    <selectionGroup id="57" name=""/>
+    <selectionGroup id="58" name=""/>
+    <selectionGroup id="307" name=""/>
+    <selectionGroup id="315" name=""/>
+    <selectionGroup id="316" name=""/>
+    <selectionGroup id="317" name=""/>
+    <selectionGroup id="318" name=""/>
+    <selectionGroup id="319" name=""/>
+    <selectionGroup id="320" name=""/>
+    <selectionGroup id="324" name=""/>
+    <selectionGroup id="325" name=""/>
+    <selectionGroup id="328" name=""/>
+    <selectionGroup id="329" name=""/>
+    <selectionGroup id="330" name=""/>
+    <selectionGroup id="331" name=""/>
+    <selectionGroup id="332" name=""/>
+    <selectionGroup id="334" name=""/>
+    <selectionGroup id="336" name=""/>
+    <selectionGroup id="337" name=""/>
+    <selectionGroup id="339" name=""/>
+    <selectionGroup id="340" name=""/>
+    <selectionGroup id="710" name=""/>
+    <selectionGroup id="711" name=""/>
+    <selectionGroup id="712" name=""/>
+    <selectionGroup id="715" name=""/>
+    <selectionGroup id="717" name=""/>
+    <selectionGroup id="721" name=""/>
+    <selectionGroup id="1283" name=""/>
+    <selectionGroup id="1306" name=""/>
+    <selectionGroup id="1310" name=""/>
+    <selectionGroup id="1314" name=""/>
+    <selectionGroup id="1315" name=""/>
+    <selectionGroup id="1317" name=""/>
+    <selectionGroup id="1318" name=""/>
+    <selectionGroup id="1319" name=""/>
+    <selectionGroup id="1320" name=""/>
+    <selectionGroup id="1327" name=""/>
+    <selectionGroup id="1329" name=""/>
+    <selectionGroup id="1330" name=""/>
+    <selectionGroup id="1331" name=""/>
+    <selectionGroup id="1333" name=""/>
+    <selectionGroup id="1336" name=""/>
+    <selectionGroup id="1337" name=""/>
+    <selectionGroup id="1338" name=""/>
+    <selectionGroup id="1342" name=""/>
+    <selectionGroup id="1343" name=""/>
+    <selectionGroup id="1344" name=""/>
+    <selectionGroup id="1347" name=""/>
+    <selectionGroup id="1348" name=""/>
+    <selectionGroup id="1349" name=""/>
+    <selectionGroup id="1351" name=""/>
+    <selectionGroup id="1352" name=""/>
+    <selectionGroup id="1353" name=""/>
+  </selectionGroups>
+  <selectionSets/>
+  <properties>
+    <property key="EditTimeInSeconds" value="237124"/>
+    <property key="LastCameraAngle" value="33.6 152.401 0"/>
+    <property key="LastCameraPosition" value="333.316 635.623 -100.567"/>
+    <property key="LastShaderClipboardMaterial" value="textures/darkmod/stone/natural/rough_old"/>
+  </properties>
+  <entity number="0">
+    <primitives>
+      <brush number="0">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-26.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="0"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-13.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0" xy="0" yy="0.022361" ty="0"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-196.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="0"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="18.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="0"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-15.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0" xy="0" yy="0.022361" ty="0"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-204.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-0.083333" xy="0" yy="0.022361" ty="0"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1353"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="1">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-18.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-13.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.000000" xy="0" yy="0.022361" ty="0.178885"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-168.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="156.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.894427" z="-0.447214" d="0.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-0.000000" xy="0" yy="0.022361" ty="0.340000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1353"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="2">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-18.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="3.577709"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-13.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-6.666667" xy="0" yy="0.022361" ty="0.178885"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-8.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-4.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.894427" z="-0.447214" d="0.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="6.666667" xy="0" yy="0.022361" ty="0.340000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1353"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="3">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-18.000000"/>
+            <textureProjection xx="0.025000" yx="0" tx="-0.149997" xy="0" yy="0.083333" ty="21.333333"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-13.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-10.666667" xy="0" yy="0.025000" ty="1.000003"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="184.000000"/>
+            <textureProjection xx="0.025000" yx="0" tx="-0.149997" xy="0" yy="0.025000" ty="0.800003"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-196.000000"/>
+            <textureProjection xx="0.025000" yx="0" tx="-0.849999" xy="0" yy="0.025000" ty="0.800003"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.894427" z="-0.447214" d="0.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="10.666667" xy="0" yy="0.022361" ty="0.340000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1353"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="4">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-18.000000"/>
+            <textureProjection xx="0.025000" yx="0" tx="-0.149997" xy="0" yy="0.083333" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-13.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.000000" xy="0" yy="0.025000" ty="1.000003"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-72.000000"/>
+            <textureProjection xx="0.025000" yx="0" tx="-0.149997" xy="0" yy="0.025000" ty="0.800003"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="60.000000"/>
+            <textureProjection xx="0.025000" yx="0" tx="-0.849999" xy="0" yy="0.025000" ty="0.800003"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.894427" z="-0.447214" d="0.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.000000" xy="0" yy="0.022361" ty="0.340000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1353"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="5">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-18.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="5.724334"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-13.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-10.666667" xy="0" yy="0.022361" ty="0.178885"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="120.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-132.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.894427" z="-0.447214" d="0.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="10.666667" xy="0" yy="0.022361" ty="0.340000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1353"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="6">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-18.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="-0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-13.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.000000" xy="0" yy="0.022361" ty="0.178885"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-136.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="124.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.894427" z="-0.447214" d="0.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.000000" xy="0" yy="0.022361" ty="0.340000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1353"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="7">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-18.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="3.577709"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-13.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-6.666667" xy="0" yy="0.022361" ty="0.178885"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="24.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-36.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.894427" z="-0.447214" d="0.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="6.666667" xy="0" yy="0.022361" ty="0.340000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1353"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="8">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-18.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-13.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-0.000000" xy="0" yy="0.022361" ty="0.178885"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-104.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="92.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.894427" z="-0.447214" d="0.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.000000" xy="0" yy="0.022361" ty="0.340000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1353"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="9">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-18.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="3.577709"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-13.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-6.666667" xy="0" yy="0.022361" ty="0.178885"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-40.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="28.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.894427" z="-0.447214" d="0.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="6.666667" xy="0" yy="0.022361" ty="0.340000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1353"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="10">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="18.000000"/>
+            <textureProjection xx="0.007812" yx="0" tx="0.015625" xy="0" yy="0.007812" ty="-0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-13.000000"/>
+            <textureProjection xx="0.007812" yx="0" tx="-0.000000" xy="0" yy="0.007812" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-204.000000"/>
+            <textureProjection xx="0.007812" yx="0" tx="0.015625" xy="0" yy="0.007812" ty="0"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-26.000000"/>
+            <textureProjection xx="0.007812" yx="0" tx="0.015625" xy="0" yy="0.007812" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="9.000000"/>
+            <textureProjection xx="0.007812" yx="0" tx="0" xy="0" yy="0.007812" ty="0"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-204.000000"/>
+            <textureProjection xx="0.007812" yx="0" tx="-0.015625" xy="0" yy="0.007812" ty="0"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1353"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="11">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-18.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="3.577709"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-13.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-6.666667" xy="0" yy="0.022361" ty="0.178885"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="56.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-68.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.894427" z="-0.447214" d="0.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="6.666667" xy="0" yy="0.022361" ty="0.340000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1353"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="12">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-18.000000"/>
+            <textureProjection xx="0.025000" yx="0" tx="-0.149997" xy="0" yy="0.083333" ty="13.333333"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-13.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-6.666667" xy="0" yy="0.025000" ty="1.000003"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="88.000000"/>
+            <textureProjection xx="0.025000" yx="0" tx="-0.149997" xy="0" yy="0.025000" ty="0.800003"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-100.000000"/>
+            <textureProjection xx="0.025000" yx="0" tx="-0.849999" xy="0" yy="0.025000" ty="0.800003"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.894427" z="-0.447214" d="0.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="6.666667" xy="0" yy="0.022361" ty="0.340000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1353"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="13">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-18.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-13.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-0.000000" xy="0" yy="0.022361" ty="0.178885"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-200.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="188.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.894427" z="-0.447214" d="0.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.000000" xy="0" yy="0.022361" ty="0.340000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1353"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="14">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-18.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="5.724334"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-13.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-10.666667" xy="0" yy="0.022361" ty="0.178885"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="152.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-164.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="-0.083333" xy="0" yy="0.022361" ty="0.000000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-0.894427" z="-0.447214" d="0.000000"/>
+            <textureProjection xx="0.041667" yx="0" tx="10.666667" xy="0" yy="0.022361" ty="0.340000"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1353"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="15">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-26.000000"/>
+            <textureProjection xx="0.007812" yx="0" tx="0" xy="0" yy="0.007812" ty="0"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-15.000000"/>
+            <textureProjection xx="0.007812" yx="0" tx="0" xy="0" yy="0.007812" ty="0"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-204.000000"/>
+            <textureProjection xx="0.007812" yx="0" tx="0" xy="0" yy="0.007812" ty="0"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-26.000000"/>
+            <textureProjection xx="0.007812" yx="0" tx="0" xy="0" yy="0.007812" ty="0"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="13.000000"/>
+            <textureProjection xx="0.007812" yx="0" tx="0" xy="0" yy="0.007812" ty="0"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-204.000000"/>
+            <textureProjection xx="0.007812" yx="0" tx="0" xy="0" yy="0.007812" ty="0"/>
+            <material name="textures/darkmod/stone/natural/rough_old"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1353"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="func_static"/>
+      <keyValue key="name" value="func_static_435"/>
+      <keyValue key="model" value="func_static_435"/>
+      <keyValue key="origin" value="300 689 -26"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+</map>
