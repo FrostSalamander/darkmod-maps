@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map version="1" format="portable">
+  <layers>
+    <layer id="0" name="Default"/>
+    <layer id="1" name="trees"/>
+    <layer id="2" name="roof"/>
+    <layer id="3" name="prefabs"/>
+  </layers>
+  <selectionGroups>
+    <selectionGroup id="1" name=""/>
+    <selectionGroup id="2" name=""/>
+    <selectionGroup id="20" name=""/>
+    <selectionGroup id="32" name=""/>
+    <selectionGroup id="33" name=""/>
+    <selectionGroup id="34" name=""/>
+    <selectionGroup id="37" name=""/>
+    <selectionGroup id="38" name=""/>
+    <selectionGroup id="40" name=""/>
+    <selectionGroup id="43" name=""/>
+    <selectionGroup id="47" name=""/>
+    <selectionGroup id="50" name=""/>
+    <selectionGroup id="53" name=""/>
+    <selectionGroup id="56" name=""/>
+    <selectionGroup id="57" name=""/>
+    <selectionGroup id="58" name=""/>
+    <selectionGroup id="307" name=""/>
+    <selectionGroup id="315" name=""/>
+    <selectionGroup id="316" name=""/>
+    <selectionGroup id="317" name=""/>
+    <selectionGroup id="318" name=""/>
+    <selectionGroup id="319" name=""/>
+    <selectionGroup id="320" name=""/>
+    <selectionGroup id="324" name=""/>
+    <selectionGroup id="325" name=""/>
+    <selectionGroup id="328" name=""/>
+    <selectionGroup id="329" name=""/>
+    <selectionGroup id="330" name=""/>
+    <selectionGroup id="331" name=""/>
+    <selectionGroup id="334" name=""/>
+    <selectionGroup id="336" name=""/>
+    <selectionGroup id="337" name=""/>
+    <selectionGroup id="710" name=""/>
+    <selectionGroup id="711" name=""/>
+    <selectionGroup id="712" name=""/>
+    <selectionGroup id="715" name=""/>
+    <selectionGroup id="717" name=""/>
+    <selectionGroup id="721" name=""/>
+    <selectionGroup id="888" name=""/>
+    <selectionGroup id="953" name=""/>
+    <selectionGroup id="1283" name=""/>
+    <selectionGroup id="1306" name=""/>
+    <selectionGroup id="1310" name=""/>
+    <selectionGroup id="1314" name=""/>
+    <selectionGroup id="1315" name=""/>
+    <selectionGroup id="1317" name=""/>
+    <selectionGroup id="1318" name=""/>
+    <selectionGroup id="1319" name=""/>
+    <selectionGroup id="1320" name=""/>
+    <selectionGroup id="1327" name=""/>
+    <selectionGroup id="1329" name=""/>
+    <selectionGroup id="1330" name=""/>
+    <selectionGroup id="1333" name=""/>
+    <selectionGroup id="1336" name=""/>
+    <selectionGroup id="1337" name=""/>
+    <selectionGroup id="1338" name=""/>
+    <selectionGroup id="1342" name=""/>
+    <selectionGroup id="1343" name=""/>
+    <selectionGroup id="1344" name=""/>
+    <selectionGroup id="1347" name=""/>
+    <selectionGroup id="1348" name=""/>
+    <selectionGroup id="1349" name=""/>
+    <selectionGroup id="1351" name=""/>
+    <selectionGroup id="1352" name=""/>
+    <selectionGroup id="1354" name=""/>
+    <selectionGroup id="1355" name=""/>
+    <selectionGroup id="1358" name=""/>
+    <selectionGroup id="1359" name=""/>
+    <selectionGroup id="1360" name=""/>
+    <selectionGroup id="1365" name=""/>
+    <selectionGroup id="1366" name=""/>
+    <selectionGroup id="1367" name=""/>
+    <selectionGroup id="1368" name=""/>
+    <selectionGroup id="1375" name=""/>
+    <selectionGroup id="1376" name=""/>
+    <selectionGroup id="1380" name=""/>
+    <selectionGroup id="1381" name=""/>
+    <selectionGroup id="1382" name=""/>
+    <selectionGroup id="1385" name=""/>
+    <selectionGroup id="1389" name=""/>
+    <selectionGroup id="1390" name=""/>
+    <selectionGroup id="1391" name=""/>
+    <selectionGroup id="1392" name=""/>
+    <selectionGroup id="1393" name=""/>
+    <selectionGroup id="1397" name=""/>
+    <selectionGroup id="1398" name=""/>
+    <selectionGroup id="1400" name=""/>
+    <selectionGroup id="1401" name=""/>
+    <selectionGroup id="1402" name=""/>
+    <selectionGroup id="1405" name=""/>
+    <selectionGroup id="1409" name=""/>
+    <selectionGroup id="1410" name=""/>
+    <selectionGroup id="1414" name=""/>
+    <selectionGroup id="1415" name=""/>
+    <selectionGroup id="1416" name=""/>
+    <selectionGroup id="1418" name=""/>
+    <selectionGroup id="1420" name=""/>
+    <selectionGroup id="1423" name=""/>
+    <selectionGroup id="1427" name=""/>
+    <selectionGroup id="1428" name=""/>
+    <selectionGroup id="1431" name=""/>
+    <selectionGroup id="1432" name=""/>
+    <selectionGroup id="1433" name=""/>
+    <selectionGroup id="1434" name=""/>
+    <selectionGroup id="1435" name=""/>
+    <selectionGroup id="1436" name=""/>
+    <selectionGroup id="1438" name=""/>
+    <selectionGroup id="1441" name=""/>
+    <selectionGroup id="1442" name=""/>
+    <selectionGroup id="1443" name=""/>
+    <selectionGroup id="1444" name=""/>
+    <selectionGroup id="1445" name=""/>
+    <selectionGroup id="1446" name=""/>
+    <selectionGroup id="1449" name=""/>
+    <selectionGroup id="1450" name=""/>
+    <selectionGroup id="1452" name=""/>
+    <selectionGroup id="1453" name=""/>
+    <selectionGroup id="1456" name=""/>
+    <selectionGroup id="1457" name=""/>
+    <selectionGroup id="1458" name=""/>
+    <selectionGroup id="1461" name=""/>
+    <selectionGroup id="1462" name=""/>
+    <selectionGroup id="1463" name=""/>
+    <selectionGroup id="1464" name=""/>
+    <selectionGroup id="1469" name=""/>
+    <selectionGroup id="1473" name=""/>
+    <selectionGroup id="1476" name=""/>
+    <selectionGroup id="1478" name=""/>
+    <selectionGroup id="1479" name=""/>
+    <selectionGroup id="1480" name=""/>
+    <selectionGroup id="1488" name=""/>
+    <selectionGroup id="1489" name=""/>
+    <selectionGroup id="1490" name=""/>
+    <selectionGroup id="1491" name=""/>
+    <selectionGroup id="1492" name=""/>
+    <selectionGroup id="1494" name=""/>
+  </selectionGroups>
+  <selectionSets/>
+  <properties>
+    <property key="EditTimeInSeconds" value="528791"/>
+    <property key="LastCameraAngle" value="-7.8 59.904 0"/>
+    <property key="LastCameraPosition" value="-905.061 688.165 -30.141"/>
+    <property key="LastShaderClipboardMaterial" value="textures/darkmod/wood/boards/dark_redwood"/>
+  </properties>
+  <entity number="0">
+    <primitives>
+      <brush number="0">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="10.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.156250" xy="0.019531" yy="0" ty="-34.296875"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-792.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.351563" xy="0.019531" yy="-0.000000" ty="-38.437500"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-840.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.351562" xy="0.019531" yy="-0.000000" ty="-36.406250"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-78.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.156250" xy="0.019531" yy="0" ty="-34.296875"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="784.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.351563" xy="0.019531" yy="-0.000000" ty="-34.296875"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="824.000000"/>
+            <textureProjection xx="-0.009766" yx="-0.000000" tx="-8.404297" xy="0" yy="-0.019531" ty="-51.636719"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1492"/>
+          <selectionGroup id="1494"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="1">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="2.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.156250" xy="0.019531" yy="-0.000000" ty="-34.296875"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-840.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.449219" xy="0.019531" yy="0" ty="-38.515625"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-840.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.449219" xy="0.019531" yy="-0.000000" ty="-36.406250"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-10.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.156250" xy="0.019531" yy="-0.000000" ty="-34.296875"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="784.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.449219" xy="0.019531" yy="0" ty="-34.296875"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="824.000000"/>
+            <textureProjection xx="-0.009766" yx="-0.000000" tx="-8.404297" xy="0.000000" yy="-0.019531" ty="-51.636719"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1492"/>
+          <selectionGroup id="1494"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="2">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="10.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.126953" xy="0.019531" yy="-0.000000" ty="-34.296875"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-840.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.351563" xy="0.019531" yy="-0.000000" ty="-38.515625"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-840.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.351562" xy="0.019531" yy="-0.000000" ty="-36.406250"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-78.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.156250" xy="0.019531" yy="-0.000000" ty="-34.296875"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="832.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.351563" xy="0.019531" yy="-0.000000" ty="-34.375000"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="824.000000"/>
+            <textureProjection xx="-0.009766" yx="-0.000000" tx="-8.404297" xy="0" yy="-0.019531" ty="-51.636719"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1492"/>
+          <selectionGroup id="1494"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="3">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="78.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.156250" xy="0.019531" yy="-0.000000" ty="-34.296875"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-840.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.332031" xy="0.019531" yy="0" ty="-38.515625"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-840.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.332031" xy="0.019531" yy="0" ty="-36.406250"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-86.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.156250" xy="0.019531" yy="-0.000000" ty="-34.296875"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="784.000000"/>
+            <textureProjection xx="0" yx="-0.009766" tx="-0.332031" xy="0.019531" yy="0" ty="-34.296875"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="824.000000"/>
+            <textureProjection xx="-0.009766" yx="-0.000000" tx="-8.404297" xy="0.000000" yy="-0.019531" ty="-51.636719"/>
+            <material name="textures/darkmod/stone/brick/tiling_1d/bt_borderwall1_light"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1492"/>
+          <selectionGroup id="1494"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="worldspawn"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups/>
+    <selectionSets/>
+  </entity>
+  <entity number="1">
+    <primitives>
+      <brush number="0">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-35.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="0" xy="0" yy="0.019531" ty="0.078125"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-38.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="1.972656" xy="0" yy="0.019531" ty="0.097656"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="33.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="0.000000" xy="0" yy="0.019531" ty="0.078125"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="21.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="-1.972656" xy="0" yy="0.019531" ty="0.078125"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1491"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="1">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-51.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="0.000000" xy="0" yy="0.019531" ty="0.390625"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-38.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="1.972656" xy="0" yy="0.019531" ty="0.410156"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="49.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="-0.000000" xy="0" yy="0.019531" ty="0.390625"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="21.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="-1.972656" xy="0" yy="0.019531" ty="0.390625"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1491"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="2">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-66.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0.019531"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="0" xy="0" yy="0.019531" ty="0.390625"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-40.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0.390625"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0.019531"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="0" xy="0" yy="0.019531" ty="0.390625"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="38.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="-1.972656" xy="0" yy="0.019531" ty="0.429688"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1491"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="3">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0.000000"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="-0.000000" xy="0" yy="0.019531" ty="0.351563"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-40.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0.351562"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="0"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0.000000"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="0.000000" xy="0" yy="0.019531" ty="0.351563"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="0"/>
+            <textureProjection xx="0.019531" yx="0" tx="-2.031250" xy="0" yy="0.019531" ty="0.351562"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1491"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="4">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-66.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="-0.019531"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="0" xy="0" yy="0.019531" ty="0.390625"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-21.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="1.972656" xy="0" yy="0.019531" ty="0.546875"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0.039062"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="0" xy="0" yy="0.019531" ty="0.390625"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="19.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="-1.972656" xy="0" yy="0.019531" ty="0.390625"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1491"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="5">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-66.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="-0.039062"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="0" xy="0" yy="0.019531" ty="0.390625"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="1.972656" xy="0" yy="0.019531" ty="0.390625"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="-0.000000"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="0" xy="0" yy="0.019531" ty="0.390625"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="0"/>
+            <textureProjection xx="0.019531" yx="0" tx="-2.031250" xy="0" yy="0.019531" ty="0.390625"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1491"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="6">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-51.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0.019531"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="-0.019531" xy="0" yy="0.019531" ty="0.390625"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="49.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="-0.019531"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="0.019531" xy="0" yy="0.019531" ty="0.390625"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="-1.972656" xy="0" yy="0.019531" ty="0.390625"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-19.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="1.972656" xy="0" yy="0.019531" ty="0.390625"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1491"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="7">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-68.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="-0.000000"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="0.000000" xy="0" yy="0.019531" ty="0.585938"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-40.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0.585938"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="66.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0.019531"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="-0.000000" xy="0" yy="0.019531" ty="0.585938"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="0"/>
+            <textureProjection xx="0.019531" yx="0" tx="-2.031250" xy="0" yy="0.019531" ty="0.585938"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1491"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="8">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-66.000000"/>
+            <textureProjection xx="0" yx="0.012500" tx="-0.212501" xy="-0.500000" yy="0" ty="-52.000000"/>
+            <material name="textures/glass/dull_opaque01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-38.000000"/>
+            <textureProjection xx="0.250000" yx="0" tx="25.750000" xy="0" yy="0.017857" ty="0.642864"/>
+            <material name="textures/glass/dull_opaque01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-1.000000"/>
+            <textureProjection xx="0.012500" yx="0" tx="-0.200001" xy="0" yy="0.017857" ty="0.642864"/>
+            <material name="textures/glass/dull_opaque01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="0"/>
+            <textureProjection xx="0" yx="-0.012500" tx="-0.187501" xy="0.500000" yy="0" ty="53.000000"/>
+            <material name="textures/glass/dull_opaque01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="2.000000"/>
+            <textureProjection xx="0.250000" yx="0" tx="-26.750000" xy="0" yy="0.017857" ty="0.642864"/>
+            <material name="textures/glass/dull_opaque01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-1.000000"/>
+            <textureProjection xx="0.012500" yx="0" tx="-0.800003" xy="0" yy="0.017857" ty="0.642864"/>
+            <material name="textures/glass/dull_opaque01"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </brush>
+      <brush number="9">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-35.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0.019531"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="-0.019531" xy="0" yy="0.019531" ty="0.078125"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="33.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="-0.019531"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="0.019531" xy="0" yy="0.019531" ty="0.078125"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="-1.972656" xy="0" yy="0.019531" ty="0.078125"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-19.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="1.972656" xy="0" yy="0.019531" ty="0.078125"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1491"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="10">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-19.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="-0.000000" xy="0" yy="0.019531" ty="-0.234375"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-38.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="1.972656" xy="0" yy="0.019531" ty="-0.214844"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="17.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="-0.000000" xy="0" yy="0.019531" ty="-0.234375"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="21.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="-1.972656" xy="0" yy="0.019531" ty="-0.234375"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1491"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <brush number="11">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-19.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="0.019531"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="-0.019531" xy="0" yy="0.019531" ty="-0.234375"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="17.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="2.031250" xy="0" yy="0.019531" ty="-0.019531"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="0.019531" xy="0" yy="0.019531" ty="-0.234375"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="2.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="-1.972656" xy="0" yy="0.019531" ty="-0.234375"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-19.000000"/>
+            <textureProjection xx="0.019531" yx="0" tx="1.972656" xy="0" yy="0.019531" ty="-0.234375"/>
+            <material name="textures/darkmod/metal/flat/brush_steel_scratched01"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups>
+          <selectionGroup id="1491"/>
+        </selectionGroups>
+        <selectionSets/>
+      </brush>
+      <patch number="12" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/decals/dirt/grime_corners_grimy01"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-794.000000" y="834.125000" z="-76.000000" u="0" v="0"/>
+          <controlVertex row="1" column="0" x="-794.000000" y="834.125000" z="-44.000000" u="0" v="0.500000"/>
+          <controlVertex row="2" column="0" x="-794.000000" y="834.125000" z="-12.000000" u="0" v="1.000000"/>
+          <controlVertex row="0" column="1" x="-812.000000" y="834.125000" z="-76.000000" u="0.500000" v="0"/>
+          <controlVertex row="1" column="1" x="-812.000000" y="834.125000" z="-44.000000" u="0.500000" v="0.500000"/>
+          <controlVertex row="2" column="1" x="-812.000000" y="834.125000" z="-12.000000" u="0.500000" v="1.000000"/>
+          <controlVertex row="0" column="2" x="-830.000000" y="834.125000" z="-76.000000" u="1.000000" v="0"/>
+          <controlVertex row="1" column="2" x="-830.000000" y="834.125000" z="-44.000000" u="1.000000" v="0.500000"/>
+          <controlVertex row="2" column="2" x="-830.000000" y="834.125000" z="-12.000000" u="1.000000" v="1.000000"/>
+        </controlVertices>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </patch>
+      <patch number="13" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/decals/dirt/grime_corners_grimy01"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-830.000000" y="830.875000" z="-76.000000" u="0" v="0"/>
+          <controlVertex row="1" column="0" x="-830.000000" y="830.875000" z="-44.000000" u="0" v="0.500000"/>
+          <controlVertex row="2" column="0" x="-830.000000" y="830.875000" z="-12.000000" u="0" v="1.000000"/>
+          <controlVertex row="0" column="1" x="-812.000000" y="830.875000" z="-76.000000" u="0.500000" v="0"/>
+          <controlVertex row="1" column="1" x="-812.000000" y="830.875000" z="-44.000000" u="0.500000" v="0.500000"/>
+          <controlVertex row="2" column="1" x="-812.000000" y="830.875000" z="-12.000000" u="0.500000" v="1.000000"/>
+          <controlVertex row="0" column="2" x="-794.000000" y="830.875000" z="-76.000000" u="1.000000" v="0"/>
+          <controlVertex row="1" column="2" x="-794.000000" y="830.875000" z="-44.000000" u="1.000000" v="0.500000"/>
+          <controlVertex row="2" column="2" x="-794.000000" y="830.875000" z="-12.000000" u="1.000000" v="1.000000"/>
+        </controlVertices>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </patch>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="atdm:mover_door"/>
+      <keyValue key="name" value="func_static_290"/>
+      <keyValue key="model" value="func_static_290"/>
+      <keyValue key="origin" value="-832 833 -78"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="1494"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+</map>
