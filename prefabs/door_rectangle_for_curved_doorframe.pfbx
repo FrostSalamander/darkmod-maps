@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map version="1" format="portable">
+  <layers>
+    <layer id="0" name="Default"/>
+    <layer id="1" name="trees"/>
+    <layer id="2" name="roof"/>
+    <layer id="3" name="prefabs"/>
+  </layers>
+  <selectionGroups>
+    <selectionGroup id="1" name=""/>
+    <selectionGroup id="2" name=""/>
+    <selectionGroup id="3" name=""/>
+    <selectionGroup id="20" name=""/>
+    <selectionGroup id="32" name=""/>
+    <selectionGroup id="33" name=""/>
+    <selectionGroup id="34" name=""/>
+    <selectionGroup id="57" name=""/>
+    <selectionGroup id="325" name=""/>
+    <selectionGroup id="328" name=""/>
+    <selectionGroup id="329" name=""/>
+    <selectionGroup id="331" name=""/>
+    <selectionGroup id="334" name=""/>
+    <selectionGroup id="336" name=""/>
+    <selectionGroup id="337" name=""/>
+    <selectionGroup id="708" name=""/>
+    <selectionGroup id="709" name=""/>
+    <selectionGroup id="710" name=""/>
+    <selectionGroup id="711" name=""/>
+    <selectionGroup id="712" name=""/>
+    <selectionGroup id="717" name=""/>
+    <selectionGroup id="721" name=""/>
+    <selectionGroup id="888" name=""/>
+    <selectionGroup id="902" name=""/>
+    <selectionGroup id="953" name=""/>
+    <selectionGroup id="1283" name=""/>
+    <selectionGroup id="1306" name=""/>
+    <selectionGroup id="1310" name=""/>
+    <selectionGroup id="1314" name=""/>
+    <selectionGroup id="1333" name=""/>
+    <selectionGroup id="1337" name=""/>
+    <selectionGroup id="1338" name=""/>
+    <selectionGroup id="1342" name=""/>
+    <selectionGroup id="1343" name=""/>
+    <selectionGroup id="1344" name=""/>
+    <selectionGroup id="1347" name=""/>
+    <selectionGroup id="1348" name=""/>
+    <selectionGroup id="1349" name=""/>
+    <selectionGroup id="1351" name=""/>
+    <selectionGroup id="1352" name=""/>
+    <selectionGroup id="1354" name=""/>
+    <selectionGroup id="1355" name=""/>
+    <selectionGroup id="1358" name=""/>
+    <selectionGroup id="1365" name=""/>
+    <selectionGroup id="1366" name=""/>
+    <selectionGroup id="1367" name=""/>
+    <selectionGroup id="1375" name=""/>
+    <selectionGroup id="1376" name=""/>
+    <selectionGroup id="1380" name=""/>
+    <selectionGroup id="1381" name=""/>
+    <selectionGroup id="1382" name=""/>
+    <selectionGroup id="1385" name=""/>
+    <selectionGroup id="1389" name=""/>
+    <selectionGroup id="1390" name=""/>
+    <selectionGroup id="1391" name=""/>
+    <selectionGroup id="1392" name=""/>
+    <selectionGroup id="1393" name=""/>
+    <selectionGroup id="1397" name=""/>
+    <selectionGroup id="1398" name=""/>
+    <selectionGroup id="1401" name=""/>
+    <selectionGroup id="1402" name=""/>
+    <selectionGroup id="1409" name=""/>
+    <selectionGroup id="1410" name=""/>
+    <selectionGroup id="1414" name=""/>
+    <selectionGroup id="1415" name=""/>
+    <selectionGroup id="1416" name=""/>
+    <selectionGroup id="1418" name=""/>
+    <selectionGroup id="1420" name=""/>
+    <selectionGroup id="1423" name=""/>
+    <selectionGroup id="1427" name=""/>
+    <selectionGroup id="1428" name=""/>
+    <selectionGroup id="1431" name=""/>
+    <selectionGroup id="1432" name=""/>
+    <selectionGroup id="1433" name=""/>
+    <selectionGroup id="1434" name=""/>
+    <selectionGroup id="1435" name=""/>
+    <selectionGroup id="1436" name=""/>
+    <selectionGroup id="1438" name=""/>
+    <selectionGroup id="1441" name=""/>
+    <selectionGroup id="1442" name=""/>
+    <selectionGroup id="1443" name=""/>
+    <selectionGroup id="1444" name=""/>
+    <selectionGroup id="1445" name=""/>
+    <selectionGroup id="1446" name=""/>
+    <selectionGroup id="1450" name=""/>
+    <selectionGroup id="1452" name=""/>
+    <selectionGroup id="1453" name=""/>
+    <selectionGroup id="1457" name=""/>
+    <selectionGroup id="1458" name=""/>
+    <selectionGroup id="1461" name=""/>
+    <selectionGroup id="1462" name=""/>
+    <selectionGroup id="1463" name=""/>
+    <selectionGroup id="1464" name=""/>
+    <selectionGroup id="1469" name=""/>
+    <selectionGroup id="1473" name=""/>
+    <selectionGroup id="1476" name=""/>
+    <selectionGroup id="1478" name=""/>
+    <selectionGroup id="1479" name=""/>
+    <selectionGroup id="1480" name=""/>
+    <selectionGroup id="1488" name=""/>
+    <selectionGroup id="1499" name=""/>
+    <selectionGroup id="1515" name=""/>
+    <selectionGroup id="1516" name=""/>
+    <selectionGroup id="1517" name=""/>
+    <selectionGroup id="1518" name=""/>
+    <selectionGroup id="1519" name=""/>
+    <selectionGroup id="1520" name=""/>
+    <selectionGroup id="1521" name=""/>
+    <selectionGroup id="1522" name=""/>
+    <selectionGroup id="1534" name=""/>
+    <selectionGroup id="1535" name=""/>
+    <selectionGroup id="1538" name=""/>
+    <selectionGroup id="1540" name=""/>
+    <selectionGroup id="1541" name=""/>
+    <selectionGroup id="1542" name=""/>
+    <selectionGroup id="1543" name=""/>
+    <selectionGroup id="1544" name=""/>
+    <selectionGroup id="1545" name=""/>
+    <selectionGroup id="1546" name=""/>
+    <selectionGroup id="1547" name=""/>
+    <selectionGroup id="1552" name=""/>
+    <selectionGroup id="1557" name=""/>
+    <selectionGroup id="1558" name=""/>
+    <selectionGroup id="1559" name=""/>
+    <selectionGroup id="1561" name=""/>
+    <selectionGroup id="1562" name=""/>
+    <selectionGroup id="1563" name=""/>
+    <selectionGroup id="1564" name=""/>
+    <selectionGroup id="1565" name=""/>
+    <selectionGroup id="1566" name=""/>
+    <selectionGroup id="1568" name=""/>
+    <selectionGroup id="1570" name=""/>
+    <selectionGroup id="1571" name=""/>
+    <selectionGroup id="1573" name=""/>
+    <selectionGroup id="1574" name=""/>
+    <selectionGroup id="1575" name=""/>
+    <selectionGroup id="1576" name=""/>
+    <selectionGroup id="1577" name=""/>
+    <selectionGroup id="1578" name=""/>
+    <selectionGroup id="1579" name=""/>
+    <selectionGroup id="1580" name=""/>
+    <selectionGroup id="1581" name=""/>
+    <selectionGroup id="1582" name=""/>
+    <selectionGroup id="1583" name=""/>
+    <selectionGroup id="1585" name=""/>
+    <selectionGroup id="1586" name=""/>
+    <selectionGroup id="1588" name=""/>
+    <selectionGroup id="1589" name=""/>
+    <selectionGroup id="1590" name=""/>
+    <selectionGroup id="1591" name=""/>
+    <selectionGroup id="1592" name=""/>
+    <selectionGroup id="1597" name=""/>
+    <selectionGroup id="1599" name=""/>
+    <selectionGroup id="1600" name=""/>
+    <selectionGroup id="1601" name=""/>
+    <selectionGroup id="1604" name=""/>
+    <selectionGroup id="1606" name=""/>
+    <selectionGroup id="1607" name=""/>
+    <selectionGroup id="1610" name=""/>
+    <selectionGroup id="1611" name=""/>
+    <selectionGroup id="1613" name=""/>
+    <selectionGroup id="1615" name=""/>
+    <selectionGroup id="1617" name=""/>
+    <selectionGroup id="1618" name=""/>
+    <selectionGroup id="1621" name=""/>
+    <selectionGroup id="1624" name=""/>
+    <selectionGroup id="1625" name=""/>
+    <selectionGroup id="1631" name=""/>
+    <selectionGroup id="1632" name=""/>
+    <selectionGroup id="1635" name=""/>
+    <selectionGroup id="1636" name=""/>
+    <selectionGroup id="1638" name=""/>
+    <selectionGroup id="1639" name=""/>
+    <selectionGroup id="1640" name=""/>
+    <selectionGroup id="1641" name=""/>
+    <selectionGroup id="1642" name=""/>
+    <selectionGroup id="1643" name=""/>
+    <selectionGroup id="1644" name=""/>
+    <selectionGroup id="1645" name=""/>
+    <selectionGroup id="1646" name=""/>
+    <selectionGroup id="1647" name=""/>
+    <selectionGroup id="1648" name=""/>
+    <selectionGroup id="1649" name=""/>
+    <selectionGroup id="1650" name=""/>
+    <selectionGroup id="1651" name=""/>
+    <selectionGroup id="1652" name=""/>
+    <selectionGroup id="1653" name=""/>
+    <selectionGroup id="1654" name=""/>
+    <selectionGroup id="1660" name=""/>
+    <selectionGroup id="1662" name=""/>
+    <selectionGroup id="1664" name=""/>
+    <selectionGroup id="1665" name=""/>
+    <selectionGroup id="1668" name=""/>
+    <selectionGroup id="1669" name=""/>
+    <selectionGroup id="1672" name=""/>
+    <selectionGroup id="1674" name=""/>
+    <selectionGroup id="1675" name=""/>
+    <selectionGroup id="1676" name=""/>
+    <selectionGroup id="1678" name=""/>
+    <selectionGroup id="1679" name=""/>
+    <selectionGroup id="1681" name=""/>
+    <selectionGroup id="1683" name=""/>
+    <selectionGroup id="1685" name=""/>
+    <selectionGroup id="1686" name=""/>
+    <selectionGroup id="1687" name=""/>
+    <selectionGroup id="1693" name=""/>
+    <selectionGroup id="1697" name=""/>
+    <selectionGroup id="1698" name=""/>
+    <selectionGroup id="1699" name=""/>
+    <selectionGroup id="1700" name=""/>
+    <selectionGroup id="1701" name=""/>
+    <selectionGroup id="1703" name=""/>
+    <selectionGroup id="1704" name=""/>
+    <selectionGroup id="1707" name=""/>
+    <selectionGroup id="1709" name=""/>
+    <selectionGroup id="1711" name=""/>
+    <selectionGroup id="1714" name=""/>
+    <selectionGroup id="1719" name=""/>
+    <selectionGroup id="1720" name=""/>
+    <selectionGroup id="1724" name=""/>
+    <selectionGroup id="1730" name=""/>
+    <selectionGroup id="1731" name=""/>
+    <selectionGroup id="1734" name=""/>
+    <selectionGroup id="1735" name=""/>
+    <selectionGroup id="1736" name=""/>
+    <selectionGroup id="1737" name=""/>
+    <selectionGroup id="1739" name=""/>
+    <selectionGroup id="1741" name=""/>
+    <selectionGroup id="1742" name=""/>
+    <selectionGroup id="1743" name=""/>
+    <selectionGroup id="1748" name=""/>
+    <selectionGroup id="1749" name=""/>
+    <selectionGroup id="1750" name=""/>
+    <selectionGroup id="1759" name=""/>
+    <selectionGroup id="1760" name=""/>
+    <selectionGroup id="1762" name=""/>
+    <selectionGroup id="1763" name=""/>
+    <selectionGroup id="1764" name=""/>
+    <selectionGroup id="1776" name=""/>
+    <selectionGroup id="1777" name=""/>
+    <selectionGroup id="1778" name=""/>
+    <selectionGroup id="1782" name=""/>
+    <selectionGroup id="1783" name=""/>
+    <selectionGroup id="1784" name=""/>
+    <selectionGroup id="1785" name=""/>
+    <selectionGroup id="1787" name=""/>
+    <selectionGroup id="1788" name=""/>
+    <selectionGroup id="1791" name=""/>
+    <selectionGroup id="1801" name=""/>
+    <selectionGroup id="1803" name=""/>
+    <selectionGroup id="1805" name=""/>
+    <selectionGroup id="1807" name=""/>
+    <selectionGroup id="1808" name=""/>
+    <selectionGroup id="1819" name=""/>
+    <selectionGroup id="1820" name=""/>
+    <selectionGroup id="1821" name=""/>
+    <selectionGroup id="1822" name=""/>
+    <selectionGroup id="1827" name=""/>
+    <selectionGroup id="1828" name=""/>
+    <selectionGroup id="1829" name=""/>
+    <selectionGroup id="1834" name=""/>
+    <selectionGroup id="1835" name=""/>
+    <selectionGroup id="1836" name=""/>
+  </selectionGroups>
+  <selectionSets/>
+  <properties>
+    <property key="EditTimeInSeconds" value="959148"/>
+    <property key="LastCameraAngle" value="-15.9 177.9 0"/>
+    <property key="LastCameraPosition" value="-375.049 613.295 -334.136"/>
+    <property key="LastShaderClipboardMaterial" value="lockplate02"/>
+  </properties>
+  <entity number="0">
+    <primitives>
+      <brush number="0">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-92.000000"/>
+            <textureProjection xx="0" yx="0.039062" tx="-0.531447" xy="-0.019531" yy="0" ty="0.513911"/>
+            <material name="textures/darkmod/door/metal/bars_rivets_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-2.000000"/>
+            <textureProjection xx="0.020833" yx="0" tx="115.851562" xy="0" yy="0.010870" ty="252.478261"/>
+            <material name="textures/darkmod/door/metal/bars_rivets_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="0.125000"/>
+            <textureProjection xx="0.039062" yx="0" tx="-0.531447" xy="0" yy="0.019531" ty="0.750016"/>
+            <material name="textures/darkmod/door/metal/bars_rivets_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="0"/>
+            <textureProjection xx="0" yx="-0.039062" tx="-0.531447" xy="0.019531" yy="0" ty="0.505621"/>
+            <material name="textures/darkmod/door/metal/bars_rivets_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-2.000000"/>
+            <textureProjection xx="0.020833" yx="0" tx="13.148438" xy="0" yy="0.010870" ty="252.478261"/>
+            <material name="textures/darkmod/door/metal/bars_rivets_old"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-48.125000"/>
+            <textureProjection xx="0.039062" yx="0" tx="-0.468553" xy="0" yy="0.019531" ty="0.750016"/>
+            <material name="textures/darkmod/door/metal/bars_rivets_old"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </brush>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="atdm:mover_door"/>
+      <keyValue key="name" value="bakery_front_door"/>
+      <keyValue key="model" value="bakery_front_door"/>
+      <keyValue key="origin" value="-452 583 -416"/>
+      <keyValue key="lock_picktype" value="-"/>
+      <keyValue key="lock_pins" value="0"/>
+      <keyValue key="locked" value="0"/>
+      <keyValue key="rotate" value="0 90 0"/>
+      <keyValue key="used_by" value="-"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="1834"/>
+      <selectionGroup id="1835"/>
+      <selectionGroup id="1836"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+  <entity number="1">
+    <primitives>
+      <patch number="0" width="3" height="3" fixedSubdivisions="false">
+        <material name="lockplate02"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-450.000000" y="631.250000" z="-378.000000" u="0.945353" v="-0.117757"/>
+          <controlVertex row="1" column="0" x="-450.000000" y="631.250000" z="-369.000000" u="0.484375" v="-0.117757"/>
+          <controlVertex row="2" column="0" x="-450.000000" y="631.250000" z="-360.000000" u="0.023397" v="-0.117757"/>
+          <controlVertex row="0" column="1" x="-452.000000" y="631.250000" z="-378.000000" u="0.945353" v="-0.056641"/>
+          <controlVertex row="1" column="1" x="-452.000000" y="631.250000" z="-369.000000" u="0.484375" v="-0.056641"/>
+          <controlVertex row="2" column="1" x="-452.000000" y="631.250000" z="-360.000000" u="0.023397" v="-0.056641"/>
+          <controlVertex row="0" column="2" x="-454.000000" y="631.250000" z="-378.000000" u="0.945353" v="0.004476"/>
+          <controlVertex row="1" column="2" x="-454.000000" y="631.250000" z="-369.000000" u="0.484375" v="0.004476"/>
+          <controlVertex row="2" column="2" x="-454.000000" y="631.250000" z="-360.000000" u="0.023397" v="0.004476"/>
+        </controlVertices>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </patch>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="func_static"/>
+      <keyValue key="name" value="func_static_1433"/>
+      <keyValue key="model" value="func_static_1433"/>
+      <keyValue key="origin" value="-452 631 -369"/>
+      <keyValue key="bind" value="bakery_front_door"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="1834"/>
+      <selectionGroup id="1835"/>
+      <selectionGroup id="1836"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+  <entity number="2">
+    <primitives>
+      <patch number="0" width="3" height="3" fixedSubdivisions="false">
+        <material name="lockplate02"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-449.875000" y="621.125000" z="-378.000000" u="0" v="0.869419"/>
+          <controlVertex row="1" column="0" x="-449.875000" y="621.125000" z="-369.000000" u="0" v="0.437500"/>
+          <controlVertex row="2" column="0" x="-449.875000" y="621.125000" z="-360.000000" u="0" v="0.005581"/>
+          <controlVertex row="0" column="1" x="-449.875000" y="625.125000" z="-378.000000" u="0.500000" v="0.869419"/>
+          <controlVertex row="1" column="1" x="-449.875000" y="625.125000" z="-369.000000" u="0.500000" v="0.437500"/>
+          <controlVertex row="2" column="1" x="-449.875000" y="625.125000" z="-360.000000" u="0.500000" v="0.005581"/>
+          <controlVertex row="0" column="2" x="-449.875000" y="629.125000" z="-378.000000" u="1.000000" v="0.869419"/>
+          <controlVertex row="1" column="2" x="-449.875000" y="629.125000" z="-369.000000" u="1.000000" v="0.437500"/>
+          <controlVertex row="2" column="2" x="-449.875000" y="629.125000" z="-360.000000" u="1.000000" v="0.005581"/>
+        </controlVertices>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </patch>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="func_static"/>
+      <keyValue key="name" value="func_static_1434"/>
+      <keyValue key="model" value="func_static_1434"/>
+      <keyValue key="origin" value="-450 625 -369"/>
+      <keyValue key="bind" value="bakery_front_door"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="1834"/>
+      <selectionGroup id="1835"/>
+      <selectionGroup id="1836"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+  <entity number="3">
+    <primitives>
+      <patch number="0" width="3" height="3" fixedSubdivisions="false">
+        <material name="lockplate02"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-454.125000" y="629.125000" z="-378.000000" u="0" v="0.869419"/>
+          <controlVertex row="1" column="0" x="-454.125000" y="629.125000" z="-369.000000" u="0" v="0.437500"/>
+          <controlVertex row="2" column="0" x="-454.125000" y="629.125000" z="-360.000000" u="0" v="0.005581"/>
+          <controlVertex row="0" column="1" x="-454.125000" y="625.125000" z="-378.000000" u="0.500000" v="0.869419"/>
+          <controlVertex row="1" column="1" x="-454.125000" y="625.125000" z="-369.000000" u="0.500000" v="0.437500"/>
+          <controlVertex row="2" column="1" x="-454.125000" y="625.125000" z="-360.000000" u="0.500000" v="0.005581"/>
+          <controlVertex row="0" column="2" x="-454.125000" y="621.125000" z="-378.000000" u="1.000000" v="0.869419"/>
+          <controlVertex row="1" column="2" x="-454.125000" y="621.125000" z="-369.000000" u="1.000000" v="0.437500"/>
+          <controlVertex row="2" column="2" x="-454.125000" y="621.125000" z="-360.000000" u="1.000000" v="0.005581"/>
+        </controlVertices>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </patch>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="func_static"/>
+      <keyValue key="name" value="func_static_691"/>
+      <keyValue key="model" value="func_static_691"/>
+      <keyValue key="origin" value="-454 625 -369"/>
+      <keyValue key="bind" value="bakery_front_door"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="1834"/>
+      <selectionGroup id="1835"/>
+      <selectionGroup id="1836"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+  <entity number="4">
+    <primitives>
+      <patch number="0" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/metal/flat/tiling_1d/gen_smooth_iron01"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-454.000000" y="582.750000" z="-342.000000" u="0" v="0"/>
+          <controlVertex row="1" column="0" x="-454.000000" y="582.750000" z="-340.000000" u="0" v="-0.078125"/>
+          <controlVertex row="2" column="0" x="-454.000000" y="582.750000" z="-338.000000" u="0" v="-0.156250"/>
+          <controlVertex row="0" column="1" x="-452.000000" y="582.750000" z="-342.000000" u="0.156250" v="0"/>
+          <controlVertex row="1" column="1" x="-452.000000" y="582.750000" z="-340.000000" u="0.156250" v="-0.078125"/>
+          <controlVertex row="2" column="1" x="-452.000000" y="582.750000" z="-338.000000" u="0.156250" v="-0.156250"/>
+          <controlVertex row="0" column="2" x="-450.000000" y="582.750000" z="-342.000000" u="0.312500" v="0"/>
+          <controlVertex row="1" column="2" x="-450.000000" y="582.750000" z="-340.000000" u="0.312500" v="-0.078125"/>
+          <controlVertex row="2" column="2" x="-450.000000" y="582.750000" z="-338.000000" u="0.312500" v="-0.156250"/>
+        </controlVertices>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </patch>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="func_static"/>
+      <keyValue key="name" value="func_static_1435"/>
+      <keyValue key="model" value="func_static_1435"/>
+      <keyValue key="origin" value="-452 583 -340"/>
+      <keyValue key="bind" value="bakery_front_door"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="1834"/>
+      <selectionGroup id="1835"/>
+      <selectionGroup id="1836"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+  <entity number="5">
+    <primitives>
+      <patch number="0" width="3" height="3" fixedSubdivisions="false">
+        <material name="textures/darkmod/metal/flat/tiling_1d/gen_smooth_iron01"/>
+        <controlVertices>
+          <controlVertex row="0" column="0" x="-454.000000" y="582.750000" z="-398.000000" u="0" v="0"/>
+          <controlVertex row="1" column="0" x="-454.000000" y="582.750000" z="-396.000000" u="0" v="-0.078125"/>
+          <controlVertex row="2" column="0" x="-454.000000" y="582.750000" z="-394.000000" u="0" v="-0.156250"/>
+          <controlVertex row="0" column="1" x="-452.000000" y="582.750000" z="-398.000000" u="0.156250" v="0"/>
+          <controlVertex row="1" column="1" x="-452.000000" y="582.750000" z="-396.000000" u="0.156250" v="-0.078125"/>
+          <controlVertex row="2" column="1" x="-452.000000" y="582.750000" z="-394.000000" u="0.156250" v="-0.156250"/>
+          <controlVertex row="0" column="2" x="-450.000000" y="582.750000" z="-398.000000" u="0.312500" v="0"/>
+          <controlVertex row="1" column="2" x="-450.000000" y="582.750000" z="-396.000000" u="0.312500" v="-0.078125"/>
+          <controlVertex row="2" column="2" x="-450.000000" y="582.750000" z="-394.000000" u="0.312500" v="-0.156250"/>
+        </controlVertices>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </patch>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="func_static"/>
+      <keyValue key="name" value="func_static_1436"/>
+      <keyValue key="model" value="func_static_1436"/>
+      <keyValue key="origin" value="-452 583 -396"/>
+      <keyValue key="bind" value="bakery_front_door"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="1834"/>
+      <selectionGroup id="1835"/>
+      <selectionGroup id="1836"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+  <entity number="6">
+    <primitives/>
+    <keyValues>
+      <keyValue key="classname" value="atdm:handle_curved_rotate_double_right"/>
+      <keyValue key="name" value="func_static_1437"/>
+      <keyValue key="origin" value="-452.009 625.359 -367"/>
+      <keyValue key="rotation" value="0 1 0 -1 0 0 0 0 1"/>
+      <keyValue key="model" value="models/darkmod/door_related/handle_curved_rotate_double.ase"/>
+      <keyValue key="bind" value="bakery_front_door"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="1835"/>
+      <selectionGroup id="1836"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+  <entity number="7">
+    <primitives>
+      <brush number="0">
+        <faces>
+          <face>
+            <plane x="0" y="0" z="1.000000" d="-2.000000"/>
+            <textureProjection xx="0.004883" yx="0" tx="0.000000" xy="0" yy="0.004883" ty="0.004883"/>
+            <material name="textures/darkmod/metal/flat/iron_flat"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="1.000000" z="0" d="-24.000000"/>
+            <textureProjection xx="0.004883" yx="0" tx="-1.004883" xy="0" yy="0.004883" ty="0.000000"/>
+            <material name="textures/darkmod/metal/flat/iron_flat"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="1.000000" y="0" z="0" d="-2.000000"/>
+            <textureProjection xx="0.004883" yx="0" tx="-0.000000" xy="0" yy="0.004883" ty="0.000000"/>
+            <material name="textures/darkmod/metal/flat/iron_flat"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="0" z="-1.000000" d="-2.000000"/>
+            <textureProjection xx="0.004883" yx="0" tx="0.000000" xy="0" yy="0.004883" ty="-0.004883"/>
+            <material name="textures/darkmod/metal/flat/iron_flat"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="0" y="-1.000000" z="0" d="-25.000000"/>
+            <textureProjection xx="0.004883" yx="0" tx="0.004883" xy="0" yy="0.004883" ty="0.000000"/>
+            <material name="textures/darkmod/metal/flat/iron_flat"/>
+            <contentsFlag value="0"/>
+          </face>
+          <face>
+            <plane x="-1.000000" y="0" z="0" d="-2.000000"/>
+            <textureProjection xx="0.004883" yx="0" tx="0.000000" xy="0" yy="0.004883" ty="-0.000000"/>
+            <material name="textures/darkmod/metal/flat/iron_flat"/>
+            <contentsFlag value="0"/>
+          </face>
+        </faces>
+        <layers>
+          <layer id="0"/>
+        </layers>
+        <selectionGroups/>
+        <selectionSets/>
+      </brush>
+    </primitives>
+    <keyValues>
+      <keyValue key="classname" value="func_static"/>
+      <keyValue key="name" value="func_static_1438"/>
+      <keyValue key="model" value="func_static_1438"/>
+      <keyValue key="origin" value="-452 608 -322"/>
+    </keyValues>
+    <layers>
+      <layer id="0"/>
+    </layers>
+    <selectionGroups>
+      <selectionGroup id="1836"/>
+    </selectionGroups>
+    <selectionSets/>
+  </entity>
+</map>
