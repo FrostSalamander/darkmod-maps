@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <map version="1" format="portable">
   <layers>
-    <layer id="0" name="Default" parentId="-1" active="false" hidden="false"/>
-    <layer id="1" name="trees" parentId="-1" active="false" hidden="false"/>
+    <layer id="0" name="Default" parentId="-1" active="true" hidden="false"/>
+    <layer id="1" name="trees" parentId="-1" active="false" hidden="true"/>
     <layer id="2" name="streetlamps" parentId="-1" active="false" hidden="false"/>
     <layer id="3" name="pier" parentId="-1" active="false" hidden="false"/>
     <layer id="4" name="prefabs" parentId="-1" active="false" hidden="false"/>
@@ -12,7 +12,7 @@
     <layer id="8" name="river" parentId="-1" active="false" hidden="false"/>
     <layer id="9" name="tavern" parentId="-1" active="false" hidden="false"/>
     <layer id="10" name="hotels" parentId="-1" active="false" hidden="false"/>
-    <layer id="11" name="liberty" parentId="-1" active="true" hidden="false"/>
+    <layer id="11" name="liberty" parentId="-1" active="false" hidden="false"/>
     <layer id="12" name="church" parentId="-1" active="false" hidden="false"/>
     <layer id="13" name="statue" parentId="-1" active="false" hidden="false"/>
     <layer id="14" name="tunnels" parentId="-1" active="false" hidden="false"/>
@@ -24,6 +24,7 @@
     <layer id="20" name="carpets" parentId="-1" active="false" hidden="false"/>
     <layer id="21" name="hammer_bar" parentId="-1" active="false" hidden="false"/>
     <layer id="22" name="prison" parentId="-1" active="false" hidden="false"/>
+    <layer id="23" name="grime" parentId="-1" active="false" hidden="false"/>
   </layers>
   <selectionGroups>
     <selectionGroup id="1" name=""/>
@@ -71,7 +72,16 @@
     <selectionGroup id="43" name=""/>
     <selectionGroup id="44" name=""/>
     <selectionGroup id="45" name=""/>
+    <selectionGroup id="46" name=""/>
+    <selectionGroup id="47" name=""/>
+    <selectionGroup id="48" name=""/>
+    <selectionGroup id="49" name=""/>
+    <selectionGroup id="50" name=""/>
+    <selectionGroup id="51" name=""/>
+    <selectionGroup id="52" name=""/>
+    <selectionGroup id="53" name=""/>
     <selectionGroup id="888" name=""/>
+    <selectionGroup id="1449" name=""/>
     <selectionGroup id="1597" name=""/>
     <selectionGroup id="1601" name=""/>
     <selectionGroup id="1602" name=""/>
@@ -1921,12 +1931,8 @@
     <selectionGroup id="6800" name=""/>
     <selectionGroup id="6801" name=""/>
     <selectionGroup id="6802" name=""/>
-    <selectionGroup id="6803" name=""/>
-    <selectionGroup id="6804" name=""/>
     <selectionGroup id="6805" name=""/>
     <selectionGroup id="6806" name=""/>
-    <selectionGroup id="6809" name=""/>
-    <selectionGroup id="6810" name=""/>
     <selectionGroup id="6812" name=""/>
     <selectionGroup id="6816" name=""/>
     <selectionGroup id="6825" name=""/>
@@ -2657,7 +2663,6 @@
     <selectionGroup id="8011" name=""/>
     <selectionGroup id="8012" name=""/>
     <selectionGroup id="8013" name=""/>
-    <selectionGroup id="8015" name=""/>
     <selectionGroup id="8017" name=""/>
     <selectionGroup id="8020" name=""/>
     <selectionGroup id="8024" name=""/>
@@ -3839,7 +3844,6 @@
     <selectionGroup id="9876" name=""/>
     <selectionGroup id="9878" name=""/>
     <selectionGroup id="9879" name=""/>
-    <selectionGroup id="9880" name=""/>
     <selectionGroup id="9881" name=""/>
     <selectionGroup id="9882" name=""/>
     <selectionGroup id="9891" name=""/>
@@ -3888,7 +3892,6 @@
     <selectionGroup id="9956" name=""/>
     <selectionGroup id="9957" name=""/>
     <selectionGroup id="9958" name=""/>
-    <selectionGroup id="9960" name=""/>
     <selectionGroup id="9961" name=""/>
     <selectionGroup id="9962" name=""/>
     <selectionGroup id="9963" name=""/>
@@ -4823,7 +4826,6 @@
     <selectionGroup id="11609" name=""/>
     <selectionGroup id="11610" name=""/>
     <selectionGroup id="11611" name=""/>
-    <selectionGroup id="11614" name=""/>
     <selectionGroup id="11616" name=""/>
     <selectionGroup id="11617" name=""/>
     <selectionGroup id="11619" name=""/>
@@ -4842,7 +4844,6 @@
     <selectionGroup id="11636" name=""/>
     <selectionGroup id="11640" name=""/>
     <selectionGroup id="11658" name=""/>
-    <selectionGroup id="11659" name=""/>
     <selectionGroup id="11660" name=""/>
     <selectionGroup id="11661" name=""/>
     <selectionGroup id="11662" name=""/>
@@ -4967,7 +4968,6 @@
     <selectionGroup id="11853" name=""/>
     <selectionGroup id="11854" name=""/>
     <selectionGroup id="11855" name=""/>
-    <selectionGroup id="11857" name=""/>
     <selectionGroup id="11858" name=""/>
     <selectionGroup id="11859" name=""/>
     <selectionGroup id="11862" name=""/>
@@ -5362,7 +5362,6 @@
     <selectionGroup id="12418" name=""/>
     <selectionGroup id="12419" name=""/>
     <selectionGroup id="12420" name=""/>
-    <selectionGroup id="12421" name=""/>
     <selectionGroup id="12422" name=""/>
     <selectionGroup id="12424" name=""/>
     <selectionGroup id="12425" name=""/>
@@ -5414,35 +5413,164 @@
     <selectionGroup id="12484" name=""/>
     <selectionGroup id="12485" name=""/>
     <selectionGroup id="12487" name=""/>
+    <selectionGroup id="12488" name=""/>
+    <selectionGroup id="12489" name=""/>
+    <selectionGroup id="12493" name=""/>
+    <selectionGroup id="12495" name=""/>
+    <selectionGroup id="12496" name=""/>
+    <selectionGroup id="12497" name=""/>
+    <selectionGroup id="12498" name=""/>
+    <selectionGroup id="12499" name=""/>
+    <selectionGroup id="12500" name=""/>
+    <selectionGroup id="12501" name=""/>
+    <selectionGroup id="12502" name=""/>
+    <selectionGroup id="12503" name=""/>
+    <selectionGroup id="12504" name=""/>
+    <selectionGroup id="12505" name=""/>
+    <selectionGroup id="12506" name=""/>
+    <selectionGroup id="12507" name=""/>
+    <selectionGroup id="12508" name=""/>
+    <selectionGroup id="12509" name=""/>
+    <selectionGroup id="12510" name=""/>
+    <selectionGroup id="12511" name=""/>
+    <selectionGroup id="12512" name=""/>
+    <selectionGroup id="12513" name=""/>
+    <selectionGroup id="12515" name=""/>
+    <selectionGroup id="12519" name=""/>
+    <selectionGroup id="12520" name=""/>
+    <selectionGroup id="12521" name=""/>
+    <selectionGroup id="12523" name=""/>
+    <selectionGroup id="12524" name=""/>
+    <selectionGroup id="12528" name=""/>
+    <selectionGroup id="12529" name=""/>
+    <selectionGroup id="12530" name=""/>
+    <selectionGroup id="12531" name=""/>
+    <selectionGroup id="12532" name=""/>
+    <selectionGroup id="12533" name=""/>
+    <selectionGroup id="12534" name=""/>
+    <selectionGroup id="12535" name=""/>
+    <selectionGroup id="12538" name=""/>
+    <selectionGroup id="12539" name=""/>
+    <selectionGroup id="12540" name=""/>
+    <selectionGroup id="12541" name=""/>
+    <selectionGroup id="12542" name=""/>
+    <selectionGroup id="12543" name=""/>
+    <selectionGroup id="12544" name=""/>
+    <selectionGroup id="12545" name=""/>
+    <selectionGroup id="12560" name=""/>
+    <selectionGroup id="12561" name=""/>
+    <selectionGroup id="12564" name=""/>
+    <selectionGroup id="12566" name=""/>
+    <selectionGroup id="12567" name=""/>
+    <selectionGroup id="12568" name=""/>
+    <selectionGroup id="12569" name=""/>
+    <selectionGroup id="12570" name=""/>
+    <selectionGroup id="12571" name=""/>
+    <selectionGroup id="12572" name=""/>
+    <selectionGroup id="12573" name=""/>
+    <selectionGroup id="12574" name=""/>
+    <selectionGroup id="12575" name=""/>
+    <selectionGroup id="12576" name=""/>
+    <selectionGroup id="12578" name=""/>
+    <selectionGroup id="12580" name=""/>
+    <selectionGroup id="12585" name=""/>
+    <selectionGroup id="12586" name=""/>
+    <selectionGroup id="12587" name=""/>
+    <selectionGroup id="12588" name=""/>
+    <selectionGroup id="12589" name=""/>
+    <selectionGroup id="12590" name=""/>
+    <selectionGroup id="12591" name=""/>
+    <selectionGroup id="12593" name=""/>
+    <selectionGroup id="12594" name=""/>
+    <selectionGroup id="12595" name=""/>
+    <selectionGroup id="12596" name=""/>
+    <selectionGroup id="12597" name=""/>
+    <selectionGroup id="12598" name=""/>
+    <selectionGroup id="12601" name=""/>
+    <selectionGroup id="12608" name=""/>
+    <selectionGroup id="12609" name=""/>
+    <selectionGroup id="12613" name=""/>
+    <selectionGroup id="12614" name=""/>
+    <selectionGroup id="12616" name=""/>
+    <selectionGroup id="12618" name=""/>
+    <selectionGroup id="12622" name=""/>
+    <selectionGroup id="12623" name=""/>
+    <selectionGroup id="12626" name=""/>
+    <selectionGroup id="12627" name=""/>
+    <selectionGroup id="12628" name=""/>
+    <selectionGroup id="12629" name=""/>
+    <selectionGroup id="12630" name=""/>
+    <selectionGroup id="12631" name=""/>
+    <selectionGroup id="12633" name=""/>
+    <selectionGroup id="12636" name=""/>
+    <selectionGroup id="12637" name=""/>
+    <selectionGroup id="12639" name=""/>
+    <selectionGroup id="12640" name=""/>
+    <selectionGroup id="12641" name=""/>
+    <selectionGroup id="12642" name=""/>
+    <selectionGroup id="12645" name=""/>
+    <selectionGroup id="12647" name=""/>
+    <selectionGroup id="12648" name=""/>
+    <selectionGroup id="12649" name=""/>
+    <selectionGroup id="12650" name=""/>
+    <selectionGroup id="12652" name=""/>
+    <selectionGroup id="12653" name=""/>
+    <selectionGroup id="12654" name=""/>
+    <selectionGroup id="12655" name=""/>
+    <selectionGroup id="12657" name=""/>
+    <selectionGroup id="12658" name=""/>
+    <selectionGroup id="12659" name=""/>
+    <selectionGroup id="12662" name=""/>
+    <selectionGroup id="12665" name=""/>
+    <selectionGroup id="12668" name=""/>
+    <selectionGroup id="12670" name=""/>
+    <selectionGroup id="12671" name=""/>
+    <selectionGroup id="12672" name=""/>
+    <selectionGroup id="12673" name=""/>
+    <selectionGroup id="12674" name=""/>
+    <selectionGroup id="12675" name=""/>
+    <selectionGroup id="12676" name=""/>
+    <selectionGroup id="12677" name=""/>
+    <selectionGroup id="12678" name=""/>
+    <selectionGroup id="12679" name=""/>
+    <selectionGroup id="12680" name=""/>
+    <selectionGroup id="12681" name=""/>
+    <selectionGroup id="12682" name=""/>
+    <selectionGroup id="12683" name=""/>
+    <selectionGroup id="12684" name=""/>
+    <selectionGroup id="12686" name=""/>
+    <selectionGroup id="12687" name=""/>
+    <selectionGroup id="12689" name=""/>
+    <selectionGroup id="12690" name=""/>
   </selectionGroups>
   <selectionSets/>
   <properties>
-    <property key="EditTimeInSeconds" value="2378444"/>
-    <property key="LastCameraAngle" value="-3.9 257.742 0"/>
-    <property key="LastCameraPosition" value="2355.6 4727.15 186.015"/>
-    <property key="LastShaderClipboardMaterial" value="textures/darkmod/wood/boards/ship_hull_dark"/>
+    <property key="EditTimeInSeconds" value="2495279"/>
+    <property key="LastCameraAngle" value="-17.4 42.6 0"/>
+    <property key="LastCameraPosition" value="-811.032 4445.1 69.3381"/>
+    <property key="LastShaderClipboardMaterial" value="textures/darkmod/wood/boards/worn_04"/>
   </properties>
   <entity number="0">
     <primitives>
       <patch number="0" width="3" height="3" fixedSubdivisions="true" subdivisionsX="1" subdivisionsY="1">
         <material name="textures/darkmod/decals/dirt/stainwallfade"/>
         <controlVertices>
-          <controlVertex row="0" column="0" x="2333.500000" y="4640.000000" z="175.000000" u="0" v="-0.050781"/>
-          <controlVertex row="1" column="0" x="2333.500000" y="4640.000000" z="178.000000" u="0" v="-0.581541"/>
-          <controlVertex row="2" column="0" x="2333.500000" y="4640.000000" z="182.000000" u="0" v="-1.112301"/>
-          <controlVertex row="0" column="1" x="2332.500000" y="4640.000000" z="175.000000" u="-0.397721" v="-0.050781"/>
-          <controlVertex row="1" column="1" x="2332.500000" y="4640.000000" z="178.000000" u="-0.397721" v="-0.581541"/>
-          <controlVertex row="2" column="1" x="2332.500000" y="4640.000000" z="182.000000" u="-0.397721" v="-1.112301"/>
-          <controlVertex row="0" column="2" x="2330.500000" y="4640.000000" z="175.000000" u="-0.795442" v="-0.050781"/>
-          <controlVertex row="1" column="2" x="2330.500000" y="4640.000000" z="178.000000" u="-0.795442" v="-0.581541"/>
-          <controlVertex row="2" column="2" x="2330.500000" y="4640.000000" z="182.000000" u="-0.795442" v="-1.112301"/>
+          <controlVertex row="0" column="0" x="-771.499775" y="4490.940125" z="39.000000" u="0" v="-0.050781"/>
+          <controlVertex row="1" column="0" x="-771.499775" y="4490.940125" z="42.000000" u="0" v="-0.581541"/>
+          <controlVertex row="2" column="0" x="-771.499775" y="4490.940125" z="46.000000" u="0" v="-1.112301"/>
+          <controlVertex row="0" column="1" x="-770.499775" y="4490.940125" z="39.000000" u="-0.397721" v="-0.050781"/>
+          <controlVertex row="1" column="1" x="-770.499775" y="4490.940125" z="42.000000" u="-0.397721" v="-0.581541"/>
+          <controlVertex row="2" column="1" x="-770.499775" y="4490.940125" z="46.000000" u="-0.397721" v="-1.112301"/>
+          <controlVertex row="0" column="2" x="-768.499775" y="4490.940125" z="39.000000" u="-0.795442" v="-0.050781"/>
+          <controlVertex row="1" column="2" x="-768.499775" y="4490.940125" z="42.000000" u="-0.795442" v="-0.581541"/>
+          <controlVertex row="2" column="2" x="-768.499775" y="4490.940125" z="46.000000" u="-0.795442" v="-1.112301"/>
         </controlVertices>
         <layers>
-          <layer id="15"/>
+          <layer id="0"/>
         </layers>
         <selectionGroups>
-          <selectionGroup id="12240"/>
-          <selectionGroup id="12241"/>
+          <selectionGroup id="52"/>
+          <selectionGroup id="53"/>
         </selectionGroups>
         <selectionSets/>
       </patch>
@@ -5460,18 +5588,18 @@
     <primitives/>
     <keyValues>
       <keyValue key="classname" value="func_static"/>
-      <keyValue key="name" value="func_static_1105"/>
+      <keyValue key="name" value="func_static_5474"/>
       <keyValue key="model" value="models/darkmod/lights/extinguishable/wall_sconce_01.ase"/>
       <keyValue key="noshadows" value="1"/>
-      <keyValue key="origin" value="2332 4640 181"/>
-      <keyValue key="rotation" value="1 2.33487e-16 0 -2.33487e-16 1 0 0 0 1"/>
+      <keyValue key="origin" value="-770.002 4491.06 45"/>
+      <keyValue key="rotation" value="-1 -2.33487e-16 0 2.33487e-16 -1 0 0 0 1"/>
     </keyValues>
     <layers>
-      <layer id="15"/>
+      <layer id="0"/>
     </layers>
     <selectionGroups>
-      <selectionGroup id="12240"/>
-      <selectionGroup id="12241"/>
+      <selectionGroup id="52"/>
+      <selectionGroup id="53"/>
     </selectionGroups>
     <selectionSets/>
   </entity>
@@ -5479,16 +5607,16 @@
     <primitives/>
     <keyValues>
       <keyValue key="classname" value="atdm:moveable_candle_short"/>
-      <keyValue key="name" value="atdm_moveable_candle_short_14"/>
-      <keyValue key="origin" value="2332 4645 205"/>
-      <keyValue key="rotation" value="-2.33487e-16 1 0 -1 -2.33487e-16 0 0 0 1"/>
+      <keyValue key="name" value="atdm_moveable_candle_short_24"/>
+      <keyValue key="origin" value="-770.002 4486.06 69"/>
+      <keyValue key="rotation" value="2.33487e-16 -1 0 1 2.33487e-16 0 0 0 1"/>
     </keyValues>
     <layers>
-      <layer id="15"/>
+      <layer id="0"/>
     </layers>
     <selectionGroups>
-      <selectionGroup id="12240"/>
-      <selectionGroup id="12241"/>
+      <selectionGroup id="52"/>
+      <selectionGroup id="53"/>
     </selectionGroups>
     <selectionSets/>
   </entity>
@@ -5497,18 +5625,18 @@
       <patch number="0" width="3" height="3" fixedSubdivisions="false">
         <material name="textures/darkmod/decals/dirt/torch_smut_wall"/>
         <controlVertices>
-          <controlVertex row="0" column="0" x="2326.000000" y="4640.125000" z="220.000000" u="0" v="0"/>
-          <controlVertex row="1" column="0" x="2326.000000" y="4640.125000" z="211.000000" u="0" v="0.500000"/>
-          <controlVertex row="2" column="0" x="2326.000000" y="4640.125000" z="202.000000" u="0" v="1.000000"/>
-          <controlVertex row="0" column="1" x="2332.000000" y="4640.125000" z="220.000000" u="0.500000" v="0"/>
-          <controlVertex row="1" column="1" x="2332.000000" y="4640.125000" z="211.000000" u="0.500000" v="0.500000"/>
-          <controlVertex row="2" column="1" x="2332.000000" y="4640.125000" z="202.000000" u="0.500000" v="1.000000"/>
-          <controlVertex row="0" column="2" x="2338.000000" y="4640.125000" z="220.000000" u="1.000000" v="0"/>
-          <controlVertex row="1" column="2" x="2338.000000" y="4640.125000" z="211.000000" u="1.000000" v="0.500000"/>
-          <controlVertex row="2" column="2" x="2338.000000" y="4640.125000" z="202.000000" u="1.000000" v="1.000000"/>
+          <controlVertex row="0" column="0" x="-763.999775" y="4490.940125" z="84.000000" u="0" v="0"/>
+          <controlVertex row="1" column="0" x="-763.999775" y="4490.940125" z="75.000000" u="0" v="0.500000"/>
+          <controlVertex row="2" column="0" x="-763.999775" y="4490.940125" z="66.000000" u="0" v="1.000000"/>
+          <controlVertex row="0" column="1" x="-769.999775" y="4490.940125" z="84.000000" u="0.500000" v="0"/>
+          <controlVertex row="1" column="1" x="-769.999775" y="4490.940125" z="75.000000" u="0.500000" v="0.500000"/>
+          <controlVertex row="2" column="1" x="-769.999775" y="4490.940125" z="66.000000" u="0.500000" v="1.000000"/>
+          <controlVertex row="0" column="2" x="-775.999775" y="4490.940125" z="84.000000" u="1.000000" v="0"/>
+          <controlVertex row="1" column="2" x="-775.999775" y="4490.940125" z="75.000000" u="1.000000" v="0.500000"/>
+          <controlVertex row="2" column="2" x="-775.999775" y="4490.940125" z="66.000000" u="1.000000" v="1.000000"/>
         </controlVertices>
         <layers>
-          <layer id="11"/>
+          <layer id="0"/>
         </layers>
         <selectionGroups/>
         <selectionSets/>
@@ -5516,15 +5644,15 @@
     </primitives>
     <keyValues>
       <keyValue key="classname" value="func_static"/>
-      <keyValue key="name" value="func_static_1621"/>
-      <keyValue key="model" value="func_static_1621"/>
-      <keyValue key="origin" value="2332 4640 211"/>
+      <keyValue key="name" value="func_static_5475"/>
+      <keyValue key="model" value="func_static_5475"/>
+      <keyValue key="origin" value="-770.002 4491.06 75"/>
     </keyValues>
     <layers>
-      <layer id="11"/>
+      <layer id="0"/>
     </layers>
     <selectionGroups>
-      <selectionGroup id="12241"/>
+      <selectionGroup id="53"/>
     </selectionGroups>
     <selectionSets/>
   </entity>
